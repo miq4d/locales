@@ -1,0 +1,57 @@
+{
+  "help": {
+    "name": "Help",
+    "description": "Mentioning this bot in a reply message will generate an image from that message.",
+    "available_options": "Available options",
+    "separate": "If you specify more than one, separate them with `,`",
+    "font_name": "Font name",
+    "support_server": "Support Server"
+  },
+  "error": {
+    "error": "An error has occurred",
+    "message_fetch": "Failed to fetch the message",
+    "message_empty": "The message is empty",
+    "message_not_found": "I could not find the message you are referring to.",
+    "font_invalid": "Font not found: `{{font}}`",
+    "banned": "You or this server is banned from using this bot.",
+    "blocked": "Target user has blocked image generation. (or you've blocked image generation)",
+    "remove_not_allowed": "You are not allowed to remove the message.",
+    "bot_permissions": {
+      "guild": "I do not have the required permissions in this server.",
+      "channel": "I do not have the required permissions to run commands in this channel."
+    }
+  },
+  "server_settings": {
+    "language": {
+      "changed": "Language changed to `{{language}}`"
+    }
+  },
+  "user_settings": {
+    "block": {
+      "blocked": "You've blocked image generation.",
+      "unblocked": "You've unblocked image generation."
+    },
+    "default": {
+      "choose": "Choose a default option",
+      "placeholder": "Choose a default image option (optional)"
+    },
+    "font": {
+      "choose": "Choose a default font",
+      "placeholder": "Choose a font"
+    },
+    "type": {
+      "image": "Image",
+      "font": "Font"
+    },
+    "updated": "{{type}} settings updated!"
+  },
+  "options": {
+    "light": "Makes the background of the image white",
+    "color": "Color the user icon",
+    "flip": "Flip the image",
+    "bold": "Make the text bold",
+    "font": "Change the font to the specified one. [learn more]({{url}})"
+  },
+  "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator} ]",
+  "generating": "{{emoji}} Generating..."
+}

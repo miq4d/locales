@@ -1,0 +1,58 @@
+{
+  "help": {
+    "name": "ヘルプ",
+    "description": "メッセージへの返信でこの Bot をメンションすると、そのメッセージから画像を生成します。",
+    "available_options": "利用可能なオプション",
+    "separate": "複数指定する場合は、`,` で区切ってください",
+    "font_name": "フォント名",
+    "support_server": "サポートサーバー"
+  },
+  "error": {
+    "error": "エラーが発生しました",
+    "message_fetch": "対象のメッセージの取得に失敗しました",
+    "message_empty": "対象のメッセージが空白です",
+    "message_not_found": "対象のメッセージが見つかりませんでした",
+    "font_invalid": "`{{font}}` というフォントは存在しません",
+    "banned": "あなたもしくはこのサーバーはこの Bot の使用を禁止されています。",
+    "blocked": "相手が生成をブロックしています(もしくは、あなたが生成をブロックしています)",
+    "remove_not_allowed": "あなたはこの画像を削除する権限がありません。",
+    "bot_permissions": {
+      "guild": "このサーバーでこの Bot が必要な権限がありません。",
+      "channel": "このチャンネルでこの Bot が必要な権限がありません。"
+    }
+  },
+  "server_settings": {
+    "language": {
+      "changed": "サーバーの言語を `{{language}}` に変更しました"
+    }
+  },
+  "user_settings": {
+    "block": {
+      "blocked": "画像生成をブロックしました",
+      "unblocked": "画像生成のブロックを解除しました"
+    },
+    "default": {
+      "choose": "デフォルトオプションを選んでください",
+      "placeholder": "画像のオプションを選択(任意)"
+    },
+    "font": {
+      "choose": "デフォルトフォントを選んでください",
+      "placeholder": "フォントを選択"
+    },
+    "type": {
+      "image": "画像",
+      "font": "フォント"
+    },
+    "updated": "{{type}}設定を更新しました"
+  },
+  "options": {
+    "light": "画像の背景を白色にします",
+    "color": "アバターをカラーにします",
+    "flip": "画像の上下左右を反転します",
+    "bold": "テキストを太字にします",
+    "new": "new タイプの画像生成を使用します",
+    "font": "フォントを指定したものに変更します。[詳細]({{url}})"
+  },
+  "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} により削除されました ]",
+  "generating": "{{emoji}} 生成中..."
+}
