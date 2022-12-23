@@ -14,8 +14,8 @@
     "message_not_found": "対象のメッセージが見つかりませんでした",
     "font_invalid": "`{{font}}` というフォントは存在しません",
     "banned": "あなたもしくはこのサーバーはこの Bot の使用を禁止されています。",
-    "blocked": "相手が生成をブロックしています(もしくは、あなたが生成をブロックしています)",
-    "remove_not_allowed": "あなたはこの画像を削除する権限がありません。",
+    "blocked": "相手が生成をブロックしています (もしくは、あなたが生成をブロックしています)",
+    "remove_not_allowed": "あなたにこの画像を削除する権限がありません。",
     "bot_permissions": {
       "guild": "このサーバーでこの Bot が必要な権限がありません。",
       "channel": "このチャンネルでこの Bot が必要な権限がありません。"
@@ -53,6 +53,6 @@
     "new": "new タイプの画像生成を使用します",
     "font": "フォントを指定したものに変更します。[詳細]({{url}})"
   },
-  "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} により削除されました ]",
+  "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} により削除済み ]",
   "generating": "{{emoji}} 生成中..."
 }
