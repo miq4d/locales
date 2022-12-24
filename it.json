@@ -1,0 +1,58 @@
+{
+  "help": {
+    "name": "Aiuto",
+    "description": "Menzionare questo bot in un messaggio di risposta genererà un'immagine da quel messaggio.",
+    "available_options": "Opzioni disponibili",
+    "separate": "Se ne specifici più di una, separale con una `,`",
+    "font_name": "Nome del font",
+    "support_server": "Server di assistenza"
+  },
+  "error": {
+    "error": "Si è verificato un errore",
+    "message_fetch": "Impossibile recuperare il messaggio",
+    "message_empty": "Il messaggio è vuoto",
+    "message_not_found": "Non sono riuscito a trovare il messaggio a cui ti stai riferendo.",
+    "font_invalid": "Font non valido: `{{font}}`",
+    "banned": "All'utente o a questo server è vietato l'utilizzo di questo bot.",
+    "blocked": "L'utente di riferimento ha bloccato la generazione di immagini. (o hai bloccato la generazione di immagini)",
+    "remove_not_allowed": "Non sei autorizzato a rimuovere il messaggio.",
+    "bot_permissions": {
+      "guild": "Non ho i permessi necessari in questo server.",
+      "channel": "Non ho i permessi necessari per eseguire comandi in questo canale."
+    }
+  },
+  "server_settings": {
+    "language": {
+      "changed": "Lingua cambiata in `{{language}}`"
+    }
+  },
+  "user_settings": {
+    "block": {
+      "blocked": "Hai vietato la generazione di immagini.",
+      "unblocked": "Hai consentito la generazione di immagini."
+    },
+    "default": {
+      "choose": "Seleziona un'opzione predefinita",
+      "placeholder": "Scegli l'opzione dell'immagine predefinita (opzionale)"
+    },
+    "font": {
+      "choose": "Seleziona un font predefinito",
+      "placeholder": "Scegli un font"
+    },
+    "type": {
+      "image": "Immagine",
+      "font": "Font"
+    },
+    "updated": "Impostazioni dell'/del {{type}} aggiornate!"
+  },
+  "options": {
+    "light": "Rende lo sfondo dell'immagine bianco",
+    "color": "Colora l'icona dell'utente",
+    "flip": "Capovolge l'immagine",
+    "bold": "Rende il testo in grassetto",
+    "new": "Utilizza il nuovo metodo di generazione dell'immagine",
+    "font": "Cambia il font con quello specificato. [scopri di più]({{url}})"
+  },
+  "removed": "[ {{emoji}} Rimosso da **{{username}}**#{{discriminator}} ]",
+  "generating": "{{emoji}} Generazione..."
+}
