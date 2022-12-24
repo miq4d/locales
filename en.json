@@ -53,6 +53,6 @@
     "new": "Use new type image generation",
     "font": "Change the font to the specified one. [learn more]({{url}})"
   },
-  "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator} ]",
+  "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",
   "generating": "{{emoji}} Generating..."
 }
