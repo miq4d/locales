@@ -19,7 +19,8 @@
     "bot_permissions": {
       "guild": "Non ho i permessi necessari in questo server.",
       "channel": "Non ho i permessi necessari per eseguire comandi in questo canale."
-    }
+    },
+    "not_bot_admin": "Non sei un amministratore di questo bot."
   },
   "server_settings": {
     "language": {

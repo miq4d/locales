@@ -19,7 +19,8 @@
     "bot_permissions": {
       "guild": "このサーバーでこの Bot が必要な権限がありません。",
       "channel": "このチャンネルでこの Bot が必要な権限がありません。"
-    }
+    },
+    "not_bot_admin": "あなたはこの Bot の管理者ではありません。"
   },
   "server_settings": {
     "language": {
