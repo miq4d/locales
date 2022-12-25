@@ -19,7 +19,8 @@
     "bot_permissions": {
       "guild": "I do not have the required permissions in this server.",
       "channel": "I do not have the required permissions to run commands in this channel."
-    }
+    },
+    "not_bot_admin": "You are not a this bot's admin."
   },
   "server_settings": {
     "language": {
