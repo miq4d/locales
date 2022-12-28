@@ -5,7 +5,15 @@
     "available_options": "Available options",
     "separate": "If you specify more than one, separate them with `,`",
     "font_name": "Font name",
-    "support_server": "Support Server"
+    "example": {
+      "title": "Command Example",
+      "1": "Normal Quote",
+      "2": "Light Quote",
+      "3": "bold and flip Quote",
+      "4": "Color avatar Quote (font: pop)"
+    },
+    "support_server": "Support Server",
+    "not_related": "_* This Bot is not related to @MakeItAQuote on Twitter._"
   },
   "error": {
     "error": "An error has occurred",

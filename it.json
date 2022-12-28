@@ -5,7 +5,15 @@
     "available_options": "Opzioni disponibili",
     "separate": "Se ne specifici più di una, separale con una `,`",
     "font_name": "Nome del font",
-    "support_server": "Server di assistenza"
+    "example": {
+      "title": "Esempio di comando",
+      "1": "Normale Quote",
+      "2": "Sfondo bianco Quote",
+      "3": "Quote in grassetto e capovolta",
+      "4": "Le icone degli utenti sono colorate Quote (font: pop)"
+    },
+    "support_server": "Server di assistenza",
+    "not_related": "_* Questo Bot non è collegato a @MakeItAQuote su Twitter._"
   },
   "error": {
     "error": "Si è verificato un errore",
