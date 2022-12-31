@@ -6,14 +6,14 @@
     "separate": "Se ne specifici più di una, separale con una `,`",
     "font_name": "Nome del font",
     "example": {
-      "title": "Esempio di comando",
-      "1": "Normale Quote",
-      "2": "Sfondo bianco Quote",
-      "3": "Quote in grassetto e capovolta",
-      "4": "Le icone degli utenti sono colorate Quote (font: pop)"
+      "title": "Esempi di comandi",
+      "1": "Citazione normale",
+      "2": "Citazione con sfondo bianco",
+      "3": "Citazione in grassetto e riflessa",
+      "4": "Citazione con avatar colorato (font: pop)"
     },
     "support_server": "Server di assistenza",
-    "not_related": "_* Questo Bot non è collegato a @MakeItAQuote su Twitter._"
+    "not_related": "_* Questo Bot non è associato a @MakeItAQuote su Twitter._"
   },
   "error": {
     "error": "Si è verificato un errore",
@@ -57,7 +57,7 @@
   "options": {
     "light": "Rende lo sfondo dell'immagine bianco",
     "color": "Colora l'icona dell'utente",
-    "flip": "Capovolge l'immagine",
+    "flip": "Riflette l'immagine",
     "bold": "Rende il testo in grassetto",
     "new": "Utilizza il nuovo metodo di generazione dell'immagine",
     "font": "Cambia il font con quello specificato. [scopri di più]({{url}})"
