@@ -1,7 +1,7 @@
 {
   "help": {
     "name": "Help",
-    "description": "Mentioning this bot in a reply message will generate an image from that message.",
+    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
     "available_options": "Available options",
     "separate": "If you specify more than one, separate them with `,`",
     "font_name": "Font name",
