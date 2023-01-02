@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "lang": "日本語 [関西弁] (Japanese [Kansai-ben])",
+    "slug": "ja-KS"
+  },
   "help": {
     "name": "ヘルプ",
     "description": "メッセージへの返信でこの Bot をメンションしたら、そのメッセージから画像を作るで。",
@@ -32,6 +36,7 @@
   },
   "server_settings": {
     "language": {
+      "choose": "サーバーで使いたい言語を選んでや～",
       "changed": "サーバーの言語を `{{language}}` に変えたで～"
     }
   },

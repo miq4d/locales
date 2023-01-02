@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "lang": "English [United States]",
+    "slug": "en-US"
+  },
   "help": {
     "name": "Help",
     "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
@@ -32,6 +36,7 @@
   },
   "server_settings": {
     "language": {
+      "choose": "Choose the language you want to use on your server",
       "changed": "Language changed to `{{language}}`"
     }
   },

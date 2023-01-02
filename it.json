@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "lang": "Italiano (Italian)",
+    "slug": "it"
+  },
   "help": {
     "name": "Aiuto",
     "description": "Menzionare questo bot in un messaggio di risposta genererà un'immagine da quel messaggio.",
@@ -32,6 +36,7 @@
   },
   "server_settings": {
     "language": {
+      "choose": "Scegliere la lingua che si desidera utilizzare sul server",
       "changed": "Lingua cambiata in `{{language}}`"
     }
   },

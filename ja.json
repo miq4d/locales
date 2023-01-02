@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "lang": "日本語 (Japanese)",
+    "slug": "ja"
+  },
   "help": {
     "name": "ヘルプ",
     "description": "メッセージへの返信でこの Bot をメンションすると、そのメッセージから画像を生成します。",
@@ -32,6 +36,7 @@
   },
   "server_settings": {
     "language": {
+      "choose": "サーバーで使いたい言語を選んでください",
       "changed": "サーバーの言語を `{{language}}` に変更しました"
     }
   },
