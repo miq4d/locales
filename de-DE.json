@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "lang": "German [Germany]",
+    "slug": "de"
+  },
+  "help": {
+    "name": "Hilfe",
+    "description": "Wenn du den Bot in einer Antwort auf einer Nachricht erwähnst, generiert er ein Bild von dieser Nachricht.",
+    "available_options": "Verfügbare Optionen",
+    "separate": "Wenn du mehr als eine wählst, seperiere sie mit `,`",
+    "font_name": "Schriftart Name",
+    "example": {
+      "title": "Befehlsbeispiel",
+      "1": "normales Zitat",
+      "2": "helles Zizat",
+      "3": "fett und umgekehrtes Zitat",
+      "4": "farbiges Avatar Zitat (Schriftart: pop)"
+    },
+    "support_server": "Support Server",
+    "not_related": "_* Dieser Bot ist nicht verbunden mit @MakeItAQuote auf Twitter._"
+  },
+  "error": {
+    "error": "Ein Fehler ist aufgetreten",
+    "message_fetch": "Nachrichtenabfrage fehlgeschlagen",
+    "message_empty": "Die Nachricht ist leer",
+    "message_not_found": "Ich konnte die Nachricht nicht finden, auf die du Bezug nimmst.",
+    "font_invalid": "Schriftart nicht gefunden: `{{font}}`",
+    "banned": "Du oder dieser Server ist für die Nutzung dieses Bots gesperrt.",
+    "blocked": "Der Zielbenutzer hat die Bildgenerierung blockiert. (oder Sie haben die Bilderzeugung blockiert)",
+    "remove_not_allowed": "Du bist nicht berechtigt, die Nachricht zu entfernen.",
+    "bot_permissions": {
+      "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
+      "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen."
+    },
+    "not_bot_admin": "Du bist nicht der Admin dieses Bots."
+  },
+  "server_settings": {
+    "language": {
+      "choose": "Wähle die Sprache, die du auf deinem Server verwenden möchtest",
+      "changed": "Sprache geändert auf `{{language}}`"
+    }
+  },
+  "user_settings": {
+    "block": {
+      "blocked": "Du hast die Bilderzeugung blockiert.",
+      "unblocked": "Du hast die Bilderzeugung freigegeben."
+    },
+    "default": {
+      "choose": "Wähle eine standard Option",
+      "placeholder": "Wähle eine standard Bild Option (optional)"
+    },
+    "font": {
+      "choose": "Wähle eine standard Schriftart",
+      "placeholder": "Wähle eine Schriftart"
+    },
+    "type": {
+      "image": "Bild",
+      "font": "Schriftart"
+    },
+    "updated": "{{type}} Einstellungen aktualisiert!"
+  },
+  "options": {
+    "light": "Macht den Hintergrund des Bildes weiß",
+    "color": "Farbiges User Icon",
+    "flip": "Bild umkehren",
+    "bold": "fetter Text",
+    "new": "Nutze den neuen Generierungs typ",
+    "font": "Ändere die Schriftart in die angegebene [mehr erfahren]({{url}})"
+  },
+  "removed": "[ {{emoji}} Entfernt von **{{username}}**#{{discriminator}} ]",
+  "generating": "{{emoji}} Generierung..."
+}
