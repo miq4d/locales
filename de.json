@@ -67,6 +67,7 @@
     "new": "Nutze den neuen Generierungs typ",
     "font": "Ändere die Schriftart in die angegebene [mehr erfahren]({{url}})"
   },
+  "jump_to": "Zur ursprünglichen Nachricht springen",
   "removed": "[ {{emoji}} Entfernt von **{{username}}**#{{discriminator}} ]",
   "generating": "{{emoji}} Generierung..."
 }

@@ -67,6 +67,7 @@
     "new": "new タイプの画像生成を使用するで",
     "font": "フォントを指定したものに変更するで。[詳細]({{url}})"
   },
+  "jump_to": "元メッセージに飛んでく",
   "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} が消したっぽいわ ]",
   "generating": "{{emoji}} 画像作ってるで～"
 }

@@ -67,6 +67,7 @@
     "new": "Use new type image generation",
     "font": "Change the font to the specified one. [learn more]({{url}})"
   },
+  "jump_to": "Jump to original message",
   "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",
   "generating": "{{emoji}} Generating..."
 }
