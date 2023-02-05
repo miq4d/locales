@@ -71,5 +71,6 @@
   "jump_to": "Jump to original message",
   "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",
   "generating": "{{emoji}} Generating...",
-  "custom_quote": "Custom Quote"
+  "custom_quote": "Custom Quote",
+  "text": "Text"
 }
