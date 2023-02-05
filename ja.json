@@ -70,5 +70,6 @@
   },
   "jump_to": "元メッセージへ飛ぶ",
   "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} により削除済み ]",
-  "generating": "{{emoji}} 生成中..."
+  "generating": "{{emoji}} 生成中...",
+  "custom_quote": "カスタム Quote"
 }

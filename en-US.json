@@ -70,5 +70,6 @@
   },
   "jump_to": "Jump to original message",
   "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",
-  "generating": "{{emoji}} Generating..."
+  "generating": "{{emoji}} Generating...",
+  "custom_quote": "Custom Quote"
 }
