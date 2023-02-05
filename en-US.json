@@ -32,7 +32,8 @@
       "guild": "I do not have the required permissions in this server.",
       "channel": "I do not have the required permissions to run commands in this channel."
     },
-    "not_bot_admin": "You are not a this bot's admin."
+    "not_bot_admin": "You are not a this bot's admin.",
+    "custom_quote_not_allowed": "The target user or you does not allow custom quotes."
   },
   "server_settings": {
     "language": {

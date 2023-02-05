@@ -32,7 +32,8 @@
       "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
       "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen."
     },
-    "not_bot_admin": "Du bist nicht der Admin dieses Bots."
+    "not_bot_admin": "Du bist nicht der Admin dieses Bots.",
+    "custom_quote_not_allowed": "Der Zielbenutzer oder die Zielbenutzer haben die Erstellung von benutzerdefinierten Bildern nicht erlaubt."
   },
   "server_settings": {
     "language": {
