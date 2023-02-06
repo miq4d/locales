@@ -46,6 +46,10 @@
       "blocked": "画像生成をブロックしました",
       "unblocked": "画像生成のブロックを解除しました"
     },
+    "custom_quote": {
+      "allowed": "カスタム Quote を許可しました",
+      "disallowed": "カスタム Quote の許可を解除しました"
+    },
     "default": {
       "choose": "デフォルトオプションを選んでください",
       "placeholder": "画像のオプションを選択 (任意)"

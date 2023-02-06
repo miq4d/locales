@@ -46,6 +46,10 @@
       "blocked": "Hai vietato la generazione di immagini.",
       "unblocked": "Hai consentito la generazione di immagini."
     },
+    "custom_quote": {
+      "allowed": "Hai consentito la generazione di immagini personalizzate.",
+      "disallowed": "Hai vietato la generazione di immagini personalizzate."
+    },
     "default": {
       "choose": "Seleziona un'opzione predefinita",
       "placeholder": "Scegli l'opzione dell'immagine predefinita (opzionale)"
