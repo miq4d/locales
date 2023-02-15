@@ -70,7 +70,10 @@
     "flip": "Flip the image",
     "bold": "Make the text bold",
     "new": "Use new type image generation",
-    "font": "Change the font to the specified one. [learn more]({{url}})"
+    "font": "Change the font to the specified one. [learn more]({{url}})",
+    "disable_auto_truncate": "Disable automatic truncation of the message (Exclude CustomQuote)",
+    "disable_budoux": "Disable BudouX",
+    "disable_auto_newline": "Disable automatic newline insertion (Danger!)"
   },
   "jump_to": "Jump to original message",
   "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",

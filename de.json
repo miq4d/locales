@@ -70,7 +70,10 @@
     "flip": "Bild umkehren",
     "bold": "fetter Text",
     "new": "Nutze den neuen Generierungs typ",
-    "font": "Ändere die Schriftart in die angegebene [mehr erfahren]({{url}})"
+    "font": "Ändere die Schriftart in die angegebene [mehr erfahren]({{url}})",
+    "disable_auto_truncate": "Text nicht automatisch kürzen (deaktiviert für CustomQuote).",
+    "disable_budoux": "BudouX wird nicht verwendet",
+    "disable_auto_newline": "Fügt keine automatischen Zeilenumbrüche ein (Gefahr!)."
   },
   "jump_to": "Zur ursprünglichen Nachricht springen",
   "removed": "[ {{emoji}} Entfernt von **{{username}}**#{{discriminator}} ]",

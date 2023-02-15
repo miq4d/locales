@@ -70,7 +70,10 @@
     "flip": "画像の上下左右を反転します",
     "bold": "テキストを太字にします",
     "new": "new タイプの画像生成を使用します",
-    "font": "フォントを指定したものに変更します。[詳細]({{url}})"
+    "font": "フォントを指定したものに変更します。[詳細]({{url}})",
+    "disable_auto_truncate": "自動でテキストを切り捨てないようにします (CustomQuote時は無効)",
+    "disable_budoux": "Budoux を使用しないようにします",
+    "disable_auto_newline": "自動で改行しないようにします (危険！)"
   },
   "jump_to": "元メッセージへ飛ぶ",
   "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} により削除済み ]",
