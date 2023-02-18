@@ -1,0 +1,23 @@
+{
+  "block": {
+    "blocked": "Du hast die Bilderzeugung blockiert.",
+    "unblocked": "Du hast die Bilderzeugung freigegeben."
+  },
+  "custom_quote": {
+    "allowed": "Du hast die Erstellung von benutzerdefinierten Bildern erlaubt.",
+    "disallowed": "Du hast die Erstellung von benutzerdefinierten Bildern nicht erlaubt."
+  },
+  "default": {
+    "choose": "Wähle eine standard Option",
+    "placeholder": "Wähle eine standard Bild Option (optional)"
+  },
+  "font": {
+    "choose": "Wähle eine standard Schriftart",
+    "placeholder": "Wähle eine Schriftart"
+  },
+  "type": {
+    "image": "Bild",
+    "font": "Schriftart"
+  },
+  "updated": "{{type}} Einstellungen aktualisiert!"
+}

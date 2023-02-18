@@ -1,0 +1,23 @@
+{
+  "block": {
+    "blocked": "You've blocked image generation.",
+    "unblocked": "You've unblocked image generation."
+  },
+  "custom_quote": {
+    "allowed": "You've enabled custom quotes.",
+    "disallowed": "You've disabled custom quotes."
+  },
+  "default": {
+    "choose": "Choose a default option",
+    "placeholder": "Choose a default image option (optional)"
+  },
+  "font": {
+    "choose": "Choose a default font",
+    "placeholder": "Choose a font"
+  },
+  "type": {
+    "image": "Image",
+    "font": "Font"
+  },
+  "updated": "{{type}} settings updated!"
+}

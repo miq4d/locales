@@ -1,0 +1,16 @@
+{
+  "name": "Hilfe",
+  "description": "Wenn du den Bot in einer Antwort auf einer Nachricht erwähnst, generiert er ein Bild von dieser Nachricht.",
+  "available_options": "Verfügbare Optionen",
+  "separate": "Wenn du mehr als eine wählst, seperiere sie mit `,`",
+  "font_name": "Schriftart Name",
+  "example": {
+    "title": "Befehlsbeispiel",
+    "1": "normales Zitat",
+    "2": "helles Zizat",
+    "3": "fett und umgekehrtes Zitat",
+    "4": "farbiges Avatar Zitat (Schriftart: pop)"
+  },
+  "support_server": "Support Server",
+  "not_related": "_* Dieser Bot ist nicht verbunden mit @MakeItAQuote auf Twitter._"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ヘルプ",
+  "description": "メッセージへの返信でこの Bot をメンションすると、そのメッセージから画像を生成します。",
+  "available_options": "利用可能なオプション",
+  "separate": "複数指定する場合は、`,` で区切ってください",
+  "font_name": "フォント名",
+  "example": {
+    "title": "使用例",
+    "1": "普通の Quote",
+    "2": "背景が白い Quote",
+    "3": "太字で上下左右が反転している Quote",
+    "4": "ユーザーアイコンがカラーな Quote (フォントは pop)"
+  },
+  "support_server": "サポートサーバー",
+  "not_related": "_※この Bot は Twitter の @MakeItAQuote とは一切関係がありません。_"
+}

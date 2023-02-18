@@ -1,0 +1,16 @@
+{
+  "name": "Help",
+  "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
+  "available_options": "Available options",
+  "separate": "If you specify more than one, separate them with `,`",
+  "font_name": "Font name",
+  "example": {
+    "title": "Command Example",
+    "1": "Normal Quote",
+    "2": "Light Quote",
+    "3": "bold and flip Quote",
+    "4": "Color avatar Quote (font: pop)"
+  },
+  "support_server": "Support Server",
+  "not_related": "_* This Bot is not related to @MakeItAQuote on Twitter._"
+}

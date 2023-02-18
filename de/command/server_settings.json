@@ -1,0 +1,6 @@
+{
+  "language": {
+    "choose": "Wähle die Sprache, die du auf deinem Server verwenden möchtest",
+    "changed": "Sprache geändert auf `{{language}}`"
+  }
+}
