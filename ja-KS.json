@@ -1,83 +1,83 @@
 {
   "meta": {
-    "lang": "日本語 [関西弁] (Japanese [Kansai-ben])",
-    "slug": "ja-KS"
+    "lang": "English [United States]",
+    "slug": "en-US"
   },
   "help": {
-    "name": "ヘルプ",
-    "description": "メッセージへの返信でこの Bot をメンションしたら、そのメッセージから画像を作るで。",
-    "available_options": "使えるオプション",
-    "separate": "複数指定したかったら `,` で区切ってな",
-    "font_name": "フォント名",
+    "name": "Help",
+    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
+    "available_options": "Available options",
+    "separate": "If you specify more than one, separate them with `,`",
+    "font_name": "Font name",
     "example": {
-      "title": "使用例",
-      "1": "普通の Quote",
-      "2": "背景が白い Quote",
-      "3": "太字で上下左右が反転している Quote",
-      "4": "ユーザーアイコンがカラーな Quote (フォントは pop)"
+      "title": "Command Example",
+      "1": "Normal Quote",
+      "2": "Light Quote",
+      "3": "bold and flip Quote",
+      "4": "Color avatar Quote (font: pop)"
     },
-    "support_server": "サポートサーバー",
-    "not_related": "_※この Bot は Twitter の @MakeItAQuote とは一切関係ないで。_"
+    "support_server": "Support Server",
+    "not_related": "_* This Bot is not related to @MakeItAQuote on Twitter._"
   },
   "error": {
-    "error": "なんかエラー出たみたいや",
-    "message_fetch": "対象のメッセージが取得できなかったみたいや",
-    "message_empty": "対象のメッセージが空白らしいで",
-    "message_not_found": "対象のメッセージが見つからんかったで",
-    "font_invalid": "`{{font}}` っていうフォントは存在しないみたいや",
-    "banned": "あなたもしくはこのサーバーはこの Bot の使用を禁止されてるで。",
-    "blocked": "相手が生成をブロックしてるみたいやわ (それか、あなたが生成をブロックしてるかもしれん)",
-    "remove_not_allowed": "あなたにこの画像を削除する権限がないっぽいわ。",
+    "error": "An error has occurred",
+    "message_fetch": "Failed to fetch the message",
+    "message_empty": "The message is empty",
+    "message_not_found": "I could not find the message you are referring to.",
+    "font_invalid": "Font not found: `{{font}}`",
+    "banned": "You or this server is banned from using this bot.",
+    "blocked": "Target user has blocked image generation. (or you've blocked image generation)",
+    "remove_not_allowed": "You are not allowed to remove the message.",
     "bot_permissions": {
-      "guild": "このサーバーでこの Bot が必要な権限がないっぽいわ。",
-      "channel": "このチャンネルでこの Bot が必要な権限がないっぽいわ。"
+      "guild": "I do not have the required permissions in this server.",
+      "channel": "I do not have the required permissions to run commands in this channel."
     },
-    "not_bot_admin": "あなたはこの Bot の管理者じゃないっぽいわ。",
-    "custom_quote_not_allowed": "相手もしくはあなたがカスタム画像生成を許可してないみたいやわ。"
+    "not_bot_admin": "You are not a this bot's admin.",
+    "custom_quote_not_allowed": "The target user or you does not allow custom quotes."
   },
   "server_settings": {
     "language": {
-      "choose": "サーバーで使いたい言語を選んでや～",
-      "changed": "サーバーの言語を `{{language}}` に変えたで～"
+      "choose": "Choose the language you want to use on your server",
+      "changed": "Language changed to `{{language}}`"
     }
   },
   "user_settings": {
     "block": {
-      "blocked": "画像生成をブロックしたで～",
-      "unblocked": "画像生成のブロックを解除したで～"
+      "blocked": "You've blocked image generation.",
+      "unblocked": "You've unblocked image generation."
     },
     "custom_quote": {
-      "allowed": "カスタム画像生成を許可したで～",
-      "disallowed": "カスタム画像生成を禁止したで～"
+      "allowed": "You've enabled custom quotes.",
+      "disallowed": "You've disabled custom quotes."
     },
     "default": {
-      "choose": "デフォルトオプションを選んでや～",
-      "placeholder": "画像のオプションを選んでや (選ばんくてもいいで)"
+      "choose": "Choose a default option",
+      "placeholder": "Choose a default image option (optional)"
     },
     "font": {
-      "choose": "デフォルトフォントを選んでや～",
-      "placeholder": "フォントを選んでや"
+      "choose": "Choose a default font",
+      "placeholder": "Choose a font"
     },
     "type": {
-      "image": "画像",
-      "font": "フォント"
+      "image": "Image",
+      "font": "Font"
     },
-    "updated": "{{type}}設定を更新したで～"
+    "updated": "{{type}} settings updated!"
   },
   "options": {
-    "light": "画像の背景を白色にするで",
-    "color": "アバターをカラーにするで",
-    "flip": "画像の上下左右を反転するで",
-    "bold": "テキストを太字にするで",
-    "new": "new タイプの画像生成を使用するで",
-    "font": "フォントを指定したものに変更するで。[詳細]({{url}})",
-    "disable_auto_truncate": "自動でテキストを切り捨てないで (CustomQuote時は無効)",
-    "disable_budoux": "Budoux を使わないで",
-    "disable_auto_newline": "自動で改行を入れないで (危険)！"
+    "light": "Makes the background of the image white",
+    "color": "Color the user icon",
+    "flip": "Flip the image",
+    "bold": "Make the text bold",
+    "new": "Use new type image generation",
+    "font": "Change the font to the specified one. [learn more]({{url}})",
+    "disable_auto_truncate": "Disable automatic truncation of the message (Exclude CustomQuote)",
+    "disable_budoux": "Disable BudouX",
+    "disable_auto_newline": "Disable automatic newline insertion (Danger!)"
   },
-  "jump_to": "元メッセージに飛んでく",
-  "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} が消したっぽいわ ]",
-  "generating": "{{emoji}} 画像作ってるで～",
-  "custom_quote": "カスタム Quote",
-  "text": "テキスト"
+  "jump_to": "Jump to original message",
+  "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",
+  "generating": "{{emoji}} Generating...",
+  "custom_quote": "Custom Quote",
+  "text": "Text"
 }
