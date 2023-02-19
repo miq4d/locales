@@ -5,7 +5,7 @@
   "bold": "Rende il testo in grassetto",
   "new": "Utilizza il nuovo metodo di generazione dell'immagine",
   "font": "Cambia il font con quello specificato. [scopri di più]({{url}})",
-  "disable_auto_truncate": "Disabilita il troncamento automaticamente del testo (Disattivato per CustomQuote).",
+  "disable_auto_truncate": "Disabilita il troncamento automatico del testo (Disattivato per CustomQuote).",
   "disable_budoux": "Disabilita BudouX",
   "disable_auto_newline": "Disabilita l'inserimento a capo automatico (Attenzione!)"
 }
