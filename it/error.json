@@ -12,5 +12,5 @@
     "channel": "Non ho i permessi necessari per eseguire comandi in questo canale."
   },
   "not_bot_admin": "Non sei un amministratore di questo bot.",
-  "custom_quote_not_allowed": "L'utente di destinazione o l'utente non ha consentito la generazione di immagini personalizzate."
+  "custom_quote_not_allowed": "L'utente di destinazione o l'utente non ha consentito la generazione di citazioni personalizzate."
 }
