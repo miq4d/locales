@@ -4,12 +4,12 @@
     "unblocked": "Hai consentito la generazione di immagini."
   },
   "custom_quote": {
-    "allowed": "Hai consentito la generazione di citazioni personalizzate.",
-    "disallowed": "Hai vietato la generazione di citazioni personalizzate."
+    "allowed": "Hai consentito la generazione di immagini personalizzate.",
+    "disallowed": "Hai vietato la generazione di immagini personalizzate."
   },
   "default": {
     "choose": "Seleziona un'opzione predefinita",
-    "placeholder": "Scegli l'opzione dell'immagine predefinita (Opzionale)"
+    "placeholder": "Scegli l'opzione dell'immagine predefinita (opzionale)"
   },
   "font": {
     "choose": "Seleziona un font predefinito",
