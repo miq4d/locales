@@ -12,5 +12,9 @@
     "channel": "このチャンネルでこの Bot が必要な権限がありません。"
   },
   "not_bot_admin": "あなたはこの Bot の管理者ではありません。",
-  "custom_quote_not_allowed": "このユーザーもしくはあなたがカスタム Quote を許可していません。"
+  "custom_quote_not_allowed": "このユーザーもしくはあなたがカスタム Quote を許可していません。",
+  "cooldown": {
+    "title": "落ち着いて！",
+    "desc": "クールダウンがあります。あと {{sec}}秒待ってください"
+  }
 }
