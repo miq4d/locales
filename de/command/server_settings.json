@@ -2,5 +2,9 @@
   "language": {
     "choose": "Wähle die Sprache, die du auf deinem Server verwenden möchtest",
     "changed": "Sprache geändert auf `{{language}}`"
+  },
+  "cooldown": {
+    "set": "Abklingzeit auf {{sec}} Sekunden gesetzt",
+    "set_0": "Abklingzeiten entfernt"
   }
 }
