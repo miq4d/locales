@@ -2,5 +2,9 @@
   "language": {
     "choose": "Scegliere la lingua che si desidera utilizzare sul server",
     "changed": "Lingua cambiata in `{{language}}`"
+  },
+  "cooldown": {
+    "set": "Cooldown impostato a {{sec}} secondi",
+    "set_0": "Rimossi i cooldown"
   }
 }
