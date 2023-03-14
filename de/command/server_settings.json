@@ -6,5 +6,9 @@
   "cooldown": {
     "set": "Abklingzeit auf {{sec}} Sekunden gesetzt",
     "set_0": "Abklingzeiten entfernt"
+  },
+  "redirect": {
+    "disabled": "Die Umleitungen wurden deaktiviert",
+    "enabled": "<#{{id}}> Aktivierte Einstellung für die Umleitung zum Kanal"
   }
 }
