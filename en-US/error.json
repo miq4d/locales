@@ -16,5 +16,6 @@
   "cooldown": {
     "title": "Calm down.",
     "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
-  }
+  },
+  "channel_not_found": "The channel to which I am redirecting could not be found. Please contact the administrator of this server."
 }

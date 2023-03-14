@@ -16,5 +16,6 @@
   "cooldown": {
     "title": "Calma.",
     "desc": "Questo server ha un cooldown di citazione, attendere {{sec}} secondi."
-  }
+  },
+  "channel_not_found": "Non è stato possibile trovare il canale a cui reindirizzare. Contattare l'amministratore di questo server"
 }

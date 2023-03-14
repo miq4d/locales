@@ -3,5 +3,6 @@
   "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",
   "generating": "{{emoji}} Generating...",
   "custom_quote": "Custom Quote",
-  "text": "Text"
+  "text": "Text",
+  "redirected": "Created: {{url}}"
 }
