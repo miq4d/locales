@@ -6,5 +6,9 @@
   "cooldown": {
     "set": "Cooldown impostato a {{sec}} secondi",
     "set_0": "Rimossi i cooldown"
+  },
+  "redirect": {
+    "disabled": "Reindirizzamenti disattivati",
+    "enabled": "Impostazione abilitata per il reindirizzamento al canale <#{{id}}>"
   }
 }
