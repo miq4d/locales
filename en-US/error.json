@@ -6,6 +6,7 @@
   "font_invalid": "Font not found: `{{font}}`",
   "banned": "You or this server is banned from using this bot.",
   "blocked": "Target user has blocked image generation. (or you've blocked image generation)",
+  "blocked_with_spoiler": "Target user has blocked image generation from Spoiler-included message. (or you've blocked image generation)",
   "remove_not_allowed": "You are not allowed to remove the message.",
   "bot_permissions": {
     "guild": "I do not have the required permissions in this server.",
