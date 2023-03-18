@@ -6,6 +6,7 @@
   "font_invalid": "Font non valido: `{{font}}`",
   "banned": "All'utente o a questo server è vietato l'utilizzo di questo bot.",
   "blocked": "L'utente di riferimento ha bloccato la generazione di immagini. (o hai bloccato la generazione di immagini)",
+  "blocked_with_spoiler": "L'utente di destinazione sta bloccando la generazione di immagini dai messaggi contenenti spoiler. (o hai bloccato la generazione di immagini)",
   "remove_not_allowed": "Non sei autorizzato a rimuovere il messaggio.",
   "bot_permissions": {
     "guild": "Non ho i permessi necessari in questo server.",
