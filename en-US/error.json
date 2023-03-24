@@ -6,6 +6,7 @@
   "font_invalid": "Font not found: `{{font}}`",
   "banned": "You or this server is banned from using this bot.",
   "blocked": "Target user has blocked image generation. (or you've blocked image generation)",
+  "blocked_with_spoiler": "Target user has blocked image generation from Spoiler-included message. (or you've blocked image generation)",
   "remove_not_allowed": "You are not allowed to remove the message.",
   "bot_permissions": {
     "guild": "I do not have the required permissions in this server.",
@@ -16,5 +17,6 @@
   "cooldown": {
     "title": "Calm down.",
     "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
-  }
+  },
+  "channel_not_found": "The channel to which I am redirecting could not be found. Please contact the administrator of this server."
 }

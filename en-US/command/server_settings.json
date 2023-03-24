@@ -2,5 +2,13 @@
   "language": {
     "choose": "Choose the language you want to use on your server",
     "changed": "Language changed to `{{language}}`"
+  },
+  "cooldown": {
+    "set": "Cooldown set to {{sec}} second(s)",
+    "set_0": "Removed cooldowns"
+  },
+  "redirect": {
+    "disabled": "Redirects have been disabled",
+    "enabled": "Enabled setting to redirect to <#{{id}}> channel"
   }
 }
