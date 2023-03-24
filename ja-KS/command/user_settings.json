@@ -1,23 +1,23 @@
 {
   "block": {
-    "blocked": "画像生成をブロックしたで～",
-    "unblocked": "画像生成のブロックを解除したで～"
+    "blocked": "画像生成をブロックしたで",
+    "unblocked": "画像生成のブロックを解除したで"
   },
   "custom_quote": {
-    "allowed": "カスタム画像生成を許可したで～",
-    "disallowed": "カスタム画像生成を禁止したで～"
+    "allowed": "カスタム画像生成を許可したで",
+    "disallowed": "カスタム画像生成を禁止したで"
   },
   "default": {
-    "choose": "デフォルトオプションを選んでや～",
+    "choose": "デフォルトオプションを選んでな",
     "placeholder": "画像のオプションを選んでや (選ばんくてもいいで)"
   },
   "font": {
-    "choose": "デフォルトフォントを選んでや～",
-    "placeholder": "フォントを選んでや"
+    "choose": "デフォルトフォントを選んでな",
+    "placeholder": "フォントを選んでな"
   },
   "type": {
     "image": "画像",
     "font": "フォント"
   },
-  "updated": "{{type}}設定を更新したで～"
+  "updated": "{{type}} 設定を更新したで"
 }
