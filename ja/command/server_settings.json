@@ -3,13 +3,18 @@
     "description": "サーバー設定",
     "options": {
       "language": {
-        "description": "サーバーでの Bot の言語を変更"
+        "description": "サーバーでの Bot の言語を変更",
+        "options": {
+          "set_to": {
+            "description": "Language you want to use on the server"
+          }
+        }
       },
       "cooldown": {
         "description": "Quote のクールダウンを設定",
         "options": {
           "set_to": {
-            "description": "Quote cooldown (seconds, Omit to remove cooldown)"
+            "description": "Quote cooldown (seconds, 0 to remove cooldown)"
           }
         }
       },
@@ -24,7 +29,6 @@
     }
   },
   "language": {
-    "choose": "サーバーで使いたい言語を選んでください",
     "changed": "サーバーの言語を `{{language}}` に変更しました"
   },
   "cooldown": {
