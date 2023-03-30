@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "description": "Show Bot Help"
+  },
   "name": "Help",
   "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
   "available_options": "Available options",
