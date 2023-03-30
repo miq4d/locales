@@ -1,23 +1,23 @@
 {
   "meta": {
-    "description": "Server settings",
+    "description": "サーバー設定",
     "options": {
       "language": {
-        "description": "Change Bot Language on Server"
+        "description": "サーバーでの Bot の言語を変更"
       },
       "cooldown": {
-        "description": "Set Quote cooldown",
+        "description": "Quote のクールダウンを設定",
         "options": {
           "set_to": {
-            "description": "Quote cooldown (seconds, 0 to remove cooldown)"
+            "description": "Quote cooldown (seconds, Omit to remove cooldown)"
           }
         }
       },
       "redirect": {
-        "description": "Redirect Quotes",
+        "description": "Quote の転送",
         "options": {
           "redirect_to": {
-            "description": "Redirect channel (Omit to disable)"
+            "description": "転送先のチャンネル (省略で無効化)"
           }
         }
       }
