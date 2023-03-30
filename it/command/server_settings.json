@@ -9,7 +9,7 @@
         "description": "Set Quote cooldown",
         "options": {
           "set_to": {
-            "description": "Quote cooldown (seconds, 0 to remove cooldown)"
+            "description": "Quote cooldown (seconds, Omit to remove cooldown)"
           }
         }
       },
