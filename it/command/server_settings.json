@@ -1,4 +1,28 @@
 {
+  "meta": {
+    "description": "Server settings",
+    "options": {
+      "language": {
+        "description": "Change Bot Language on Server"
+      },
+      "cooldown": {
+        "description": "Set Quote cooldown",
+        "options": {
+          "set_to": {
+            "description": "Quote cooldown (seconds, 0 to remove cooldown)"
+          }
+        }
+      },
+      "redirect": {
+        "description": "Redirect Quotes",
+        "options": {
+          "redirect_to": {
+            "description": "Redirect channel (Omit to disable)"
+          }
+        }
+      }
+    }
+  },
   "language": {
     "choose": "Scegliere la lingua che si desidera utilizzare sul server",
     "changed": "Lingua cambiata in `{{language}}`"
