@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "description": "Show Bot Help"
+  },
   "name": "ヘルプ",
   "description": "メッセージへの返信でこの Bot をメンションしたら、そのメッセージから画像を作るで。",
   "available_options": "使えるオプション",

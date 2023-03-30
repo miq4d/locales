@@ -1,4 +1,41 @@
 {
+  "meta": {
+    "description": "ユーザー設定",
+    "options": {
+      "block": {
+        "description": "画像の生成をブロックする設定",
+        "options": {
+          "set_to": {
+            "description": "ブロック設定",
+            "choices": {
+              "always": "常に",
+              "spoiler": "スポイラーのみ",
+              "never": "ブロックしない"
+            }
+          }
+        }
+      },
+      "default": {
+        "description": "画像生成のデフォルト設定を変更",
+        "options": {
+          "image": {
+            "description": "画像のデフォルト設定を編集"
+          },
+          "font": {
+            "description": "フォントのデフォルト設定を編集"
+          }
+        }
+      },
+      "custom_quote": {
+        "description": "カスタム Quote を許可する設定",
+        "options": {
+          "set_to": {
+            "description": "許可するかどうか"
+          }
+        }
+      }
+    }
+  },
   "block": {
     "blocked": "画像生成をブロックしました",
     "unblocked": "画像生成のブロックを解除しました"

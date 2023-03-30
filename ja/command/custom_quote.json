@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "description": "カスタム Quote 画像を生成",
+    "options": {
+      "quote_as": {
+        "description": "発言主 (デフォルト: あなた)"
+      }
+    }
+  }
+}
