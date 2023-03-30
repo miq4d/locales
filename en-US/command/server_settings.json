@@ -3,7 +3,12 @@
     "description": "Server settings",
     "options": {
       "language": {
-        "description": "Change Bot Language on Server"
+        "description": "Change Bot Language on Server",
+        "options": {
+          "set_to": {
+            "description": "Language you want to use on the server"
+          }
+        }
       },
       "cooldown": {
         "description": "Set Quote cooldown",
@@ -24,7 +29,6 @@
     }
   },
   "language": {
-    "choose": "Choose the language you want to use on your server",
     "changed": "Language changed to `{{language}}`"
   },
   "cooldown": {
