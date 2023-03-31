@@ -1,17 +1,17 @@
 {
   "meta": {
-    "description": "Server settings",
+    "description": "Impostazioni del server",
     "options": {
       "language": {
-        "description": "Change Bot Language on Server",
+        "description": "Cambia la lingua del bot sul server",
         "options": {
           "set_to": {
-            "description": "Language you want to use on the server"
+            "description": "Lingua che desideri utilizzare sul server"
           }
         }
       },
       "cooldown": {
-        "description": "Set Quote cooldown",
+        "description": "Imposta il tempo di recupero della citazione",
         "options": {
           "set_to": {
             "description": "Quote cooldown (seconds, 0 to remove cooldown)"
@@ -19,10 +19,10 @@
         }
       },
       "redirect": {
-        "description": "Redirect Quotes",
+        "description": "Citazioni di reindirizzamento",
         "options": {
           "redirect_to": {
-            "description": "Redirect channel (Omit to disable)"
+            "description": "Reindirizza canale (Ometti per disabilitare)"
           }
         }
       }
