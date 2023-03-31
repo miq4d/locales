@@ -1,9 +1,9 @@
 {
   "meta": {
-    "description": "Generate custom quote image",
+    "description": "カスタム Quote 画像を生成",
     "options": {
       "quote_as": {
-        "description": "Quote as (default: You)"
+        "description": "発言主 (デフォルト: あなた)"
       }
     }
   }
