@@ -6,7 +6,7 @@
         "description": "サーバーでの Bot の言語を変更",
         "options": {
           "set_to": {
-            "description": "Language you want to use on the server"
+            "description": "サーバーで使いたい言語"
           }
         }
       },
