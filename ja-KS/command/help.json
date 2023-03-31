@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "Bot のヘルプを表示するで"
   },
   "name": "ヘルプ",
   "description": "メッセージへの返信でこの Bot をメンションしたら、そのメッセージから画像を作るで。",
