@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "Mostra aiuto bot"
   },
   "name": "Aiuto",
   "description": "Menzionare questo bot in un messaggio di risposta genererà un'immagine da quel messaggio.",
