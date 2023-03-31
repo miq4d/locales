@@ -1,36 +1,36 @@
 {
   "meta": {
-    "description": "User settings",
+    "description": "Impostazioni utente",
     "options": {
       "block": {
-        "description": "Settings to block image generation",
+        "description": "Impostazioni per bloccare la generazione di immagini",
         "options": {
           "set_to": {
-            "description": "Block settings",
+            "description": "Impostazioni di blocco",
             "choices": {
-              "always": "Always",
-              "spoiler": "Only spoiler",
-              "never": "No block"
+              "always": "Sempre",
+              "spoiler": "Solo spoiler",
+              "never": "Nessun blocco"
             }
           }
         }
       },
       "default": {
-        "description": "Edit default settings for image generation",
+        "description": "Modifica le impostazioni predefinite per la generazione di immagini",
         "options": {
           "image": {
-            "description": "Edit default image settings"
+            "description": "Modifica le impostazioni predefinite dell'immagine"
           },
           "font": {
-            "description": "Edit default font settings"
+            "description": "Modifica le impostazioni predefinite dei caratteri"
           }
         }
       },
       "custom_quote": {
-        "description": "Settings to allow custom quote",
+        "description": "Impostazioni per consentire un preventivo personalizzato",
         "options": {
           "set_to": {
-            "description": "Whether to allow or not"
+            "description": "Se consentire o meno"
           }
         }
       }
