@@ -1,9 +1,9 @@
 {
   "meta": {
-    "description": "Generate custom quote image",
+    "description": "Erstellen Sie ein benutzerdefiniertes Angebotsbild",
     "options": {
       "quote_as": {
-        "description": "Quote as (default: You)"
+        "description": "Zitieren als (Standard: Sie)"
       }
     }
   }
