@@ -1,9 +1,9 @@
 {
   "meta": {
-    "description": "Generate custom quote image",
+    "description": "Genera un'immagine di preventivo personalizzata",
     "options": {
       "quote_as": {
-        "description": "Quote as (default: You)"
+        "description": "Cita come (predefinito: Tu)"
       }
     }
   }
