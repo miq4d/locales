@@ -1,36 +1,36 @@
 {
   "meta": {
-    "description": "User settings",
+    "description": "Benutzereinstellungen",
     "options": {
       "block": {
-        "description": "Settings to block image generation",
+        "description": "Einstellungen zum Blockieren der Bilderzeugung",
         "options": {
           "set_to": {
-            "description": "Block settings",
+            "description": "Einstellungen blockieren",
             "choices": {
-              "always": "Always",
-              "spoiler": "Only spoiler",
-              "never": "No block"
+              "always": "Stets",
+              "spoiler": "Nur Spoiler",
+              "never": "Kein Block"
             }
           }
         }
       },
       "default": {
-        "description": "Edit default settings for image generation",
+        "description": "Standardeinstellungen für die Bilderzeugung bearbeiten",
         "options": {
           "image": {
-            "description": "Edit default image settings"
+            "description": "Standardbildeinstellungen bearbeiten"
           },
           "font": {
-            "description": "Edit default font settings"
+            "description": "Standardschrifteinstellungen bearbeiten"
           }
         }
       },
       "custom_quote": {
-        "description": "Settings to allow custom quote",
+        "description": "Einstellungen zum Zulassen von benutzerdefinierten Angeboten",
         "options": {
           "set_to": {
-            "description": "Whether to allow or not"
+            "description": "Ob zulassen oder nicht"
           }
         }
       }
