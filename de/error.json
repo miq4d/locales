@@ -10,7 +10,9 @@
   "remove_not_allowed": "Du bist nicht berechtigt, die Nachricht zu entfernen.",
   "bot_permissions": {
     "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
-    "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen."
+    "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen.",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History",
+    "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings."
   },
   "not_bot_admin": "Du bist nicht der Admin dieses Bots.",
   "custom_quote_not_allowed": "Der Zielbenutzer oder die Zielbenutzer haben die Erstellung von benutzerdefinierten Bildern nicht erlaubt.",
