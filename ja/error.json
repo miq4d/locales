@@ -11,8 +11,8 @@
   "bot_permissions": {
     "guild": "このサーバーでこの Bot が必要な権限がありません。",
     "channel": "このチャンネルでこの Bot が必要な権限がありません。",
-    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History",
-    "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings."
+    "required_permissions": "この Bot に以下の権限が与えられているか確認してください:\n- チャンネルを見る\n- メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
+    "dm": "Bot にメッセージの送信が許可されていません。権限設定でメッセージの送信を許可してください。"
   },
   "not_bot_admin": "あなたはこの Bot の管理者ではありません。",
   "custom_quote_not_allowed": "このユーザーもしくはあなたがカスタム Quote を許可していません。",
