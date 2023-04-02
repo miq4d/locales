@@ -10,7 +10,8 @@
   "remove_not_allowed": "Non sei autorizzato a rimuovere il messaggio.",
   "bot_permissions": {
     "guild": "Non ho i permessi necessari in questo server.",
-    "channel": "Non ho i permessi necessari per eseguire comandi in questo canale."
+    "channel": "Non ho i permessi necessari per eseguire comandi in questo canale.",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History"
   },
   "not_bot_admin": "Non sei un amministratore di questo bot.",
   "custom_quote_not_allowed": "L'utente di destinazione o l'utente non ha consentito la generazione di citazioni personalizzate.",
