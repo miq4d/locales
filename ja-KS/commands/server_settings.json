@@ -25,6 +25,27 @@
             "description": "転送先のチャンネル (省略で無効化)"
           }
         }
+      },
+      "always_quote": {
+        "description": "Add a channel to always Quote",
+        "options": {
+          "add": {
+            "description": "Add a channel to always Quote",
+            "options": {
+              "channel": {
+                "description": "Channel to add"
+              }
+            }
+          },
+          "remove": {
+            "description": "Remove a channel to always Quote",
+            "options": {
+              "channel": {
+                "description": "Channel to remove"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -38,5 +59,9 @@
   "redirect": {
     "disabled": "リダイレクトを無効にしたで",
     "enabled": "<#{{id}}> チャンネルにリダイレクトする設定を有効にしたで"
+  },
+  "always_quote": {
+    "added": "Enabled Always Quote in <#{{id}}> channel",
+    "removed": "Disabled Always Quote in <#{{id}}> channel"
   }
 }
