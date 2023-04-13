@@ -23,6 +23,9 @@
         "options": {
           "redirect_to": {
             "description": "転送先のチャンネル (省略で無効化)"
+          },
+          "post_to_original_channel": {
+            "description": "オリジナルチャンネルにも投稿する (省略でfalse)"
           }
         }
       },
