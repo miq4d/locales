@@ -5,5 +5,7 @@
   "generating": "{{emoji}} 生成中...",
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
-  "redirected": "作成完了: {{url}}"
+  "redirected": "作成完了: {{url}}",
+  "add_channel": "チャンネルを追加",
+  "remove_channel": "チャンネルを削除"
 }
