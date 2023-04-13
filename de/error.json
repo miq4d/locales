@@ -20,5 +20,6 @@
     "title": "Beruhigen Sie sich.",
     "desc": "Dieser Server hat eine Abklingzeit für Zitate, bitte warten Sie {{sec}} Sekunden."
   },
-  "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers"
+  "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
+  "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned."
 }

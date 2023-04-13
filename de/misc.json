@@ -1,8 +1,11 @@
 {
   "jump_to": "Zur ursprünglichen Nachricht springen",
+  "jump_to_redirected": "Jump to redirected message",
   "removed": "[ {{emoji}} Entfernt von **{{username}}**#{{discriminator}} ]",
   "generating": "{{emoji}} Generierung...",
   "custom_quote": "benutzerdefinierte Zitat",
   "text": "Text",
-  "redirected": "Erstellung abgeschlossen: {{url}}"
+  "redirected": "Erstellung abgeschlossen: {{url}}",
+  "add_channel": "Channels to add",
+  "remove_channel": "Channels to remove"
 }
