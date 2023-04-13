@@ -5,5 +5,7 @@
   "generating": "{{emoji}} Generating...",
   "custom_quote": "Custom Quote",
   "text": "Text",
-  "redirected": "Created: {{url}}"
+  "redirected": "Created: {{url}}",
+  "add_channel": "Channels to add",
+  "remove_channel": "Channels to remove"
 }
