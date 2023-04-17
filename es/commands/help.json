@@ -1,8 +1,8 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "Muestra la ayuda del bot"
   },
-  "name": "Help",
+  "name": "Ayuda",
   "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
   "available_options": "Available options",
   "separate": "If you specify more than one, separate them with `,`",
