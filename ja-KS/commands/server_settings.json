@@ -25,12 +25,12 @@
             "description": "転送先のチャンネル (省略で無効化)"
           },
           "post_to_original_channel": {
-            "description": "Post to original channel as well (Omit to false)"
+            "description": "元チャンネルにも投稿する (省略でfalse)"
           }
         }
       },
       "always_quote": {
-        "description": "Add a channel to always Quote"
+        "description": "常にQuoteするチャンネルを追加するで"
       }
     }
   },
@@ -46,8 +46,8 @@
     "enabled": "<#{{id}}> チャンネルにリダイレクトする設定を有効にしたで"
   },
   "always_quote": {
-    "added": "Enabled Always Quote in <#{{id}}> channel",
-    "removed": "Disabled Always Quote in <#{{id}}> channel",
-    "current_channels": "Current channels"
+    "added": "<#{{id}}> チャンネルでの常にQuoteを有効にしたで〜",
+    "removed": "<#{{id}}> チャンネルでの常にQuoteを無効にしたで〜",
+    "current_channels": "現在のチャンネル"
   }
 }

@@ -1,11 +1,11 @@
 {
   "jump_to": "元メッセージに飛んでく",
-  "jump_to_redirected": "Jump to redirected message",
+  "jump_to_redirected": "リダイレクトされたメッセージへ飛んでく",
   "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} が消したっぽいわ ]",
   "generating": "{{emoji}} 画像作ってるで～",
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
   "redirected": "作り終わったで〜 {{url}}",
-  "add_channel": "Channels to add",
-  "remove_channel": "Channels to remove"
+  "add_channel": "追加するチャンネル",
+  "remove_channel": "削除するチャンネル"
 }

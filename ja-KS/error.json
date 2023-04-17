@@ -21,5 +21,5 @@
     "desc": "このサーバーにはクールダウンがあるから {{sec}} 秒待ってくれや。"
   },
   "channel_not_found": "リダイレクト先チャンネルが見つからんかったわ。このサーバーの管理者に連絡してくれ",
-  "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned."
+  "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までしか作れへんで。"
 }
