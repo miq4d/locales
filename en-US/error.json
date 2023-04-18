@@ -12,6 +12,7 @@
     "guild": "I do not have the required permissions in this server.",
     "channel": "I do not have the required permissions to run commands in this channel.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History",
+    "required_permissions_in_thread": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages in Threads (or Posts)\n- Embed links\n- Attach Files\n- Read Message History",
     "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings."
   },
   "not_bot_admin": "You are not a this bot's admin.",
