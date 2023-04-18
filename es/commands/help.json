@@ -1,10 +1,10 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "Muestra la ayuda del bot"
   },
-  "name": "Help",
-  "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
-  "available_options": "Available options",
+  "name": "Ayuda",
+  "description": "Cuando mencionas este bot en una respuesta a un mensaje, genera una foto de ese mensaje.",
+  "available_options": "Opciones disponibles",
   "separate": "If you specify more than one, separate them with `,`",
   "font_name": "Font name",
   "example": {
