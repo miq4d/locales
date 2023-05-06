@@ -12,8 +12,10 @@
     "guild": "このサーバーでこの Bot が必要な権限がありません。",
     "channel": "このチャンネルでこの Bot が必要な権限がありません。",
     "required_permissions": "この Bot に以下の権限が与えられているか確認してください:\n- チャンネルを見る\n- メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
+    "required_permissions_in_thread": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages in Threads (or Posts)\n- Embed links\n- Attach Files\n- Read Message History",
     "dm": "Bot にメッセージの送信が許可されていません。権限設定でメッセージの送信を許可してください。"
   },
+  "bot_timed_out": "私は今タイムアウトされています。あなたが権限を持っているならばタイムアウトを解除、そうでない場合はサーバーの管理者に連絡してタイムアウトを解除してもらうよう依頼してください。",
   "not_bot_admin": "あなたはこの Bot の管理者ではありません。",
   "custom_quote_not_allowed": "このユーザーもしくはあなたがカスタム Quote を許可していません。",
   "cooldown": {
