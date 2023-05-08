@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "description": "Muestra la ayuda del bot"
+  },
+  "name": "Ayuda",
+  "description": "Cuando mencionas este bot en una respuesta a un mensaje, genera una foto de ese mensaje.",
+  "available_options": "Opciones disponibles",
+  "separate": "If you specify more than one, separate them with `,`",
+  "font_name": "Font name",
+  "example": {
+    "title": "Command Example",
+    "1": "Normal Quote",
+    "2": "Light Quote",
+    "3": "bold and flip Quote",
+    "4": "Color avatar Quote (font: pop)"
+  },
+  "support_server": "Support Server",
+  "not_related": "_* This Bot is not related to @MakeItAQuote on Twitter._"
+}
