@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Genera un'immagine di preventivo personalizzata",
+    "description": "Genera un'immagine con citazione personalizzata",
     "options": {
       "quote_as": {
         "description": "Cita come (predefinito: Tu)"
