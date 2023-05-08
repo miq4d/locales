@@ -22,12 +22,12 @@
             "description": "Modifica le impostazioni predefinite dell'immagine"
           },
           "font": {
-            "description": "Modifica le impostazioni predefinite dei caratteri"
+            "description": "Modifica le impostazioni predefinite del font"
           }
         }
       },
       "custom_quote": {
-        "description": "Impostazioni per consentire un preventivo personalizzato",
+        "description": "Impostazioni per consentire le citazioni personalizzate",
         "options": {
           "set_to": {
             "description": "Se consentire o meno"
