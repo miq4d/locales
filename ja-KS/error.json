@@ -12,10 +12,10 @@
     "guild": "このサーバーでこの Bot が必要な権限がないっぽいわ。",
     "channel": "このチャンネルでこの Bot が必要な権限がないっぽいわ。",
     "required_permissions": "この Bot に以下の権限が与えられているか確認してな:\n- チャンネルを見る\n- メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
-    "required_permissions_in_thread": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages in Threads (or Posts)\n- Embed links\n- Attach Files\n- Read Message History",
+    "required_permissions_in_thread": "この Bot に以下の権限が与えられているか確認してな:\n- チャンネルを見る\n- 投稿で(スレッドで)メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
     "dm": "Bot にメッセージの送信が許可されてへんみたいや。権限設定でメッセージの送信を許可してくれへん？"
   },
-  "bot_timed_out": "The message cannot be sent because this bot has timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
+  "bot_timed_out": "I am now timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "あなたはこの Bot の管理者じゃないっぽいわ。",
   "custom_quote_not_allowed": "相手もしくはあなたがカスタム画像生成を許可してないみたいやわ。",
   "cooldown": {

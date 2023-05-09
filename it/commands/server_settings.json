@@ -25,12 +25,12 @@
             "description": "Reindirizza canale (Ometti per disabilitare)"
           },
           "post_to_original_channel": {
-            "description": "Post to original channel as well (Omit to false)"
+            "description": "Pubblica anche sullo stesso canale (Omettere utilizzerà falso)"
           }
         }
       },
       "always_quote": {
-        "description": "Add a channel to always Quote"
+        "description": "Aggiungere canali in cui citare sempre i messaggi"
       }
     }
   },
@@ -46,8 +46,8 @@
     "enabled": "Impostazione abilitata per il reindirizzamento al canale <#{{id}}>"
   },
   "always_quote": {
-    "added": "Enabled Always Quote in <#{{id}}> channel",
-    "removed": "Disabled Always Quote in <#{{id}}> channel",
-    "current_channels": "Current channels"
+    "added": "Abilitata la funziona di citare sempre nel canale <#{{id}}>",
+    "removed": "Disabilitata la funziona di citare sempre nel canale <#{{id}}>",
+    "current_channels": "Canali attuali"
   }
 }
