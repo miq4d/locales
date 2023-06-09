@@ -1,7 +1,7 @@
 {
   "jump_to": "Jump to original message",
   "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}**#{{discriminator}} ]",
+  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
   "generating": "{{emoji}} Generating...",
   "custom_quote": "Custom Quote",
   "text": "Text",

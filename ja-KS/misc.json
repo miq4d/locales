@@ -1,7 +1,7 @@
 {
   "jump_to": "元メッセージに飛んでく",
   "jump_to_redirected": "リダイレクトされたメッセージへ飛んでく",
-  "removed": "[ {{emoji}} **{{username}}**#{{discriminator}} が消したっぽいわ ]",
+  "removed": "[ {{emoji}} **{{username}}** が消したっぽいわ ]",
   "generating": "{{emoji}} 画像作ってるで～",
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
