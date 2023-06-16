@@ -36,5 +36,6 @@
     "prev": "前へ",
     "next": "次へ",
     "close": "閉じる"
-  }
+  },
+  "only_executor": "Only the user who invoked this help message can execute this action."
 }
