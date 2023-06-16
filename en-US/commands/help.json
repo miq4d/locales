@@ -36,5 +36,6 @@
     "prev": "Prev",
     "next": "Next",
     "close": "Close"
-  }
+  },
+  "only_executor": "Only the user who invoked this help message can execute this action."
 }
