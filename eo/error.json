@@ -8,6 +8,7 @@
   "blocked": "Target user has blocked image generation. (or you've blocked image generation)",
   "blocked_with_spoiler": "Target user has blocked image generation from Spoiler-included message. (or you've blocked image generation)",
   "remove_not_allowed": "You are not allowed to remove the message.",
+  "control_not_allowed": "You don't have permission to edit this image.",
   "bot_permissions": {
     "guild": "I do not have the required permissions in this server.",
     "channel": "I do not have the required permissions to run commands in this channel.",
