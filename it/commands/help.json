@@ -6,10 +6,10 @@
   "support_server": "Server di assistenza",
   "page1": {
     "title": "How to use the Bot",
-    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
-    "available_options": "Available options",
-    "separate": "If you specify more than one, separate them with `,`",
-    "font_name": "Font name"
+    "description": "Menzionare questo bot in un messaggio di risposta genererà un'immagine da quel messaggio.",
+    "available_options": "Opzioni disponibili",
+    "separate": "Se ne specifici più di una, separale con una `,`",
+    "font_name": "Nome del font"
   },
   "page2": {
     "title": "About User settings",
@@ -33,9 +33,9 @@
     "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
   },
   "buttons": {
-    "prev": "Prev",
-    "next": "Next",
-    "close": "Close"
+    "prev": "Precedente",
+    "next": "Avanti",
+    "close": "Chiudere"
   },
   "only_executor": "Only the user who invoked this help message can execute this action."
 }
