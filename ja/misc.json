@@ -1,7 +1,7 @@
 {
   "jump_to": "元メッセージへ飛ぶ",
   "jump_to_redirected": "リダイレクトされたメッセージへ飛ぶ",
-  "removed": "[ {{emoji}} **{{username}}** により削除済み ]",
+  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
   "generating": "{{emoji}} 生成中...",
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
