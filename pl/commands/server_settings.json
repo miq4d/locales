@@ -1,31 +1,31 @@
 {
   "meta": {
-    "description": "Server settings",
+    "description": "Ustawienia serwera",
     "options": {
       "language": {
-        "description": "Change Bot Language on Server",
+        "description": "Zmiana język bota na serwerze",
         "options": {
           "set_to": {
-            "description": "Language you want to use on the server"
+            "description": "Język, którego chcesz używać na serwerze"
           }
         }
       },
       "cooldown": {
-        "description": "Set Quote cooldown",
+        "description": "Ustaw czas odnowienia cytatu",
         "options": {
           "set_to": {
-            "description": "Quote cooldown (seconds, Omit to remove cooldown)"
+            "description": "Czas odnowienia cytatu (sekundy, pomiń, aby usunąć czas odnowienia)"
           }
         }
       },
       "redirect": {
-        "description": "Redirect Quotes",
+        "description": "Przekieruj cytaty",
         "options": {
           "redirect_to": {
-            "description": "Redirect channel (Omit to disable)"
+            "description": "Kanał przekierowania (pomiń, aby wyłączyć)"
           },
           "post_to_original_channel": {
-            "description": "Post to original channel as well (Omit to false)"
+            "description": "Opublikuj również na oryginalnym kanale (pomiń, aby wyłączyć)"
           }
         }
       },
@@ -35,19 +35,19 @@
     }
   },
   "language": {
-    "changed": "Language changed to `{{language}}`"
+    "changed": "Zmieniono język na `{{language}}`"
   },
   "cooldown": {
-    "set": "Cooldown set to {{sec}} second(s)",
-    "set_0": "Removed cooldowns"
+    "set": "Czas odnowienia ustawiony na {{sec}} sekund(y)",
+    "set_0": "Usunięto czasy odnowienia"
   },
   "redirect": {
-    "disabled": "Redirects have been disabled",
-    "enabled": "Enabled setting to redirect to <#{{id}}> channel"
+    "disabled": "Przekierowania zostały wyłączone",
+    "enabled": "Włączono przekierowywanie do kanału <#{{id}}>"
   },
   "always_quote": {
-    "added": "Enabled Always Quote in <#{{id}}> channel",
+    "added": "Włączono \"Zawsze cytuj\" w kanale <#{{id}}>",
     "removed": "Disabled Always Quote in <#{{id}}> channel",
-    "current_channels": "Current channels"
+    "current_channels": "Bieżące kanały"
   }
 }
