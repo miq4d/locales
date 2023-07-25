@@ -1,12 +1,12 @@
 {
   "meta": {
-    "description": "User settings",
+    "description": "Ustawienia użytkownika",
     "options": {
       "block": {
-        "description": "Settings to block image generation",
+        "description": "Ustawienia blokujące generowanie obrazów",
         "options": {
           "set_to": {
-            "description": "Block settings",
+            "description": "Ustawienia blokowania",
             "choices": {
               "always": "Always",
               "spoiler": "Only spoiler",
