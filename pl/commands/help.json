@@ -14,7 +14,7 @@
   "page2": {
     "title": "Informacje o ustawieniach użytkownika",
     "block": "Jeśli nie chcesz, aby cytaty były tworzone z twoich wiadomości, możesz to zablokować. Możesz wybrać spośród dwóch opcji: nie pozwalaj na wszystkie wiadomości lub nie pozwalaj na wiadomości zawierające spoiler.",
-    "default": "Możesz zmienić domyślne ustawienia używane do generowania obrazków. Możesz określić dodatkowe opcje do ustawień domyślnych lub możesz wyłączyć dowolną opcję poprzedzając ją `-`, na przykład `-kolor`",
+    "default": "Możesz zmienić domyślne ustawienia używane do generowania obrazków. Możesz określić dodatkowe opcje do ustawień domyślnych lub możesz wyłączyć dowolną opcję poprzedzając ją `-`, na przykład `-color`.",
     "custom_quote": "Zezwalaj lub nie zezwalaj niestandardowe cytaty. Zobacz stronę 4 po więcej szczegółów."
   },
   "page3": {
