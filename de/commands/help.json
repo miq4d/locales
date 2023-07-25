@@ -29,13 +29,13 @@
     "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
     "1": "Conditions of use",
     "2": "Both author and recipient must allow custom quotes with the `/user_settings custom_quote` command.",
-    "3": "How to use",
+    "3": "Wie zu verwenden",
     "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
   },
   "buttons": {
-    "prev": "Prev",
-    "next": "Next",
-    "close": "Close"
+    "prev": "Vorherige",
+    "next": "Weiter",
+    "close": "Schließen"
   },
   "only_executor": "Only the user who invoked this help message can execute this action."
 }
