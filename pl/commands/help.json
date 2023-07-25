@@ -20,8 +20,8 @@
   "page3": {
     "title": "Informacje o ustawieniach serwera",
     "language": "Możesz zmienić język tego bota na serwerze.",
-    "cooldown": "Quote creation cooldown can be set in seconds.",
-    "redirect": "You can choose to have the Quote automatically transferred to a specified channel. You can choose whether or not to send the Quote on the original channel.",
+    "cooldown": "Czas odnowienia tworzenia cytatu można ustawić w sekundach.",
+    "redirect": "Możesz wybrać, aby wysyłać cytaty automatycznie do wybranego kanału. Możesz wybrać, czy cytat ma zostać wysłany na oryginalny kanał.",
     "always_quote": "Automatically Quote a message on the specified channel. Up to 5 channels can be specified."
   },
   "page4": {
