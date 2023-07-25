@@ -8,7 +8,7 @@
   "blocked": "相手が生成をブロックしています (もしくは、あなたが生成をブロックしています)",
   "blocked_with_spoiler": "相手がスポイラーが含まれているメッセージからの生成をブロックしています (もしくは、あなたが生成をブロックしています)",
   "remove_not_allowed": "あなたにこの画像を削除する権限がありません。",
-  "control_not_allowed": "あなたにこの画像を編集する権限がありません。",
+  "control_not_allowed": "You don't have permission to edit this image.",
   "bot_permissions": {
     "guild": "このサーバーでこの Bot が必要な権限がありません。",
     "channel": "このチャンネルでこの Bot が必要な権限がありません。",
