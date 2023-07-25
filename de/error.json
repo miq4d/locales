@@ -8,6 +8,7 @@
   "blocked": "Der Zielbenutzer hat die Bildgenerierung blockiert. (oder Sie haben die Bilderzeugung blockiert)",
   "blocked_with_spoiler": "Der Zielbenutzer hat die Erzeugung von Bildern aus Nachrichten, die Spoiler enthalten, blockiert. (oder Sie haben die Bilderzeugung blockiert)",
   "remove_not_allowed": "Du bist nicht berechtigt, die Nachricht zu entfernen.",
+  "control_not_allowed": "You don't have permission to edit this image.",
   "bot_permissions": {
     "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
     "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen.",
