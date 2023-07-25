@@ -1,7 +1,7 @@
 {
   "jump_to": "Zur ursprünglichen Nachricht springen",
   "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
+  "removed": "[ {{emoji}} Entfernt von **{{username}}** ]",
   "generating": "{{emoji}} Generierung...",
   "custom_quote": "benutzerdefinierte Zitat",
   "text": "Text",
