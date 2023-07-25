@@ -22,20 +22,20 @@
     "language": "Możesz zmienić język tego bota na serwerze.",
     "cooldown": "Czas odnowienia tworzenia cytatu można ustawić w sekundach.",
     "redirect": "Możesz wybrać, aby wysyłać cytaty automatycznie do wybranego kanału. Możesz wybrać, czy cytat ma zostać wysłany na oryginalny kanał.",
-    "always_quote": "Automatically Quote a message on the specified channel. Up to 5 channels can be specified."
+    "always_quote": "Automatycznie cytuj wiadomość na określonym kanale. Możesz wybrać do 5 kanałów."
   },
   "page4": {
-    "title": "About Custom Quote",
-    "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
-    "1": "Conditions of use",
-    "2": "Both author and recipient must allow custom quotes with the `/user_settings custom_quote` command.",
-    "3": "How to use",
+    "title": "Informacje o niestandardowych cytatach",
+    "description": "Funkcja cytatów niestandardowych pozwala na tworzenie cytatów na podstawie fikcyjnego oświadczenia.",
+    "1": "Warunki użytkowania",
+    "2": "Zarówno autor, jak i odbiorca muszą zezwolić na niestandardowe cytaty za pomocą komendy '/user_settings custom_quote'.",
+    "3": "Jak używać",
     "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
   },
   "buttons": {
-    "prev": "Prev",
-    "next": "Next",
-    "close": "Close"
+    "prev": "Poprzedni",
+    "next": "Następny",
+    "close": "Zamknij"
   },
-  "only_executor": "Only the user who invoked this help message can execute this action."
+  "only_executor": "Tylko użytkownik, który wywołał tę wiadomość, może wykonać tę akcję."
 }
