@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "description": "Pokaż pomoc bota"
+  },
+  "name": "Pomoc",
+  "support_server": "Serwer pomocy technicznej",
+  "page1": {
+    "title": "Jak używać bota",
+    "description": "Kiedy oznaczysz tego bota w odpowiedzi na wiadomość, stworzy o obrazek z tej wiadomości.",
+    "available_options": "Dostępne opcje",
+    "separate": "Jeśli określisz więcej niż jedną, oddziel je znakiem `,`",
+    "font_name": "Nazwa czcionki"
+  },
+  "page2": {
+    "title": "Informacje o ustawieniach użytkownika",
+    "block": "Jeśli nie chcesz, aby cytaty były tworzone z twoich wiadomości, możesz to zablokować. Możesz wybrać spośród dwóch opcji: nie pozwalaj na wszystkie wiadomości lub nie pozwalaj na wiadomości zawierające spoiler.",
+    "default": "Możesz zmienić domyślne ustawienia używane do generowania obrazków. Możesz określić dodatkowe opcje do ustawień domyślnych lub możesz wyłączyć dowolną opcję poprzedzając ją `-`, na przykład `-color`.",
+    "custom_quote": "Zezwalaj lub nie zezwalaj niestandardowe cytaty. Zobacz stronę 4 po więcej szczegółów."
+  },
+  "page3": {
+    "title": "Informacje o ustawieniach serwera",
+    "language": "Możesz zmienić język tego bota na serwerze.",
+    "cooldown": "Czas odnowienia tworzenia cytatu można ustawić w sekundach.",
+    "redirect": "Możesz wybrać, aby wysyłać cytaty automatycznie do wybranego kanału. Możesz wybrać, czy cytat ma zostać wysłany na oryginalny kanał.",
+    "always_quote": "Automatycznie cytuj wiadomość na określonym kanale. Możesz wybrać do 5 kanałów."
+  },
+  "page4": {
+    "title": "Informacje o niestandardowych cytatach",
+    "description": "Funkcja cytatów niestandardowych pozwala na tworzenie cytatów na podstawie fikcyjnego oświadczenia.",
+    "1": "Warunki użytkowania",
+    "2": "Zarówno autor, jak i odbiorca muszą zezwolić na niestandardowe cytaty za pomocą komendy '/user_settings custom_quote'.",
+    "3": "Jak używać",
+    "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+  },
+  "buttons": {
+    "prev": "Poprzedni",
+    "next": "Następny",
+    "close": "Zamknij"
+  },
+  "only_executor": "Tylko użytkownik, który wywołał tę wiadomość, może wykonać tę akcję."
+}

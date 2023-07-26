@@ -1,20 +1,20 @@
 {
   "meta": {
-    "description": "Mostra aiuto bot"
+    "description": "Muestra la ayuda del bot"
   },
-  "name": "Aiuto",
-  "support_server": "Server di assistenza",
+  "name": "Ayuda",
+  "support_server": "Support Server",
   "page1": {
-    "title": "Come utilizzare il Bot",
-    "description": "Menzionare questo bot in un messaggio di risposta genererà un'immagine da quel messaggio.",
-    "available_options": "Opzioni disponibili",
-    "separate": "Se ne specifici più di una, separale con una `,`",
-    "font_name": "Nome del font"
+    "title": "How to use the Bot",
+    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
+    "available_options": "Available options",
+    "separate": "If you specify more than one, separate them with `,`",
+    "font_name": "Font name"
   },
   "page2": {
-    "title": "Informazioni sulle impostazioni utente",
-    "block": "Se non si desidera che venga creata una citazione dai propri messaggi, è possibile bloccarne la generazione.\nÈ possibile scegliere tra due opzioni: non consentirla in tutti i messaggi o non consentirla nei messaggi contenenti spoiler.",
-    "default": "È possibile modificare le impostazioni predefinite utilizzate per generare le immagini.\nÈ possibile specificare opzioni aggiuntive rispetto a quelle predefinite, oppure disabilitare qualsiasi opzione abilitata per impostazione predefinita anteponendo il prefisso `-`, ad esempio `-color`.",
+    "title": "About User settings",
+    "block": "If you do not want Quote to be created from your messages, you can block the generation.\nYou can choose from two options: do not allow it in all messages or do not allow it in messages containing spoilers.",
+    "default": "You can change the default settings used to generate images.\nYou can specify additional options to the default settings, or you can disable any option enabled by default by prefixing it with `-`, for example `-color`.",
     "custom_quote": "Allow or disallow Custom Quote. See page 4 for details."
   },
   "page3": {
@@ -33,9 +33,9 @@
     "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
   },
   "buttons": {
-    "prev": "Precedente",
-    "next": "Avanti",
-    "close": "Chiudere"
+    "prev": "Prev",
+    "next": "Next",
+    "close": "Close"
   },
   "only_executor": "Only the user who invoked this help message can execute this action."
 }
