@@ -56,5 +56,9 @@
     "image": "画像",
     "font": "フォント"
   },
-  "updated": "{{type}} 設定を更新したで"
+  "updated": "{{type}} 設定を更新したで",
+  "compact": {
+    "enabled": "You've enabled compact mode.",
+    "disabled": "You've disabled compact mode."
+  }
 }
