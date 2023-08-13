@@ -56,5 +56,9 @@
     "image": "Immagine",
     "font": "Font"
   },
-  "updated": "Impostazioni dell'/del {{type}} aggiornate!"
+  "updated": "Impostazioni dell'/del {{type}} aggiornate!",
+  "compact": {
+    "enabled": "You've enabled compact mode.",
+    "disabled": "You've disabled compact mode."
+  }
 }
