@@ -56,5 +56,9 @@
     "image": "Bild",
     "font": "Schriftart"
   },
-  "updated": "{{type}} Einstellungen aktualisiert!"
+  "updated": "{{type}} Einstellungen aktualisiert!",
+  "compact": {
+    "enabled": "You've enabled compact mode.",
+    "disabled": "You've disabled compact mode."
+  }
 }
