@@ -1,11 +1,11 @@
 {
-  "jump_to": "Jump to original message",
-  "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
-  "generating": "{{emoji}} Generating...",
+  "jump_to": "Перейти до оригінального повідомлення",
+  "jump_to_redirected": "Перейти до перенаправленого повідомлення",
+  "removed": "[ {{emoji}} Видалено **{{username}}** ]",
+  "generating": "{{emoji}} Генерую...",
   "custom_quote": "Custom Quote",
-  "text": "Text",
-  "redirected": "Created: {{url}}",
-  "add_channel": "Channels to add",
-  "remove_channel": "Channels to remove"
+  "text": "Текст",
+  "redirected": "Створено: {{url}}",
+  "add_channel": "Канали для додавання",
+  "remove_channel": "Канали для видалення"
 }
