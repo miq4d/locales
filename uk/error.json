@@ -1,28 +1,28 @@
 {
-  "error": "An error has occurred",
-  "message_fetch": "Failed to fetch the message",
-  "message_empty": "The message is empty",
-  "message_not_found": "I could not find the message you are referring to.",
-  "font_invalid": "Font not found: `{{font}}`",
-  "banned": "You or this server is banned from using this bot.",
-  "blocked": "Target user has blocked image generation. (or you've blocked image generation)",
-  "blocked_with_spoiler": "Target user has blocked image generation from Spoiler-included message. (or you've blocked image generation)",
-  "remove_not_allowed": "You are not allowed to remove the message.",
-  "control_not_allowed": "You don't have permission to edit this image.",
+  "error": "Виникла помилка",
+  "message_fetch": "Не вдалося отримати повідомлення",
+  "message_empty": "Повідомлення порожнє",
+  "message_not_found": "Я не зміг знайти повідомлення, на яке ви посилаєтесь.",
+  "font_invalid": "Шрифт не знайдено: `{{font}}`",
+  "banned": "Вам або цьому серверу заборонено використовувати цього бота.",
+  "blocked": "Цільовий користувач заблокував генерацію зображень. (або ви заблокували генерацію зображень)",
+  "blocked_with_spoiler": "Цільовий користувач заблокував генерацію зображень з повідомлення, що містить спойлер. (або ви заблокували генерацію зображень)",
+  "remove_not_allowed": "Вам не дозволено видалити це повідомлення.",
+  "control_not_allowed": "У вас немає дозволу редагувати це зображення.",
   "bot_permissions": {
-    "guild": "I do not have the required permissions in this server.",
-    "channel": "I do not have the required permissions to run commands in this channel.",
-    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History",
-    "required_permissions_in_thread": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages in Threads (or Posts)\n- Embed links\n- Attach Files\n- Read Message History",
-    "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings."
+    "guild": "Я не маю необхідних дозволів на цьому сервері.",
+    "channel": "Я не маю необхідних дозволів для запуску команд у цьому каналі.",
+    "required_permissions": "Будь ласка, перевірте, чи надані наступні дозволи цьому боту:\n- Дивитися канали\n- Надсилання повідомлень\n- Вставляти посилання\n- Прикріпляти файлів\n- Читати історію повідомлень",
+    "required_permissions_in_thread": "Будь ласка, перевірте, чи надані наступні дозволи цьому боту:\n- Дивитися канали\n- Відправляти повідомлення у гілках та публікаціях\n- Вставляти посилання\n- Прикріпляти файлів\n- Читати історію повідомлень",
+    "dm": "Боту не дозволено надсилати повідомлення. Будь ласка, дозвольте цьому боту надсилати повідомлення в налаштуваннях дозволів."
   },
-  "bot_timed_out": "The message cannot be sent because this bot has timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
-  "not_bot_admin": "You are not a this bot's admin.",
-  "custom_quote_not_allowed": "The target user or you does not allow custom quotes.",
+  "bot_timed_out": "Повідомлення не може бути надіслано, оскільки цей бот знаходиться у тимчасовому блоці. Якщо у вас є відповідні дозволи, будь ласка, зніміть тимчасовий блок або зверніться до адміністраторів сервера, щоб вони зняли тимчасовий блок.",
+  "not_bot_admin": "Ви не є адміністратором цього бота.",
+  "custom_quote_not_allowed": "Цільовий користувач (або ви) не дозволяє Custom Quotes.",
   "cooldown": {
-    "title": "Calm down.",
-    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
+    "title": "Притримай коней.",
+    "desc": "Цей сервер має затримку повідомлень. Будь ласка, зачекайте {{sec}} секунд(-у/-и)."
   },
-  "channel_not_found": "The channel to which I am redirecting could not be found. Please contact the administrator of this server.",
-  "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned."
+  "channel_not_found": "Канал, на який я перенаправляю, не вдалося знайти. Будь ласка, зверніться до адміністратора цього сервера.",
+  "always_quote_limit": "Можна призначити лише {{limit}} каналів для постійного цитування."
 }
