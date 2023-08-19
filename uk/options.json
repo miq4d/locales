@@ -1,8 +1,8 @@
 {
-  "light": "Makes the background of the image white",
-  "color": "Color the user icon",
-  "flip": "Flip the image",
-  "bold": "Make the text bold",
+  "light": "Робить фон зображення білим",
+  "color": "Зафарбовує іконку користувача",
+  "flip": "Перевертає зображення",
+  "bold": "Робить текст жирним",
   "new": "Use new type image generation",
   "font": "Change the font to the specified one. [learn more]({{url}})"
 }
