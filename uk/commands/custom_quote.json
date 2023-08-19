@@ -1,9 +1,9 @@
 {
   "meta": {
-    "description": "Generate custom quote image",
+    "description": "Згенерувати зображення Custom Quote",
     "options": {
       "quote_as": {
-        "description": "Quote as (default: You)"
+        "description": "Цитувати від (за замовчуванням: Ви)"
       }
     }
   }
