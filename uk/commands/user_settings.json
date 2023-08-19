@@ -1,64 +1,64 @@
 {
   "meta": {
-    "description": "User settings",
+    "description": "Користувацькі налаштування",
     "options": {
       "block": {
-        "description": "Settings to block image generation",
+        "description": "Налаштування для блокування генерації зображень",
         "options": {
           "set_to": {
-            "description": "Block settings",
+            "description": "Налаштування блокування",
             "choices": {
-              "always": "Always",
-              "spoiler": "Only spoiler",
-              "never": "No block"
+              "always": "Завжди",
+              "spoiler": "Лише спойлер",
+              "never": "Не блокувати"
             }
           }
         }
       },
       "default": {
-        "description": "Edit default settings for image generation",
+        "description": "Редагування налаштувань за замовчуванням для генерації зображень",
         "options": {
           "image": {
-            "description": "Edit default image settings"
+            "description": "Редагувати налаштування зображень за замовчуванням"
           },
           "font": {
-            "description": "Edit default font settings"
+            "description": "Редагувати налаштування шрифтів за замовчуванням"
           }
         }
       },
       "custom_quote": {
-        "description": "Settings to allow custom quote",
+        "description": "Налаштування дозволу для Custom Quote",
         "options": {
           "set_to": {
-            "description": "Whether to allow or not"
+            "description": "Дозволяти чи ні"
           }
         }
       }
     }
   },
   "block": {
-    "blocked": "You've blocked image generation.",
-    "unblocked": "You've unblocked image generation."
+    "blocked": "Ви заблокували генерацію зображень.",
+    "unblocked": "Ви розблокували генерацію зображень."
   },
   "custom_quote": {
-    "allowed": "You've enabled custom quotes.",
-    "disallowed": "You've disabled custom quotes."
+    "allowed": "Ви увімкнули Custom Quotes.",
+    "disallowed": "Ви вимкнули Custom Quotes."
   },
   "default": {
-    "choose": "Choose a default option",
-    "placeholder": "Choose a default image option (optional)"
+    "choose": "Виберіть опцію за замовчуванням",
+    "placeholder": "Виберіть зображення за замовчуванням (необов'язково)"
   },
   "font": {
-    "choose": "Choose a default font",
-    "placeholder": "Choose a font"
+    "choose": "Виберіть шрифт за замовчуванням",
+    "placeholder": "Виберіть шрифт"
   },
   "type": {
-    "image": "Image",
-    "font": "Font"
+    "image": "Зображення",
+    "font": "Шрифт"
   },
-  "updated": "{{type}} settings updated!",
+  "updated": "Оновлено налаштування {{type}}!",
   "compact": {
-    "enabled": "You've enabled compact mode.",
-    "disabled": "You've disabled compact mode."
+    "enabled": "Ви увімкнули компактний режим.",
+    "disabled": "Ви вимкнули компактний режим."
   }
 }
