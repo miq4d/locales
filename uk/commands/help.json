@@ -1,19 +1,19 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "Показати допомогу бота"
   },
-  "name": "Help",
-  "support_server": "Support Server",
+  "name": "Допомога",
+  "support_server": "Сервер підтримки",
   "page1": {
-    "title": "How to use the Bot",
-    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
-    "available_options": "Available options",
-    "separate": "If you specify more than one, separate them with `,`",
-    "font_name": "Font name"
+    "title": "Як користуватися ботом",
+    "description": "Коли ви згадуєте цього бота у відповіді на повідомлення, він генерує зображення з того повідомлення.",
+    "available_options": "Доступні опції",
+    "separate": "Якщо ви вказуєте більш ніж одну, розділіть використовуючи `,`",
+    "font_name": "Назва шрифту"
   },
   "page2": {
-    "title": "About User settings",
-    "block": "If you do not want Quote to be created from your messages, you can block the generation.\nYou can choose from two options: do not allow it in all messages or do not allow it in messages containing spoilers.",
+    "title": "Про користувацькі налаштування",
+    "block": "Якщо ви не хочете, щоб з ваших повідомлень створювалися цитати, ви можете заблокувати їх створення.\nВи можете вибрати один з двох варіантів: заборонити їх для всіх повідомлень або заборонити для повідомлень, що містять спойлери.",
     "default": "You can change the default settings used to generate images.\nYou can specify additional options to the default settings, or you can disable any option enabled by default by prefixing it with `-`, for example `-color`.",
     "custom_quote": "Allow or disallow Custom Quote. See page 4 for details."
   },
