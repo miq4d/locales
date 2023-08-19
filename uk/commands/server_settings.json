@@ -1,53 +1,53 @@
 {
   "meta": {
-    "description": "Server settings",
+    "description": "Налаштування сервера",
     "options": {
       "language": {
-        "description": "Change Bot Language on Server",
+        "description": "Змінити мову бота на сервері",
         "options": {
           "set_to": {
-            "description": "Language you want to use on the server"
+            "description": "Мова, яку ви хочете використовувати на сервері"
           }
         }
       },
       "cooldown": {
-        "description": "Set Quote cooldown",
+        "description": "Встановити час очікування для цитат",
         "options": {
           "set_to": {
-            "description": "Quote cooldown (seconds, Omit to remove cooldown)"
+            "description": "Час очікування для цитат (в секундах; залиште пустим, щоб прибрати)"
           }
         }
       },
       "redirect": {
-        "description": "Redirect Quotes",
+        "description": "Перенаправлення цитат",
         "options": {
           "redirect_to": {
-            "description": "Redirect channel (Omit to disable)"
+            "description": "Канал для перенаправлення (залиште пустим, щоб вимкнути)"
           },
           "post_to_original_channel": {
-            "description": "Post to original channel as well (Omit to false)"
+            "description": "Надіслати також в оригінальний канал (залиште пустим, щоб вимкнути)"
           }
         }
       },
       "always_quote": {
-        "description": "Add a channel to always Quote"
+        "description": "Додайте канал, який буде завжди цитованим"
       }
     }
   },
   "language": {
-    "changed": "Language changed to `{{language}}`"
+    "changed": "Мову змінено на `{{language}}`"
   },
   "cooldown": {
-    "set": "Cooldown set to {{sec}} second(s)",
-    "set_0": "Removed cooldowns"
+    "set": "Час очікування змінено на {{sec}} секунд(-у)",
+    "set_0": "Часи очікування видалено"
   },
   "redirect": {
-    "disabled": "Redirects have been disabled",
-    "enabled": "Enabled setting to redirect to <#{{id}}> channel"
+    "disabled": "Перенаправлення вимкнені",
+    "enabled": "Увімкнено налаштування для перенаправлення до каналу <#{{id}}>"
   },
   "always_quote": {
-    "added": "Enabled Always Quote in <#{{id}}> channel",
-    "removed": "Disabled Always Quote in <#{{id}}> channel",
-    "current_channels": "Current channels"
+    "added": "Увімкнено постійне цитування для каналу <#{{id}}>",
+    "removed": "Вимкнено постійне цитування для каналу <#{{id}}>",
+    "current_channels": "Поточні канали"
   }
 }
