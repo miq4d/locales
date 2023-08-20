@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "description": "Згенерувати зображення Custom Quote",
+    "options": {
+      "quote_as": {
+        "description": "Цитувати від (за замовчуванням: Ви)"
+      }
+    }
+  }
+}

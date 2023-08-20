@@ -1,0 +1,11 @@
+{
+  "jump_to": "Перейти до оригінального повідомлення",
+  "jump_to_redirected": "Перейти до перенаправленого повідомлення",
+  "removed": "[ {{emoji}} Видалено **{{username}}** ]",
+  "generating": "{{emoji}} Генерую...",
+  "custom_quote": "Custom Quote",
+  "text": "Текст",
+  "redirected": "Створено: {{url}}",
+  "add_channel": "Канали, які треба додати",
+  "remove_channel": "Канали, які треба вилучити"
+}
