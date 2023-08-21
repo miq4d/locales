@@ -58,7 +58,7 @@
   },
   "updated": "{{type}} 設定を更新したで",
   "compact": {
-    "enabled": "You've enabled compact mode.",
-    "disabled": "You've disabled compact mode."
+    "enabled": "コンパクトモードを有効にしたで。",
+    "disabled": "コンパクトモードを無効にしたで。"
   }
 }
