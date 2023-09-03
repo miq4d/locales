@@ -2,14 +2,14 @@
   "meta": {
     "description": "Show Bot Help"
   },
-  "name": "Help",
+  "name": "Helpo",
   "support_server": "Support Server",
   "page1": {
-    "title": "How to use the Bot",
+    "title": "Kiel uzas la roboton",
     "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
     "available_options": "Available options",
     "separate": "If you specify more than one, separate them with `,`",
-    "font_name": "Font name"
+    "font_name": "Tipara nomo"
   },
   "page2": {
     "title": "About User settings",
@@ -29,13 +29,13 @@
     "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
     "1": "Conditions of use",
     "2": "Both author and recipient must allow custom quotes with the `/user_settings custom_quote` command.",
-    "3": "How to use",
+    "3": "Kiel al uzi",
     "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
   },
   "buttons": {
     "prev": "Prev",
     "next": "Next",
-    "close": "Close"
+    "close": "Fermi"
   },
   "only_executor": "Only the user who invoked this help message can execute this action."
 }
