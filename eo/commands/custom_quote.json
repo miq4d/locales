@@ -1,9 +1,9 @@
 {
   "meta": {
-    "description": "Generate custom quote image",
+    "description": "Generu kutiman citaĵbildon",
     "options": {
       "quote_as": {
-        "description": "Quote as (default: You)"
+        "description": "Citi kiel (defaŭlto: Vi)"
       }
     }
   }

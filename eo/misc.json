@@ -4,8 +4,8 @@
   "removed": "[ {{emoji}} Removed by **{{username}}** ]",
   "generating": "{{emoji}} Generating...",
   "custom_quote": "Custom Quote",
-  "text": "Text",
-  "redirected": "Created: {{url}}",
+  "text": "Teksto",
+  "redirected": "Kreita: {{url}}",
   "add_channel": "Channels to add",
   "remove_channel": "Channels to remove"
 }

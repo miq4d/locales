@@ -49,12 +49,12 @@
     "placeholder": "Choose a default image option (optional)"
   },
   "font": {
-    "choose": "Choose a default font",
-    "placeholder": "Choose a font"
+    "choose": "Elektu defaŭltan tiparon",
+    "placeholder": "Elektu tiparon"
   },
   "type": {
-    "image": "Image",
-    "font": "Font"
+    "image": "Bildo",
+    "font": "Tiparo"
   },
   "updated": "{{type}} settings updated!",
   "compact": {
