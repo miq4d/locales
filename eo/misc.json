@@ -6,6 +6,6 @@
   "custom_quote": "Custom Quote",
   "text": "Teksto",
   "redirected": "Kreita: {{url}}",
-  "add_channel": "Channels to add",
-  "remove_channel": "Channels to remove"
+  "server": "Server",
+  "user": "User"
 }
