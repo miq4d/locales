@@ -1,53 +1,5 @@
 {
   "meta": {
-    "description": "Server settings",
-    "options": {
-      "language": {
-        "description": "Change Bot Language on Server",
-        "options": {
-          "set_to": {
-            "description": "Language you want to use on the server"
-          }
-        }
-      },
-      "cooldown": {
-        "description": "Set Quote cooldown",
-        "options": {
-          "set_to": {
-            "description": "Quote cooldown (seconds, Omit to remove cooldown)"
-          }
-        }
-      },
-      "redirect": {
-        "description": "Redirect Quotes",
-        "options": {
-          "redirect_to": {
-            "description": "Redirect channel (Omit to disable)"
-          },
-          "post_to_original_channel": {
-            "description": "Post to original channel as well (Omit to false)"
-          }
-        }
-      },
-      "always_quote": {
-        "description": "Add a channel to always Quote"
-      }
-    }
-  },
-  "language": {
-    "changed": "Language changed to `{{language}}`"
-  },
-  "cooldown": {
-    "set": "Cooldown set to {{sec}} second(s)",
-    "set_0": "Removed cooldowns"
-  },
-  "redirect": {
-    "disabled": "Redirects have been disabled",
-    "enabled": "Enabled setting to redirect to <#{{id}}> channel"
-  },
-  "always_quote": {
-    "added": "Enabled Always Quote in <#{{id}}> channel",
-    "removed": "Disabled Always Quote in <#{{id}}> channel",
-    "current_channels": "Current channels"
+    "description": "Server settings"
   }
 }
