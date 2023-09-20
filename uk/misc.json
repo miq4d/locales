@@ -6,6 +6,6 @@
   "custom_quote": "Custom Quote",
   "text": "Текст",
   "redirected": "Створено: {{url}}",
-  "add_channel": "Канали, які треба додати",
-  "remove_channel": "Канали, які треба вилучити"
+  "server": "Server",
+  "user": "User"
 }
