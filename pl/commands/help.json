@@ -30,7 +30,7 @@
     "1": "Warunki użytkowania",
     "2": "Zarówno autor, jak i odbiorca muszą zezwolić na niestandardowe cytaty za pomocą komendy '/user_settings custom_quote'.",
     "3": "Jak używać",
-    "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+    "4": "Użyj polecenia `/custom_quote`. Jeśli określono `quote_as`, niestandardowy cytat zostanie utworzony w nazwie użytkownika, w przeciwnym razie w nazwie użytkownika."
   },
   "buttons": {
     "prev": "Poprzedni",
