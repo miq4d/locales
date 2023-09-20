@@ -6,6 +6,6 @@
   "custom_quote": "benutzerdefinierte Zitat",
   "text": "Text",
   "redirected": "Erstellung abgeschlossen: {{url}}",
-  "add_channel": "Channels to add",
-  "remove_channel": "Channels to remove"
+  "server": "Server",
+  "user": "User"
 }
