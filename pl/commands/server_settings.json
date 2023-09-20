@@ -1,53 +1,5 @@
 {
   "meta": {
-    "description": "Ustawienia serwera",
-    "options": {
-      "language": {
-        "description": "Zmiana język bota na serwerze",
-        "options": {
-          "set_to": {
-            "description": "Język, którego chcesz używać na serwerze"
-          }
-        }
-      },
-      "cooldown": {
-        "description": "Ustaw czas odnowienia cytatu",
-        "options": {
-          "set_to": {
-            "description": "Czas odnowienia cytatu (sekundy, pomiń, aby usunąć czas odnowienia)"
-          }
-        }
-      },
-      "redirect": {
-        "description": "Przekieruj cytaty",
-        "options": {
-          "redirect_to": {
-            "description": "Kanał przekierowania (pomiń, aby wyłączyć)"
-          },
-          "post_to_original_channel": {
-            "description": "Opublikuj również na oryginalnym kanale (pomiń, aby wyłączyć)"
-          }
-        }
-      },
-      "always_quote": {
-        "description": "Add a channel to always Quote"
-      }
-    }
-  },
-  "language": {
-    "changed": "Zmieniono język na `{{language}}`"
-  },
-  "cooldown": {
-    "set": "Czas odnowienia ustawiony na {{sec}} sekund(y)",
-    "set_0": "Usunięto czasy odnowienia"
-  },
-  "redirect": {
-    "disabled": "Przekierowania zostały wyłączone",
-    "enabled": "Włączono przekierowywanie do kanału <#{{id}}>"
-  },
-  "always_quote": {
-    "added": "Włączono \"Zawsze cytuj\" w kanale <#{{id}}>",
-    "removed": "Disabled Always Quote in <#{{id}}> channel",
-    "current_channels": "Bieżące kanały"
+    "description": "Ustawienia serwera"
   }
 }

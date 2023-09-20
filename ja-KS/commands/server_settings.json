@@ -1,53 +1,5 @@
 {
   "meta": {
-    "description": "サーバー設定",
-    "options": {
-      "language": {
-        "description": "サーバーでの Bot の言語を変えるで",
-        "options": {
-          "set_to": {
-            "description": "サーバーで使いたい言語"
-          }
-        }
-      },
-      "cooldown": {
-        "description": "Quote のクールダウンを設定",
-        "options": {
-          "set_to": {
-            "description": "Quote cooldown (seconds, 0 to remove cooldown)"
-          }
-        }
-      },
-      "redirect": {
-        "description": "Quote の転送",
-        "options": {
-          "redirect_to": {
-            "description": "転送先のチャンネル (省略で無効化)"
-          },
-          "post_to_original_channel": {
-            "description": "元チャンネルにも投稿する (省略でfalse)"
-          }
-        }
-      },
-      "always_quote": {
-        "description": "常にQuoteするチャンネルを追加するで"
-      }
-    }
-  },
-  "language": {
-    "changed": "サーバーの言語を `{{language}}` に変えたで"
-  },
-  "cooldown": {
-    "set": "クールダウンを {{sec}} 秒に設定したで",
-    "set_0": "クールダウンを削除したで"
-  },
-  "redirect": {
-    "disabled": "リダイレクトを無効にしたで",
-    "enabled": "<#{{id}}> チャンネルにリダイレクトする設定を有効にしたで"
-  },
-  "always_quote": {
-    "added": "<#{{id}}> チャンネルでの常にQuoteを有効にしたで〜",
-    "removed": "<#{{id}}> チャンネルでの常にQuoteを無効にしたで〜",
-    "current_channels": "現在のチャンネル"
+    "description": "サーバー設定"
   }
 }

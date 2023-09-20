@@ -1,53 +1,5 @@
 {
   "meta": {
-    "description": "Server Einstellungen",
-    "options": {
-      "language": {
-        "description": "Ändern Sie die Bot-Sprache auf dem Server",
-        "options": {
-          "set_to": {
-            "description": "Sprache, die Sie auf dem Server verwenden möchten"
-          }
-        }
-      },
-      "cooldown": {
-        "description": "Zitat-Cooldown festlegen",
-        "options": {
-          "set_to": {
-            "description": "Quote cooldown (seconds, 0 to remove cooldown)"
-          }
-        }
-      },
-      "redirect": {
-        "description": "Zitate umleiten",
-        "options": {
-          "redirect_to": {
-            "description": "Kanal umleiten (zum Deaktivieren auslassen)"
-          },
-          "post_to_original_channel": {
-            "description": "Post to original channel as well (Omit to false)"
-          }
-        }
-      },
-      "always_quote": {
-        "description": "Add a channel to always Quote"
-      }
-    }
-  },
-  "language": {
-    "changed": "Sprache geändert auf `{{language}}`"
-  },
-  "cooldown": {
-    "set": "Abklingzeit auf {{sec}} Sekunden gesetzt",
-    "set_0": "Abklingzeiten entfernt"
-  },
-  "redirect": {
-    "disabled": "Die Umleitungen wurden deaktiviert",
-    "enabled": "<#{{id}}> Aktivierte Einstellung für die Umleitung zum Kanal"
-  },
-  "always_quote": {
-    "added": "Enabled Always Quote in <#{{id}}> channel",
-    "removed": "Disabled Always Quote in <#{{id}}> channel",
-    "current_channels": "Current channels"
+    "description": "Server Einstellungen"
   }
 }

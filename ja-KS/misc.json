@@ -6,6 +6,6 @@
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
   "redirected": "作り終わったで〜 {{url}}",
-  "add_channel": "追加するチャンネル",
-  "remove_channel": "削除するチャンネル"
+  "server": "サーバー",
+  "user": "ユーザー"
 }
