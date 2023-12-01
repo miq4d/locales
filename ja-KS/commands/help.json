@@ -11,26 +11,26 @@
     "separate": "複数指定したかったら `,` で区切ってな",
     "font_name": "フォント名"
   },
-  "page2": {
-    "title": "ユーザー設定について",
-    "block": "自分のメッセージから Quote を作られたくない場合は、生成をブロックすることができるで。\n全部のメッセージで許可しない・スポイラーを含むメッセージで許可しない の2つから選べるで。",
-    "default": "画像生成する際に使用するデフォルトの設定を変更できるで。\nデフォルト設定に追加でオプションを指定することもできるし、デフォルトで有効にしたオプションでも、`-color` のように先頭に `-` をつけることで無効化できるんやで。",
-    "custom_quote": "カスタム Quote を許可するかしないかを選べるで。詳細はページ4を見てな。"
-  },
-  "page3": {
-    "title": "サーバー設定について",
-    "language": "サーバーでのこの Bot の言語を変更することができるで。",
-    "cooldown": "Quote 作成のクールダウンを秒単位で設定できるで。",
-    "redirect": "Quote を自動的に指定したチャンネルへ転送することができるで。元のチャンネルに Quote を表示するかしないかを選べるやで。",
-    "always_quote": "指定したチャンネルのメッセージを自動的に Quote するで。チャンネルは5つまで指定できるで。"
-  },
   "page4": {
     "title": "カスタム Quote について",
     "description": "カスタム Quote 機能を使うと、架空の発言から Quote を作成することができるで。",
     "1": "使用できる条件",
-    "2": "作成者、被作成者が共に `/user_settings custom_quote` コマンドでカスタム Quote を許可していること",
+    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
     "3": "使い方",
     "4": "`/custom_quote` コマンドを使用するんやで。`quote_as` を指定した場合はそのユーザー、指定しない場合は自分の名義でカスタム Quote が作成されるで。"
+  },
+  "page5": {
+    "title": "About Web Dashboard",
+    "link": "You can access the dashboard from the URL above.",
+    "description": "The dashboard allows customization of user and server settings.",
+    "links": {
+      "title": "Links",
+      "home": "Top Page",
+      "dashboard": "Dashboard",
+      "status": "Bot status",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    }
   },
   "buttons": {
     "prev": "前へ",
