@@ -11,26 +11,26 @@
     "separate": "Jeśli określisz więcej niż jedną, oddziel je znakiem `,`",
     "font_name": "Nazwa czcionki"
   },
-  "page2": {
-    "title": "Informacje o ustawieniach użytkownika",
-    "block": "Jeśli nie chcesz, aby cytaty były tworzone z twoich wiadomości, możesz to zablokować. Możesz wybrać spośród dwóch opcji: nie pozwalaj na wszystkie wiadomości lub nie pozwalaj na wiadomości zawierające spoiler.",
-    "default": "Możesz zmienić domyślne ustawienia używane do generowania obrazków. Możesz określić dodatkowe opcje do ustawień domyślnych lub możesz wyłączyć dowolną opcję poprzedzając ją `-`, na przykład `-color`.",
-    "custom_quote": "Zezwalaj lub nie zezwalaj niestandardowe cytaty. Zobacz stronę 4 po więcej szczegółów."
-  },
-  "page3": {
-    "title": "Informacje o ustawieniach serwera",
-    "language": "Możesz zmienić język tego bota na serwerze.",
-    "cooldown": "Czas odnowienia tworzenia cytatu można ustawić w sekundach.",
-    "redirect": "Możesz wybrać, aby wysyłać cytaty automatycznie do wybranego kanału. Możesz wybrać, czy cytat ma zostać wysłany na oryginalny kanał.",
-    "always_quote": "Automatycznie cytuj wiadomość na określonym kanale. Możesz wybrać do 5 kanałów."
-  },
   "page4": {
     "title": "Informacje o niestandardowych cytatach",
     "description": "Funkcja cytatów niestandardowych pozwala na tworzenie cytatów na podstawie fikcyjnego oświadczenia.",
     "1": "Warunki użytkowania",
-    "2": "Zarówno autor, jak i odbiorca muszą zezwolić na niestandardowe cytaty za pomocą komendy '/user_settings custom_quote'.",
+    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
     "3": "Jak używać",
     "4": "Użyj polecenia `/custom_quote`. Jeśli określono `quote_as`, niestandardowy cytat zostanie utworzony w nazwie użytkownika, w przeciwnym razie w nazwie użytkownika."
+  },
+  "page5": {
+    "title": "About Web Dashboard",
+    "link": "You can access the dashboard from the URL above.",
+    "description": "The dashboard allows customization of user and server settings.",
+    "links": {
+      "title": "Links",
+      "home": "Top Page",
+      "dashboard": "Dashboard",
+      "status": "Bot status",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    }
   },
   "buttons": {
     "prev": "Poprzedni",
