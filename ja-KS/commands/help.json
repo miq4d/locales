@@ -1,41 +1,41 @@
 {
   "meta": {
-    "description": "Bot のヘルプを表示するで"
+    "description": "Bot のヘルプを表示"
   },
-  "name": "ヘルプ",
+  "name": "お助け",
   "support_server": "サポートサーバー",
   "page1": {
     "title": "Bot の使い方",
-    "description": "メッセージへの返信でこの Bot をメンションしたら、そのメッセージから画像を作るで。",
+    "description": "メッセージへの返信で俺のことメンションしたら、そのメッセージから画像を作るで。",
     "available_options": "使えるオプション",
-    "separate": "複数指定したかったら `,` で区切ってな",
+    "separate": "何個でも指定さしたるけど `,` で区切ってな",
     "font_name": "フォント名"
   },
   "page4": {
-    "title": "カスタム Quote について",
-    "description": "カスタム Quote 機能を使うと、架空の発言から Quote を作成することができるで。",
-    "1": "使用できる条件",
-    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
+    "title": "カスタム Quote の話",
+    "description": "カスタム Quote って機能使ったら、架空の発言から Quote を作れるで。",
+    "1": "使える条件",
+    "2": "作成者、被作成者が共に Web ダッシュボードでカスタム Quote を許可していること",
     "3": "使い方",
-    "4": "`/custom_quote` コマンドを使用するんやで。`quote_as` を指定した場合はそのユーザー、指定しない場合は自分の名義でカスタム Quote が作成されるで。"
+    "4": "`/custom_quote` っていうコマンド使ったらええよ。`quote_as` を指定したらその人、指定せんかったら自分名義でカスタム Quote が作成されるで。"
   },
   "page5": {
-    "title": "About Web Dashboard",
-    "link": "You can access the dashboard from the URL above.",
-    "description": "The dashboard allows customization of user and server settings.",
+    "title": "Web ダッシュボードの話",
+    "link": "この URL クリックしたら Web ダッシュボード開けるで",
+    "description": "Web ダッシュボードで自分とかサーバーの設定変えれるから試してみてな！",
     "links": {
-      "title": "Links",
-      "home": "Top Page",
-      "dashboard": "Dashboard",
-      "status": "Bot status",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "title": "リンク集",
+      "home": "ホームページ",
+      "dashboard": "ダッシュボード",
+      "status": "Bot ステータス",
+      "terms": "利用規約",
+      "privacy": "プライバシーポリシー"
     }
   },
   "buttons": {
     "prev": "前へ",
     "next": "次へ",
-    "close": "閉じる"
+    "close": "これ消す"
   },
-  "only_executor": "このヘルプメッセージを呼び出したユーザーのみ実行できるで！"
+  "only_executor": "このボタンはヘルプを呼び出した人だけしか使えへんようになってんねん。ごめんな～"
 }
