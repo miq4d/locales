@@ -11,26 +11,26 @@
     "separate": "If you specify more than one, separate them with `,`",
     "font_name": "Font name"
   },
-  "page2": {
-    "title": "About User settings",
-    "block": "If you do not want Quote to be created from your messages, you can block the generation.\nYou can choose from two options: do not allow it in all messages or do not allow it in messages containing spoilers.",
-    "default": "You can change the default settings used to generate images.\nYou can specify additional options to the default settings, or you can disable any option enabled by default by prefixing it with `-`, for example `-color`.",
-    "custom_quote": "Allow or disallow Custom Quote. See page 4 for details."
-  },
-  "page3": {
-    "title": "About Server settings",
-    "language": "You can change the language of this Bot on the server.",
-    "cooldown": "Quote creation cooldown can be set in seconds.",
-    "redirect": "You can choose to have the Quote automatically transferred to a specified channel. You can choose whether or not to send the Quote on the original channel.",
-    "always_quote": "Automatically Quote a message on the specified channel. Up to 5 channels can be specified."
-  },
   "page4": {
     "title": "About Custom Quote",
     "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
     "1": "Conditions of use",
-    "2": "Both author and recipient must allow custom quotes with the `/user_settings custom_quote` command.",
+    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
     "3": "How to use",
     "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+  },
+  "page5": {
+    "title": "About Web Dashboard",
+    "link": "You can access the dashboard from the URL above.",
+    "description": "The dashboard allows customization of user and server settings.",
+    "links": {
+      "title": "Links",
+      "home": "Top Page",
+      "dashboard": "Dashboard",
+      "status": "Bot status",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    }
   },
   "buttons": {
     "prev": "Prev",
