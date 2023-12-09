@@ -6,6 +6,6 @@
   "custom_quote": "Custom Quote",
   "text": "Текст",
   "redirected": "Створено: {{url}}",
-  "server": "Server",
-  "user": "User"
+  "server": "Сервер",
+  "user": "Користувач"
 }
