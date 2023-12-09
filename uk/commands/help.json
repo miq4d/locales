@@ -15,21 +15,21 @@
     "title": "Про Custom Quote",
     "description": "Функція Custom Quote дозволяє створити цитату з вигаданого висловлювання.",
     "1": "Умови використання",
-    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
+    "2": "Як власник, так і учасник повинні дозволити власні цитати на панелі керування.",
     "3": "Як користуватися",
     "4": "Використовуйте команду `/custom_quote`. Якщо вказано `quote_as`, Custom Quote буде створено від імені користувача, інакше - від вашого імені."
   },
   "page5": {
-    "title": "About Web Dashboard",
-    "link": "You can access the dashboard from the URL above.",
-    "description": "The dashboard allows customization of user and server settings.",
+    "title": "Про панель керування",
+    "link": "Ви можете отримати доступ до панелі керування за вказаним вище адресою.",
+    "description": "Панель керування дозволяє налаштовувати власні та серверні налаштування.",
     "links": {
-      "title": "Links",
-      "home": "Top Page",
-      "dashboard": "Dashboard",
-      "status": "Bot status",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "title": "Посилання",
+      "home": "Головна сторінка",
+      "dashboard": "Панель керування",
+      "status": "Статус бота",
+      "terms": "Умови надання послуг",
+      "privacy": "Політика конфіденційності"
     }
   },
   "buttons": {
