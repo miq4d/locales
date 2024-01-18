@@ -1,8 +1,8 @@
 {
-  "light": "Makes the background of the image white",
-  "color": "Color the user icon",
-  "flip": "Flip the image",
-  "bold": "Make the text bold",
-  "new": "Use new type image generation",
-  "font": "Change the font to the specified one. [learn more]({{url}})"
+  "light": "Maakt de achtergrond van de afbeelding wit",
+  "color": "Kleur het gebruikerspictogram",
+  "flip": "Draait de afbeelding om",
+  "bold": "Maak de tekst vet",
+  "new": "Nieuw type afbeelding genereren",
+  "font": "Verander het lettertype in het opgegeven lettertype. [meer informatie]({{url}})"
 }
