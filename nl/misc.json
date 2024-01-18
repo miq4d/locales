@@ -1,11 +1,11 @@
 {
-  "jump_to": "Jump to original message",
-  "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
-  "generating": "{{emoji}} Generating...",
+  "jump_to": "Spring naar origineel bericht",
+  "jump_to_redirected": "Spring naar doorgestuurd bericht",
+  "removed": "[ {{emoji}} Verwijderd door **{{username}}** ]",
+  "generating": "{{emoji}} Bezig met genereren...",
   "custom_quote": "Custom Quote",
-  "text": "Text",
-  "redirected": "Created: {{url}}",
+  "text": "Tekst",
+  "redirected": "Gemaakt: {{url}}",
   "server": "Server",
-  "user": "User"
+  "user": "Gebruiker"
 }
