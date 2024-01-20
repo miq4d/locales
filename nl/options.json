@@ -1,0 +1,8 @@
+{
+  "light": "Maakt de achtergrond van de afbeelding wit",
+  "color": "Kleur het gebruikerspictogram",
+  "flip": "Draait de afbeelding om",
+  "bold": "Maak de tekst vet",
+  "new": "Nieuw type afbeelding genereren",
+  "font": "Verander het lettertype in het opgegeven lettertype. [meer informatie]({{url}})"
+}
