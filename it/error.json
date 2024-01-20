@@ -24,5 +24,6 @@
     "desc": "Questo server ha un cooldown di citazione, attendere {{sec}} secondi."
   },
   "channel_not_found": "Non è stato possibile trovare il canale a cui reindirizzare. Contattare l'amministratore di questo server",
-  "always_quote_limit": "Solo {{limit}} canali con la funzione di citare sempre i messaggi possono essere assegnati."
+  "always_quote_limit": "Solo {{limit}} canali con la funzione di citare sempre i messaggi possono essere assegnati.",
+  "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you."
 }
