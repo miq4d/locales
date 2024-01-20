@@ -24,5 +24,6 @@
     "desc": "Цей сервер має затримку повідомлень. Будь ласка, зачекайте {{sec}} секунд(-у/-и)."
   },
   "channel_not_found": "Канал, на який я перенаправляю, не вдалося знайти. Будь ласка, зверніться до адміністратора цього сервера.",
-  "always_quote_limit": "Можна призначити лише {{limit}} каналів для постійного цитування."
+  "always_quote_limit": "Можна призначити лише {{limit}} каналів для постійного цитування.",
+  "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you."
 }
