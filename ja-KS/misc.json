@@ -1,11 +1,11 @@
 {
   "jump_to": "元メッセージに飛んでく",
-  "jump_to_redirected": "リダイレクトされたメッセージに飛んでく",
-  "removed": "[ {{emoji}} **{{username}}** ってやつが消してんの見たで ]",
-  "generating": "{{emoji}} 画像作ってるからちょっと待ってな",
+  "jump_to_redirected": "リダイレクトされたメッセージへ飛んでく",
+  "removed": "[ {{emoji}} **{{username}}** が消したっぽいわ ]",
+  "generating": "{{emoji}} 画像作ってるで～",
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
   "redirected": "作り終わったで〜 {{url}}",
   "server": "サーバー",
-  "user": "自分"
+  "user": "ユーザー"
 }

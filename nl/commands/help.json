@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "description": "Show Bot Help"
+  },
+  "name": "Help",
+  "support_server": "Support Server",
+  "page1": {
+    "title": "Hoe moet je de bot gebruiken",
+    "description": "Wanneer je de bot tagt op een bericht, zal het een afbeelding genereren van dat bericht.",
+    "available_options": "Beschikbare opties",
+    "separate": "Als je meer dan één optie geeft, verdeel ze dan door een `,` te gebruiken",
+    "font_name": "Font name"
+  },
+  "page4": {
+    "title": "About Custom Quote",
+    "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
+    "1": "Conditions of use",
+    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
+    "3": "Hoe te gebruiken",
+    "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+  },
+  "page5": {
+    "title": "Over het web dashboard",
+    "link": "Je kan het dashboard bereiken door de link die hierboven staat te gebruiken.",
+    "description": "Het dashboard laat je toe om dingen aan te passen van een gebruiker of de server instellingen.",
+    "links": {
+      "title": "Links",
+      "home": "Top Page",
+      "dashboard": "Dashboard",
+      "status": "Bot status",
+      "terms": "Gebruiksvoorwaarden",
+      "privacy": "Privacy ververklaring"
+    }
+  },
+  "buttons": {
+    "prev": "Vorige",
+    "next": "Volgende",
+    "close": "Sluit"
+  },
+  "only_executor": "Alleen de gebruiker die het bericht heeft gemaakt kan deze actie uitvoeren."
+}
