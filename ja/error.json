@@ -24,5 +24,6 @@
     "desc": "このサーバーではクールダウンがあります。あと {{sec}} 秒待ってください"
   },
   "channel_not_found": "リダイレクト先チャンネルが見つかりませんでした。このサーバーの管理者に連絡してください",
-  "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までです。"
+  "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までです。",
+  "you_cant_use": "あなたは Quote 可能ではありません。サーバーの管理者にQuoteを可能にするよう依頼してください。"
 }
