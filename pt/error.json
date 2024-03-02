@@ -1,0 +1,29 @@
+{
+  "error": "An error has occurred",
+  "message_fetch": "Failed to fetch the message",
+  "message_empty": "The message is empty",
+  "message_not_found": "I could not find the message you are referring to.",
+  "font_invalid": "Font not found: `{{font}}`",
+  "banned": "You or this server is banned from using this bot.",
+  "blocked": "Target user has blocked image generation. (or you've blocked image generation)",
+  "blocked_with_spoiler": "Target user has blocked image generation from Spoiler-included message. (or you've blocked image generation)",
+  "remove_not_allowed": "You are not allowed to remove the message.",
+  "control_not_allowed": "You don't have permission to edit this image.",
+  "bot_permissions": {
+    "guild": "I do not have the required permissions in this server.",
+    "channel": "I do not have the required permissions to run commands in this channel.",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History",
+    "required_permissions_in_thread": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages in Threads (or Posts)\n- Embed links\n- Attach Files\n- Read Message History",
+    "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings."
+  },
+  "bot_timed_out": "The message cannot be sent because this bot has timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
+  "not_bot_admin": "You are not a this bot's admin.",
+  "custom_quote_not_allowed": "The target user or you does not allow custom quotes.",
+  "cooldown": {
+    "title": "Calm down.",
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
+  },
+  "channel_not_found": "The channel to which I am redirecting could not be found. Please contact the administrator of this server.",
+  "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned.",
+  "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you."
+}
