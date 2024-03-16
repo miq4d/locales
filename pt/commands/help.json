@@ -2,17 +2,17 @@
   "meta": {
     "description": "Abrir ajuda do Bot"
   },
-  "name": "Help",
-  "support_server": "Support Server",
+  "name": "Ajuda",
+  "support_server": "Servidor de Suporte",
   "page1": {
-    "title": "How to use the Bot",
-    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
-    "available_options": "Available options",
-    "separate": "If you specify more than one, separate them with `,`",
-    "font_name": "Font name"
+    "title": "Como usar esse Bot",
+    "description": "Quando você menciona esse bot em uma resposta a uma mensagem, ele gera uma imagem a partir dessa mensagem.",
+    "available_options": "Opções disponíveis",
+    "separate": "Se você especificar mais de um, separe-os com `,`",
+    "font_name": "Nome da Fonte"
   },
   "page4": {
-    "title": "About Custom Quote",
+    "title": "Sobre as Citações Personalizada",
     "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
     "1": "Conditions of use",
     "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
