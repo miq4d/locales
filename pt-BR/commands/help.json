@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "description": "Abrir ajuda do Bot"
+  },
+  "name": "Ajuda",
+  "support_server": "Servidor de Suporte",
+  "page1": {
+    "title": "Como usar esse Bot",
+    "description": "Quando você menciona esse bot em uma resposta a uma mensagem, ele gera uma imagem a partir dessa mensagem.",
+    "available_options": "Opções disponíveis",
+    "separate": "Se você especificar mais de um, separe-os com `,`",
+    "font_name": "Nome da Fonte"
+  },
+  "page4": {
+    "title": "Sobre as Citações Personalizada",
+    "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
+    "1": "Conditions of use",
+    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
+    "3": "How to use",
+    "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+  },
+  "page5": {
+    "title": "About Web Dashboard",
+    "link": "You can access the dashboard from the URL above.",
+    "description": "The dashboard allows customization of user and server settings.",
+    "links": {
+      "title": "Links",
+      "home": "Top Page",
+      "dashboard": "Dashboard",
+      "status": "Bot status",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    }
+  },
+  "buttons": {
+    "prev": "Prev",
+    "next": "Next",
+    "close": "Close"
+  },
+  "only_executor": "Only the user who invoked this help message can execute this action."
+}
