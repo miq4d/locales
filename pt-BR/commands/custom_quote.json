@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "description": "Gerando imagen da citação customizada",
+    "options": {
+      "quote_as": {
+        "description": "Cite como (padrão: Você)"
+      }
+    }
+  }
+}
