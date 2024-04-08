@@ -1,0 +1,8 @@
+{
+  "view_channel": "チャンネルを見る",
+  "send_messages": "メッセージを送信",
+  "send_messages_in_threads": "スレッドでメッセージを送信",
+  "embed_links": "埋め込みリンク",
+  "attach_files": "ファイルを添付",
+  "read_message_history": "メッセージ履歴を読む"
+}
