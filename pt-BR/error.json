@@ -25,5 +25,6 @@
   },
   "channel_not_found": "O canal para o qual estou redirecionando não pôde ser encontrado. Entre em contato com o administrador desse servidor.",
   "always_quote_limit": "Somente pode ter {{limit}} sempre citados.",
-  "you_cant_use": "Você não é citável. Solicite ao administrador do servidor que ative a opção Citar para você."
+  "you_cant_use": "Você não é citável. Solicite ao administrador do servidor que ative a opção Citar para você.",
+  "cant_view": "I can't view this channel. Please check the channel permissions."
 }

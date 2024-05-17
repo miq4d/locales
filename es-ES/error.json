@@ -25,5 +25,6 @@
   },
   "channel_not_found": "The channel to which I am redirecting could not be found. Please contact the administrator of this server.",
   "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned.",
-  "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you."
+  "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you.",
+  "cant_view": "I can't view this channel. Please check the channel permissions."
 }
