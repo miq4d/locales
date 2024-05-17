@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Gerando imagen da citação customizada",
+    "description": "Gerando imagem da citação customizada",
     "options": {
       "quote_as": {
         "description": "Cite como (padrão: Você)"
