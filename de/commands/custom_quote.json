@@ -1,9 +1,9 @@
 {
   "meta": {
-    "description": "Erstellen Sie ein benutzerdefiniertes Angebotsbild",
+    "description": "Erstelle ein benutzerdefiniertes Zitat-Bild",
     "options": {
       "quote_as": {
-        "description": "Zitieren als (Standard: Sie)"
+        "description": "Zitieren als (Standard: Du)"
       }
     }
   }

@@ -5,19 +5,19 @@
   "name": "Hilfe",
   "support_server": "Support Server",
   "page1": {
-    "title": "How to use the Bot",
+    "title": "Wie nutze ich den Bot",
     "description": "Wenn du den Bot in einer Antwort auf einer Nachricht erwähnst, generiert er ein Bild von dieser Nachricht.",
     "available_options": "Verfügbare Optionen",
     "separate": "Wenn du mehr als eine wählst, seperiere sie mit `,`",
     "font_name": "Schriftart Name"
   },
   "page4": {
-    "title": "About Custom Quote",
-    "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
-    "1": "Conditions of use",
-    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
+    "title": "Über About Custom Quote",
+    "description": "Mit der Funktion „Custom Quote“ kann ein Zitat aus einer fiktiven Aussage erstellt werden.",
+    "1": "Nutzungsbedingungen",
+    "2": "Sowohl der Ersteller als auch der Empfänger müssen benutzerdefinierte Zitate im Web Dashboard zulassen.",
     "3": "Wie zu verwenden",
-    "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+    "4": "Nutze den `/custom_quote` command. Wenn `quote_as` ausgewählt ist, wird das benutzerdefinierte Zitat von dem Usernamen erstellt, ansonsten mit deinem Namen."
   },
   "page5": {
     "title": "About Web Dashboard",
@@ -25,11 +25,11 @@
     "description": "The dashboard allows customization of user and server settings.",
     "links": {
       "title": "Links",
-      "home": "Top Page",
+      "home": "Startseite",
       "dashboard": "Dashboard",
-      "status": "Bot status",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "status": "Bot-Status",
+      "terms": "Nutzungsbedingungen",
+      "privacy": "Datenschutzrichtlinie"
     }
   },
   "buttons": {
@@ -37,5 +37,5 @@
     "next": "Weiter",
     "close": "Schließen"
   },
-  "only_executor": "Only the user who invoked this help message can execute this action."
+  "only_executor": "Nur der User, der diese Hilfe-Nachricht ausgelöst hat, kann diese Aktion ausführen."
 }
