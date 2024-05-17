@@ -20,9 +20,9 @@
     "4": "Nutze den `/custom_quote` command. Wenn `quote_as` ausgewählt ist, wird das benutzerdefinierte Zitat von dem Usernamen erstellt, ansonsten mit deinem Namen."
   },
   "page5": {
-    "title": "About Web Dashboard",
-    "link": "You can access the dashboard from the URL above.",
-    "description": "The dashboard allows customization of user and server settings.",
+    "title": "Über Web Dashboard",
+    "link": "Du kannst über die URL oben auf das Dashboard zugreifen.",
+    "description": "Das Dashboard ermöglicht die Anpassung von Benutzer- und Servereinstellungen.",
     "links": {
       "title": "Links",
       "home": "Startseite",
@@ -33,7 +33,7 @@
     }
   },
   "buttons": {
-    "prev": "Vorherige",
+    "prev": "Zurück",
     "next": "Weiter",
     "close": "Schließen"
   },
