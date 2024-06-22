@@ -19,6 +19,7 @@
   "bot_timed_out": "Il messaggio non può essere inviato perché a questo bot è stato applicato un Time Out. Se si dispone di autorizzazioni specifiche, rimuovere il Time Out o contattare l'amministratore del server per rimuoverlo.",
   "not_bot_admin": "Non sei un amministratore di questo bot.",
   "custom_quote_not_allowed": "L'utente di destinazione o l'utente non ha consentito la generazione di citazioni personalizzate.",
+  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Calma.",
     "desc": "Questo server ha un cooldown di citazione, attendere {{sec}} secondi."
