@@ -19,6 +19,7 @@
   "bot_timed_out": "I am now timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "あなたはこの Bot の管理者じゃないっぽいわ。",
   "custom_quote_not_allowed": "相手もしくはあなたがカスタム画像生成を許可してないみたいやわ。",
+  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "落ち着いてくれ",
     "desc": "このサーバーにはクールダウンがあるから {{sec}} 秒待ってくれや。"
