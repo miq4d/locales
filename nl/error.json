@@ -19,6 +19,7 @@
   "bot_timed_out": "The message cannot be sent because this bot has timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "Je bent geen beheerder van deze bot.",
   "custom_quote_not_allowed": "The target user or you does not allow custom quotes.",
+  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Calm down.",
     "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
