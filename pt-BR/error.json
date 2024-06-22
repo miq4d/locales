@@ -19,6 +19,7 @@
   "bot_timed_out": "A mensagem não pode ser enviada pois o bot ficou com tempo esgotadl. se você tiver permissões especificas, por favor remova o temporizador ou contato com o administrador do servidor para remover o timer.",
   "not_bot_admin": "Você não é um administrador do Bot.",
   "custom_quote_not_allowed": "O usuario alvo ou você não permite que sejam criados citações personalizadas.",
+  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Se acalme.",
     "desc": "Esse servidor tem um Tempo de espera para citações, por favor espere {{sec}} segundo(s)."
