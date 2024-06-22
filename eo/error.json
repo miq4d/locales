@@ -19,6 +19,7 @@
   "bot_timed_out": "Vi ne kapablas sendi ĉi tiun mesaĝon, ĉar ĝi eksvalidiĝis. Se vi havas specifajn permesojn, bonvolu forigi la eksvalido aŭ kontakti la servilan administranton por forigi ĝin.",
   "not_bot_admin": "Vi ne estas administranto de ĉi tiu aplikaĵo.",
   "custom_quote_not_allowed": "The target user or you does not allow custom quotes.",
+  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Calm down.",
     "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
