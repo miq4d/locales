@@ -19,6 +19,7 @@
   "bot_timed_out": "Повідомлення не може бути надіслано, оскільки цей бот знаходиться у тимчасовому блоці. Якщо у вас є відповідні дозволи, будь ласка, зніміть тимчасовий блок або зверніться до адміністраторів сервера, щоб вони зняли тимчасовий блок.",
   "not_bot_admin": "Ви не є адміністратором цього бота.",
   "custom_quote_not_allowed": "Цільовий користувач (або ви) не дозволяє Custom Quotes.",
+  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Притримай коней.",
     "desc": "Цей сервер має затримку повідомлень. Будь ласка, зачекайте {{sec}} секунд(-у/-и)."
