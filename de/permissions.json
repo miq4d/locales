@@ -1,8 +1,8 @@
 {
-  "view_channel": "View Channel",
-  "send_messages": "Send Messages",
-  "send_messages_in_threads": "Send Messages in Threads",
-  "embed_links": "Embed Links",
-  "attach_files": "Attach Files",
-  "read_message_history": "Read Message History"
+  "view_channel": "Kanal anzeigen",
+  "send_messages": "Nachrichten senden",
+  "send_messages_in_threads": "Nachrichten in Threads senden",
+  "embed_links": "Links einbetten",
+  "attach_files": "Dateien anhängen",
+  "read_message_history": "Nachrichtenverlauf lesen"
 }

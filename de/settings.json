@@ -1,5 +1,5 @@
 {
-  "title": "Settings",
-  "description": "{{kind}} settings can be changed from the web dashboard button below.",
-  "button": "Open web dashboard"
+  "title": "Einstellungen",
+  "description": "{{kind}}-Einstellungen können über den Web-Dashboard Knopf unten geändert werden.",
+  "button": "Web-Dashboard öffnen"
 }

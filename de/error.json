@@ -7,25 +7,25 @@
   "banned": "Du oder dieser Server ist für die Nutzung dieses Bots gesperrt.",
   "blocked": "Der Zielbenutzer hat die Bildgenerierung blockiert. (oder Sie haben die Bilderzeugung blockiert)",
   "blocked_with_spoiler": "Der Zielbenutzer hat die Erzeugung von Bildern aus Nachrichten, die Spoiler enthalten, blockiert. (oder Sie haben die Bilderzeugung blockiert)",
-  "remove_not_allowed": "Du bist nicht berechtigt, die Nachricht zu entfernen.",
-  "control_not_allowed": "You don't have permission to edit this image.",
+  "remove_not_allowed": "Du bist nicht berechtigt, diese Nachricht zu entfernen.",
+  "control_not_allowed": "Du bist nicht berechtigt, dieses Bild zu bearbeiten.",
   "bot_permissions": {
     "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
     "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen.",
-    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History",
-    "required_permissions_in_thread": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages in Threads (or Posts)\n- Embed links\n- Attach Files\n- Read Message History",
-    "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings."
+    "required_permissions": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten senden\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen",
+    "required_permissions_in_thread": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten in Threads senden (oder Posts)\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen",
+    "dm": "Dem Bot ist es nicht erlaubt, Nachrichten zu senden. Bitte erlaube diesem Bot Nachrichten zu senden in den Berechtigungseinstellungen."
   },
-  "bot_timed_out": "I am now timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
+  "bot_timed_out": "Diese Nachricht konnte nicht gesendet werden, weil dieser Bot derzeit stummgeschaltet ist. Wenn du die erforderlichen Berechtigungen hast, entstumme diesen Bot oder kontaktiere einen Server-Administrator, der die Stummschaltung entfernt.",
   "not_bot_admin": "Du bist nicht der Admin dieses Bots.",
   "custom_quote_not_allowed": "Der Zielbenutzer oder die Zielbenutzer haben die Erstellung von benutzerdefinierten Bildern nicht erlaubt.",
   "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
-    "title": "Beruhigen Sie sich.",
-    "desc": "Dieser Server hat eine Abklingzeit für Zitate, bitte warten Sie {{sec}} Sekunden."
+    "title": "Beruhige dich.",
+    "desc": "Dieser Server hat eine Abklingzeit für Zitate, bitte warte {{sec}} Sekunden."
   },
-  "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
-  "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned.",
-  "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you.",
+  "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers.",
+  "always_quote_limit": "Es können nur {{limit}} Always Quote Kanäle zugewiesen werden.",
+  "you_cant_use": "Du kannst nicht zitiert werden. Bitte frage deinen Server-Administrator, Zitate für dich zu aktivieren.",
   "cant_view": "I can't view this channel. Please check the channel permissions."
 }
