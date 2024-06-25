@@ -1,0 +1,8 @@
+{
+  "view_channel": "채널 보기",
+  "send_messages": "메시지 보내기",
+  "send_messages_in_threads": "스레드에서 메시지 보내기",
+  "embed_links": "임베드 링크",
+  "attach_files": "파일 첨부",
+  "read_message_history": "메시지 기록 읽기"
+}

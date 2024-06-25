@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "description": "커스텀 Quote 이미지 생성",
+    "options": {
+      "quote_as": {
+        "description": "발화자 (기본값: 당신)"
+      }
+    }
+  }
+}
