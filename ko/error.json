@@ -1,0 +1,31 @@
+{
+  "error": "에러가 발생했습니다",
+  "message_fetch": "대상 메시지를 가져오는 데 실패했습니다",
+  "message_empty": "대상 메시지가 비어 있습니다",
+  "message_not_found": "대상 메시지를 찾을 수 없습니다",
+  "font_invalid": "`{{font}}`라는 폰트는 존재하지 않습니다",
+  "banned": "당신 혹은 이 서버에서 이 Bot의 사용이 금지되었습니다.",
+  "blocked": "상대방이 생성을 차단하고 있습니다 (또는 당신이 생성을 차단하고 있습니다)",
+  "blocked_with_spoiler": "상대방이 스포일러가 포함된 메시지에서의 생성을 차단하고 있습니다 (또는 당신이 생성을 차단하고 있습니다)",
+  "remove_not_allowed": "이 이미지를 삭제할 권한이 없습니다.",
+  "control_not_allowed": "이 이미지를 편집할 권한이 없습니다.",
+  "bot_permissions": {
+    "guild": "이 서버에서 이 Bot이 필요로 하는 권한이 부족합니다.",
+    "channel": "이 채널에서 이 Bot이 필요로 하는 권한이 부족합니다.",
+    "required_permissions": "다음 권한이 이 Bot에게 부여되어 있는지 확인하세요:\n- 채널 보기\n- 메시지 보내기\n- 임베드 링크\n- 파일 첨부\n- 메시지 기록 읽기",
+    "required_permissions_in_thread": "다음 권한이 이 Bot에게 부여되어 있는지 확인하세요:\n- 채널 보기\n- 스레드에서 메시지 보내기\n- 임베드 링크\n- 파일 첨부\n- 메시지 기록 읽기",
+    "dm": "Bot에게 메시지를 보내는 것이 허용되지 않았습니다. 메시지 보내기 권한을 설정에서 허용해 주세요."
+  },
+  "bot_timed_out": "Bot이 타임아웃되어 메시지를 보낼 수 없습니다. 권한이 있는 경우 타임아웃을 해제하고, 그렇지 않은 경우 서버 관리자에게 타임아웃 해제를 요청하세요.",
+  "not_bot_admin": "당신은 이 Bot의 관리자가 아닙니다.",
+  "custom_quote_not_allowed": "이 사용자 혹은 당신이 사용자 정의 Quote를 허용하지 않았습니다.",
+  "custom_quote_not_allowed_auto": "Custom Quote는 자동으로 활성화되었지만, 서버에는 {{limit}}명 이상의 회원이 있거나 대상 사용자 혹은 당신이 Custom Quote를 비활성화하도록 강제하고 있습니다.",
+  "cooldown": {
+    "title": "진정하세요!",
+    "desc": "이 서버에는 쿨다운이 있습니다. {{sec}}초 후에 다시 시도하세요"
+  },
+  "channel_not_found": "리디렉션할 채널을 찾을 수 없습니다. 서버 관리자에게 문의하세요.",
+  "always_quote_limit": "항상 Quote 채널은 최대 {{limit}}개까지입니다.",
+  "you_cant_use": "당신은 Quote를 사용할 수 없습니다. 서버 관리자에게 Quote 사용을 요청하세요.",
+  "cant_view": "I can't view this channel. Please check the channel permissions."
+}

@@ -1,0 +1,11 @@
+{
+  "jump_to": "원본 메시지로 이동",
+  "jump_to_redirected": "리다이렉트된 메시지로 이동",
+  "removed": "[ {{emoji}} **{{username}}**에 의해 삭제됨 ]",
+  "generating": "{{emoji}} 생성 중...",
+  "custom_quote": "사용자 정의 Quote",
+  "text": "텍스트",
+  "redirected": "생성 완료: {{url}}",
+  "server": "서버",
+  "user": "사용자"
+}
