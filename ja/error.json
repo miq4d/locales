@@ -19,7 +19,7 @@
   "bot_timed_out": "Bot がタイムアウトされているため、メッセージを送信できません。あなたが権限を持っているならばタイムアウトを解除、そうでない場合はサーバーの管理者に連絡してタイムアウトを解除してもらうよう依頼してください。",
   "not_bot_admin": "あなたはこの Bot の管理者ではありません。",
   "custom_quote_not_allowed": "このユーザーもしくはあなたがカスタム Quote を許可していません。",
-  "custom_quote_not_allowed_auto": "Custom Quoteが自動的に有効になっていますが、サーバーのメンバー数が {{limit}} を超えている、または対象ユーザーまたはあなたがCustom Quoteを強制的に無効にしています。",
+  "custom_quote_not_allowed_auto": "Custom Quoteが自動的に有効になっていますが、サーバーのメンバー数が {{limit}} を超えている、または対象ユーザーかあなたがCustom Quoteを強制的に無効にしています。",
   "cooldown": {
     "title": "落ち着いて！",
     "desc": "このサーバーではクールダウンがあります。あと {{sec}} 秒待ってください"
