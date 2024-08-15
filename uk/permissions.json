@@ -1,8 +1,8 @@
 {
-  "view_channel": "View Channel",
-  "send_messages": "Send Messages",
-  "send_messages_in_threads": "Send Messages in Threads",
-  "embed_links": "Embed Links",
-  "attach_files": "Attach Files",
-  "read_message_history": "Read Message History"
+  "view_channel": "Переглядати канали",
+  "send_messages": "Надсилати повідомлення",
+  "send_messages_in_threads": "Надсилати повідомлення в темах",
+  "embed_links": "Вбудовувати посилання",
+  "attach_files": "Прикріпляти файли",
+  "read_message_history": "Переглядати історію повідомлень"
 }
