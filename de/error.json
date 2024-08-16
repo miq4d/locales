@@ -27,5 +27,6 @@
   "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
   "always_quote_limit": "Es können nur {{limit}} Always Quote Kanäle zugewiesen werden.",
   "you_cant_use": "Du kannst nicht zitiert werden. Bitte frage deinen Server-Administrator, Zitate für dich zu aktivieren.",
-  "cant_view": "I can't view this channel. Please check the channel permissions."
+  "cant_view": "I can't view this channel. Please check the channel permissions.",
+  "edit_failed": "Failed to edit the message."
 }

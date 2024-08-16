@@ -27,5 +27,6 @@
   "channel_not_found": "リダイレクト先チャンネルが見つからんかったわ。このサーバーの管理者に連絡してくれ",
   "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までしか作れへんで。",
   "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you.",
-  "cant_view": "I can't view this channel. Please check the channel permissions."
+  "cant_view": "I can't view this channel. Please check the channel permissions.",
+  "edit_failed": "Failed to edit the message."
 }
