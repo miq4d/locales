@@ -21,8 +21,8 @@
   },
   "page5": {
     "title": "About Web Dashboard",
-    "link": "You can access the dashboard from the URL above.",
-    "description": "The dashboard allows customization of user and server settings.",
+    "link": "Dostęp do panelu sieciowego można uzyskać z powyższego adresu URL.",
+    "description": "Panel sieciowy umożliwia personalizację ustawień użytkownika i ustawień serwerowych.",
     "links": {
       "title": "Links",
       "home": "Top Page",
