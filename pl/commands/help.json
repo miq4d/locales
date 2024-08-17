@@ -15,21 +15,21 @@
     "title": "Informacje o niestandardowych cytatach",
     "description": "Funkcja cytatów niestandardowych pozwala na tworzenie cytatów na podstawie fikcyjnego oświadczenia.",
     "1": "Warunki użytkowania",
-    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
+    "2": "Zarówno twórca, jak i odbiorca, muszą zezwolić na tworzenie \"własnych cytatów\" za pośrednictwem Panelu Sieciowego.",
     "3": "Jak używać",
     "4": "Użyj polecenia `/custom_quote`. Jeśli określono `quote_as`, niestandardowy cytat zostanie utworzony w nazwie użytkownika, w przeciwnym razie w nazwie użytkownika."
   },
   "page5": {
-    "title": "About Web Dashboard",
+    "title": "O Panelu Sieciowym.",
     "link": "Dostęp do panelu sieciowego można uzyskać z powyższego adresu URL.",
     "description": "Panel sieciowy umożliwia personalizację ustawień użytkownika i ustawień serwerowych.",
     "links": {
-      "title": "Links",
-      "home": "Top Page",
-      "dashboard": "Dashboard",
-      "status": "Bot status",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "title": "Linki",
+      "home": "Strona Główna",
+      "dashboard": "Panel Sieciowy",
+      "status": "Status bota",
+      "terms": "Warunki Korzystania z Usługi",
+      "privacy": "Polityka Prywatności"
     }
   },
   "buttons": {
