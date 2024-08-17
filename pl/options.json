@@ -1,8 +1,8 @@
 {
-  "light": "Makes the background of the image white",
-  "color": "Color the user icon",
-  "flip": "Flip the image",
-  "bold": "Make the text bold",
-  "new": "Use new type image generation",
-  "font": "Change the font to the specified one. [learn more]({{url}})"
+  "light": "Sprawia, że tło obrazka jest białe",
+  "color": "Zmień kolor ikony użytkownika",
+  "flip": "Obróć obrazek",
+  "bold": "Pogrub tekst",
+  "new": "Wygeneruj obrazek nowego typu",
+  "font": "Zamień czcionkę na określoną. [dowiedz się więcej] ({{url}})"
 }
