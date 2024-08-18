@@ -28,5 +28,7 @@
   "always_quote_limit": "Можна призначити лише {{limit}} каналів для постійного цитування.",
   "you_cant_use": "Вас не можна цитувати. Будь ласка, зверніться до адміністратора вашого сервера, щоб він увімкнув для вас функцію цитування.",
   "cant_view": "Я не можу переглянути цей канал. Будь ласка, перевірте права доступу до каналу.",
-  "edit_failed": "Не вдалося редагувати повідомлення."
+  "edit_failed": "Не вдалося редагувати повідомлення.",
+  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
 }
