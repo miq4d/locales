@@ -28,5 +28,7 @@
   "always_quote_limit": "항상 Quote 채널은 최대 {{limit}}개까지입니다.",
   "you_cant_use": "당신은 Quote를 사용할 수 없습니다. 서버 관리자에게 Quote 사용을 요청하세요.",
   "cant_view": "I can't view this channel. Please check the channel permissions.",
-  "edit_failed": "Failed to edit the message."
+  "edit_failed": "Failed to edit the message.",
+  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
 }
