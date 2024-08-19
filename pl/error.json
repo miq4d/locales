@@ -28,5 +28,7 @@
   "always_quote_limit": "Można przypisać tylko {{limit}} kanał(y/ów) Always Quote.",
   "you_cant_use": "Nie możesz być cytowany. Poproś administratora serwera o włączenie możliwości cytowania.",
   "cant_view": "Nie mogę wyświetlić tego kanału. Sprawdź pozwolenia kanału.",
-  "edit_failed": "Nie udało się edytować wiadomości."
+  "edit_failed": "Nie udało się edytować wiadomości.",
+  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
 }

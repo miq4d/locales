@@ -28,5 +28,7 @@
   "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned.",
   "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you.",
   "cant_view": "I can't view this channel. Please check the channel permissions.",
-  "edit_failed": "Failed to edit the message."
+  "edit_failed": "Failed to edit the message.",
+  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
 }

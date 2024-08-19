@@ -28,5 +28,7 @@
   "always_quote_limit": "Somente pode ter {{limit}} sempre citados.",
   "you_cant_use": "Você não é citável. Solicite ao administrador do servidor que ative a opção Citar para você.",
   "cant_view": "I can't view this channel. Please check the channel permissions.",
-  "edit_failed": "Failed to edit the message."
+  "edit_failed": "Failed to edit the message.",
+  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
 }
