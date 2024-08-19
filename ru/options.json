@@ -1,8 +1,8 @@
 {
-  "light": "Makes the background of the image white",
-  "color": "Color the user icon",
-  "flip": "Flip the image",
-  "bold": "Make the text bold",
-  "new": "Use new type image generation",
-  "font": "Change the font to the specified one. [learn more]({{url}})"
+  "light": "Делает задний фон изображения белым",
+  "color": "Раскрасить иконку пользователя",
+  "flip": "Перевернуть изображение",
+  "bold": "Сделать текст жирным",
+  "new": "Использовать новый тип создания изображения",
+  "font": "Изменить шрифт на указанный. [изучить больше]({{url}})"
 }
