@@ -1,7 +1,7 @@
 {
-  "error": "An error has occurred",
-  "message_fetch": "Failed to fetch the message",
-  "message_empty": "The message is empty",
+  "error": "Um erro ocorreu. ",
+  "message_fetch": "Falhou a buscar a mensagem",
+  "message_empty": "A Mensagem está vazia",
   "message_not_found": "I could not find the message you are referring to.",
   "font_invalid": "Font not found: `{{font}}`",
   "banned": "You or this server is banned from using this bot.",
