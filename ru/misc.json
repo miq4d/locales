@@ -1,11 +1,11 @@
 {
-  "jump_to": "Jump to original message",
-  "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
-  "generating": "{{emoji}} Generating...",
-  "custom_quote": "Custom Quote",
-  "text": "Text",
-  "redirected": "Created: {{url}}",
-  "server": "Server",
-  "user": "User"
+  "jump_to": "К оригинальному сообщению",
+  "jump_to_redirected": "К перенаправленному сообщению",
+  "removed": "[ {{emoji}} Удалено **{{username}}** ]",
+  "generating": "{{emoji}} создание...",
+  "custom_quote": "Пользовательская цитата",
+  "text": "Текст",
+  "redirected": "Создано: {{url}}",
+  "server": "Сервера",
+  "user": "Пользователя"
 }
