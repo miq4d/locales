@@ -1,8 +1,8 @@
 {
   "light": "Muda o fundo da imagem para branco",
-  "color": "Color the user icon",
-  "flip": "Flip the image",
-  "bold": "Make the text bold",
-  "new": "Use new type image generation",
-  "font": "Change the font to the specified one. [learn more]({{url}})"
+  "color": "Colore o ícone do utilizador(a) ",
+  "flip": "Vira a imagem",
+  "bold": "Fazer o texto negrito",
+  "new": "Usar um novo tipo de geração de imagem",
+  "font": "Muda a fonte do texto para a fonte especificada [saiba mais]({{url}}) "
 }
