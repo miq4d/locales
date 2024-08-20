@@ -1,11 +1,11 @@
 {
-  "jump_to": "Jump to original message",
-  "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
-  "generating": "{{emoji}} Generating...",
-  "custom_quote": "Custom Quote",
-  "text": "Text",
-  "redirected": "Created: {{url}}",
-  "server": "Server",
-  "user": "User"
+  "jump_to": "Ir para a mensagem original",
+  "jump_to_redirected": "Ir para a mensagem redigida",
+  "removed": "[ {{emoji}} Removido por **{{username}}** ]",
+  "generating": "{{emoji}} Gerando...",
+  "custom_quote": "Citação Personalizada",
+  "text": "Texto",
+  "redirected": "Criou: {{url}}",
+  "server": "Servidor",
+  "user": "Utilizador"
 }
