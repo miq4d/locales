@@ -22,7 +22,7 @@
   "custom_quote_not_allowed_auto": "Własne Cytaty są automatycznie włączone, lecz serwer ma więcej niż {{limit}} członków lub użytkownik docelowy lub ty wymusza wyłączenie Własnych Cytatów.",
   "cooldown": {
     "title": "Uspokój się.",
-    "desc": "Ten serwer ma włączony Cooldown Cytatów. Zaczekaj {{sec}} sekund(y)."
+    "desc": "Ten serwer ma włączony Cooldown Cytatów. Zaczekaj {{sec}}."
   },
   "channel_not_found": "Kanał, do którego przekierowuję, nie istnieje. Skontaktuj się z administratorem serwera.",
   "always_quote_limit": "Można przypisać tylko {{limit}} kanał(y/ów) Always Quote.",

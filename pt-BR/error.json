@@ -22,7 +22,7 @@
   "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Se acalme.",
-    "desc": "Esse servidor tem um Tempo de espera para citações, por favor espere {{sec}} segundo(s)."
+    "desc": "Esse servidor tem um Tempo de espera para citações, por favor espere {{sec}}."
   },
   "channel_not_found": "O canal para o qual estou redirecionando não pôde ser encontrado. Entre em contato com o administrador desse servidor.",
   "always_quote_limit": "Somente pode ter {{limit}} sempre citados.",

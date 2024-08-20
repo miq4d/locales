@@ -22,7 +22,7 @@
   "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Calma.",
-    "desc": "Questo server ha un cooldown di citazione, attendere {{sec}} secondi."
+    "desc": "Questo server ha un cooldown di citazione, attendere {{sec}}."
   },
   "channel_not_found": "Non è stato possibile trovare il canale a cui reindirizzare. Contattare l'amministratore di questo server",
   "always_quote_limit": "Solo {{limit}} canali con la funzione di citare sempre i messaggi possono essere assegnati.",
