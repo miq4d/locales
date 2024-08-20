@@ -1,13 +1,13 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "Mostrar Ajuda do Bot"
   },
-  "name": "Help",
-  "support_server": "Support Server",
+  "name": "Ajuda",
+  "support_server": "Servidor de Suporte",
   "page1": {
-    "title": "How to use the Bot",
-    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
-    "available_options": "Available options",
+    "title": "Como usar o bot",
+    "description": "Quando tu mencionas este Bot numa resposta a uma mensagem, o Bot cria uma imagem dessa mensagem.",
+    "available_options": "Opções disponíveis",
     "separate": "If you specify more than one, separate them with `,`",
     "font_name": "Font name"
   },
