@@ -29,6 +29,6 @@
   "you_cant_use": "あなたは Quote 可能ではありません。サーバーの管理者にQuoteを可能にするよう依頼してください。",
   "cant_view": "このチャンネルを見ることができません。チャンネルの権限を確認してください。",
   "edit_failed": "メッセージの編集に失敗しました。",
-  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
+  "unknown_integration_type": "インテグレーションタイプが不明です。サポートサーバーにお問い合わせください。",
+  "userapp_not_allowed": "あなたに「メッセージを送信」権限が付与されていないため、このチャンネルでUser App Quoteを使用することはできません。"
 }
