@@ -30,5 +30,5 @@
   "cant_view": "Nie mogę wyświetlić tego kanału. Sprawdź pozwolenia kanału.",
   "edit_failed": "Nie udało się edytować wiadomości.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
+  "userapp_not_allowed": "Nie możesz tworzyć cytatów na tym kanale, ponieważ nie posiadasz permisji do wysyłania wiadomości."
 }
