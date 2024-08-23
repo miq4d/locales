@@ -22,7 +22,7 @@
   "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "落ち着いてくれ",
-    "desc": "このサーバーにはクールダウンがあるから {{sec}} 秒待ってくれや。"
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}}."
   },
   "channel_not_found": "リダイレクト先チャンネルが見つからんかったわ。このサーバーの管理者に連絡してくれ",
   "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までしか作れへんで。",

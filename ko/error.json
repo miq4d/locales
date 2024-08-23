@@ -22,7 +22,7 @@
   "custom_quote_not_allowed_auto": "Custom Quote는 자동으로 활성화되었지만, 서버에는 {{limit}}명 이상의 회원이 있거나 대상 사용자 혹은 당신이 Custom Quote를 비활성화하도록 강제하고 있습니다.",
   "cooldown": {
     "title": "진정하세요!",
-    "desc": "이 서버에는 쿨다운이 있습니다. {{sec}}초 후에 다시 시도하세요"
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}}."
   },
   "channel_not_found": "리디렉션할 채널을 찾을 수 없습니다. 서버 관리자에게 문의하세요.",
   "always_quote_limit": "항상 Quote 채널은 최대 {{limit}}개까지입니다.",
