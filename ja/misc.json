@@ -4,7 +4,7 @@
   "removed": "[ {{emoji}} **{{username}}** により削除済み ]",
   "generating": "{{emoji}} 生成中...",
   "custom_quote": "カスタム Quote",
-  "text": "テキスト",
+  "text": "テキスト"
   "redirected": "作成完了: {{url}}",
   "server": "サーバー",
   "user": "ユーザー"
