@@ -4,6 +4,7 @@
   "message_empty": "対象のメッセージが空白です",
   "message_not_found": "対象のメッセージが見つかりませんでした",
   "font_invalid": "`{{font}}` というフォントは存在しません",
+  "theme_invalid": "Theme not found: `{{theme}}`",
   "banned": "あなたもしくはこのサーバーはこの Bot の使用を禁止されています。",
   "blocked": "相手が生成をブロックしています (もしくは、あなたが生成をブロックしています)",
   "blocked_with_spoiler": "相手がスポイラーが含まれているメッセージからの生成をブロックしています (もしくは、あなたが生成をブロックしています)",
@@ -30,5 +31,9 @@
   "cant_view": "このチャンネルを見ることができません。チャンネルの権限を確認してください。",
   "edit_failed": "メッセージの編集に失敗しました。",
   "unknown_integration_type": "インテグレーションタイプが不明です。サポートサーバーにお問い合わせください。",
-  "userapp_not_allowed": "あなたに「メッセージを送信」権限が付与されていないため、このチャンネルでUser App Quoteを使用することはできません。"
+  "userapp_not_allowed": "あなたに「メッセージを送信」権限が付与されていないため、このチャンネルでUser App Quoteを使用することはできません。",
+  "plus": {
+    "get": "Get Make it a Quote+",
+    "theme": "Theme feature is only available in {{planname}}. {{get}}"
+  }
 }
