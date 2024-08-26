@@ -14,18 +14,18 @@
   "page4": {
     "title": "About Custom Quote",
     "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
-    "1": "Conditions of use",
+    "1": "Conditions d'utilisation",
     "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
     "3": "How to use",
-    "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+    "4": "Utilise la commande `/custom-quote`. Si `quote_as` est  \tspécifié, la citation personnalisée sera créée dans le nom de l'utilisateur, sinon à ton nom"
   },
   "page5": {
-    "title": "About Web Dashboard",
+    "title": "À propos de tableau de bord web",
     "link": "You can access the dashboard from the URL above.",
     "description": "The dashboard allows customization of user and server settings.",
     "links": {
-      "title": "Links",
-      "home": "Top Page",
+      "title": "Liens",
+      "home": "Page d'accueil",
       "dashboard": "Tableau de bord",
       "status": "Statut du bot",
       "terms": "Terms of Service",
