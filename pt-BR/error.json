@@ -4,6 +4,7 @@
   "message_empty": "A mensagem está vazia",
   "message_not_found": "Eu não pude achar a mensagem em qual você está se referindo.",
   "font_invalid": "A fonte não foi encontrada: '{{font}}'",
+  "theme_invalid": "Theme not found: `{{theme}}`",
   "banned": "Você e/ou esse servidor está banido de usar esse bot.",
   "blocked": "O usuario bloqueou a geração de imagens. (ou você bloqueou a geração de imagens)",
   "blocked_with_spoiler": "O usuário alvo bloqueou a geração de imagens a partir de mensagens que incluem spoilers( ou foi você quem bloqueou)",
@@ -30,5 +31,9 @@
   "cant_view": "I can't view this channel. Please check the channel permissions.",
   "edit_failed": "Failed to edit the message.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you.",
+  "plus": {
+    "get": "Get Make it a Quote+",
+    "theme": "Theme feature is only available in {{planname}}. {{get}}"
+  }
 }
