@@ -4,6 +4,7 @@
   "message_empty": "対象のメッセージが空白らしいで",
   "message_not_found": "対象のメッセージが見つからんかったで",
   "font_invalid": "`{{font}}` っていうフォントは存在しないみたいや",
+  "theme_invalid": "Theme not found: `{{theme}}`",
   "banned": "あなたもしくはこのサーバーはこの Bot の使用を禁止されてるで。",
   "blocked": "相手が生成をブロックしてるみたいやわ (それか、あなたが生成をブロックしてるかもしれん)",
   "blocked_with_spoiler": "相手がスポイラーが含まれているメッセージからの生成をブロックしてるみたいやわ (それか、あなたが生成をブロックしてるかもしれん)",
@@ -30,5 +31,9 @@
   "cant_view": "I can't view this channel. Please check the channel permissions.",
   "edit_failed": "Failed to edit the message.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you."
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you.",
+  "plus": {
+    "get": "Get Make it a Quote+",
+    "theme": "Theme feature is only available in {{planname}}. {{get}}"
+  }
 }
