@@ -1,13 +1,13 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "Affiche l'aide du bot"
   },
-  "name": "Help",
-  "support_server": "Support Server",
+  "name": "Aide",
+  "support_server": "Serveur de l'assistance",
   "page1": {
     "title": "How to use the Bot",
-    "description": "When you mention this bot in a reply to a message, it generates an image from that message.",
-    "available_options": "Available options",
+    "description": "Lorsque tu mentionnes ce bot dans une réponse à un message, il génère une image de ce message.",
+    "available_options": "Options disponibles",
     "separate": "If you specify more than one, separate them with `,`",
     "font_name": "Font name"
   },
@@ -26,16 +26,16 @@
     "links": {
       "title": "Links",
       "home": "Top Page",
-      "dashboard": "Dashboard",
-      "status": "Bot status",
+      "dashboard": "Tableau de bord",
+      "status": "Statut du bot",
       "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "privacy": "Politique de confidentialité"
     }
   },
   "buttons": {
-    "prev": "Prev",
-    "next": "Next",
-    "close": "Close"
+    "prev": "Avant",
+    "next": "Suivant",
+    "close": "Ferme"
   },
   "only_executor": "Only the user who invoked this help message can execute this action."
 }
