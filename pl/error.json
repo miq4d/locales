@@ -4,6 +4,7 @@
   "message_empty": "Wiadomość jest pusta",
   "message_not_found": "Nie mogłem znaleźć wiadomości, do której się odnosisz.",
   "font_invalid": "Nie znaleziono czcionki: `{{font}}`",
+  "theme_invalid": "Theme not found: `{{theme}}`",
   "banned": "Ty albo ten serwer zostaliście zbanowani z możliwości używania tego bota.",
   "blocked": "Użytkownik docelowy zablokował generowanie obrazków. (lub ty zablokowałeś generowanie obrazków)",
   "blocked_with_spoiler": "Użytkownik docelowy zablokował generowanie obrazków z wiadomości oznaczonych jako spoiler. (lub ty zablokowałeś generowanie obrazków)",
@@ -30,5 +31,9 @@
   "cant_view": "Nie mogę wyświetlić tego kanału. Sprawdź pozwolenia kanału.",
   "edit_failed": "Nie udało się edytować wiadomości.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "Nie możesz tworzyć cytatów na tym kanale, ponieważ nie posiadasz permisji do wysyłania wiadomości."
+  "userapp_not_allowed": "Nie możesz tworzyć cytatów na tym kanale, ponieważ nie posiadasz permisji do wysyłania wiadomości.",
+  "plus": {
+    "get": "Get Make it a Quote+",
+    "theme": "Theme feature is only available in {{planname}}. {{get}}"
+  }
 }
