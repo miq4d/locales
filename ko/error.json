@@ -4,7 +4,7 @@
   "message_empty": "대상 메시지가 비어 있습니다",
   "message_not_found": "대상 메시지를 찾을 수 없습니다",
   "font_invalid": "`{{font}}`라는 폰트는 존재하지 않습니다",
-  "theme_invalid": "Theme not found: `{{theme}}`",
+  "theme_invalid": "테마를 찾을 수 없습니다: `{{theme}}`",
   "banned": "당신 혹은 이 서버에서 이 Bot의 사용이 금지되었습니다.",
   "blocked": "상대방이 생성을 차단하고 있습니다 (또는 당신이 생성을 차단하고 있습니다)",
   "blocked_with_spoiler": "상대방이 스포일러가 포함된 메시지에서의 생성을 차단하고 있습니다 (또는 당신이 생성을 차단하고 있습니다)",
