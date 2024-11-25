@@ -33,6 +33,7 @@
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
   "userapp_not_allowed": "Nie możesz tworzyć cytatów na tym kanale, ponieważ nie posiadasz permisji do wysyłania wiadomości.",
   "plus": {
+    "plus_bot_required": "Make it a Quote+ is required to use this Dedicated Bot.",
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"
   }

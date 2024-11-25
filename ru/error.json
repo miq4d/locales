@@ -33,6 +33,7 @@
   "unknown_integration_type": "Неизвестный тип интеграции. Пожалуйста, сообщите об этом на сервер поддержки.",
   "userapp_not_allowed": "Вы не можете использовать пользовательскую установку цитат в данном канале, потому что у вас нет права “Отправлять сообщения”.",
   "plus": {
+    "plus_bot_required": "Make it a Quote+ is required to use this Dedicated Bot.",
     "get": "Получите Make it a Quote+",
     "theme": "Функция тем доступна только в {{planname}}. {{get}}"
   }
