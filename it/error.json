@@ -4,7 +4,7 @@
   "message_empty": "Il messaggio è vuoto",
   "message_not_found": "Non sono riuscito a trovare il messaggio a cui ti stai riferendo.",
   "font_invalid": "Font non valido: `{{font}}`",
-  "theme_invalid": "Theme not found: `{{theme}}`",
+  "theme_invalid": "Il tema non è stato individuato: `{{theme}}`",
   "banned": "All'utente o a questo server è vietato l'utilizzo di questo bot.",
   "blocked": "L'utente di riferimento ha bloccato la generazione di immagini. (o hai bloccato la generazione di immagini)",
   "blocked_with_spoiler": "L'utente di destinazione sta bloccando la generazione di immagini dai messaggi contenenti spoiler. (o hai bloccato la generazione di immagini)",
@@ -20,21 +20,21 @@
   "bot_timed_out": "Il messaggio non può essere inviato perché a questo bot è stato applicato un Time Out. Se si dispone di autorizzazioni specifiche, rimuovere il Time Out o contattare l'amministratore del server per rimuoverlo.",
   "not_bot_admin": "Non sei un amministratore di questo bot.",
   "custom_quote_not_allowed": "L'utente di destinazione o l'utente non ha consentito la generazione di citazioni personalizzate.",
-  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
+  "custom_quote_not_allowed_auto": "La citazione personalizzata è attivata automaticamente, ma il server ha più di {{limit}} membri, o l'user bersaglio oppure stai forzando la citazione personalizzata a essere disattivata.",
   "cooldown": {
     "title": "Calma.",
     "desc": "Questo server ha un cooldown di citazione, attendere {{sec}}."
   },
   "channel_not_found": "Non è stato possibile trovare il canale a cui reindirizzare. Contattare l'amministratore di questo server",
   "always_quote_limit": "Solo {{limit}} canali con la funzione di citare sempre i messaggi possono essere assegnati.",
-  "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you.",
-  "cant_view": "I can't view this channel. Please check the channel permissions.",
-  "edit_failed": "Failed to edit the message.",
-  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you.",
+  "you_cant_use": "Non puoi essere citato. Per favore chiedi all'amministratore del tuo server di attivare Quote per te.",
+  "cant_view": "Non riesco a vedere questo canale. Per favore controlla i permessi di questo canale.",
+  "edit_failed": "Impossibile modificare il messaggio.",
+  "unknown_integration_type": "Tipo d'integrazione sconosciuta. Per favore segnala questo nel server di supporto.",
+  "userapp_not_allowed": "Non puoi usare le citazione app degli User in questo canale perché il permesso di  \"Mandare messaggio\" non ti è stato dato.",
   "plus": {
-    "plus_bot_required": "Make it a Quote+ is required to use this Dedicated Bot.",
-    "get": "Get Make it a Quote+",
-    "theme": "Theme feature is only available in {{planname}}. {{get}}"
+    "plus_bot_required": "Make it a Quote+ è obbligato a usare questo bot dedicato.",
+    "get": "Ottieni Make it a Quote+",
+    "theme": "Funzionalità tema disponibile solamente in {{planname}}.{{get}}"
   }
 }
