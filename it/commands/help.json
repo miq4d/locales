@@ -13,23 +13,23 @@
   },
   "page4": {
     "title": "Riguardo i file personalizzati",
-    "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
+    "description": "Le citazioni personalizzate sono delle funzionalità che ti permettono di creare una citazione da una dichiarazione falsa.",
     "1": "Condizioni d'uso",
-    "2": "Sia il creatore che il recipiente devono permettere quotazioni personalizzate nella Web Dashboard",
+    "2": "Sia il creatore che il recipiente devono permettere quotazioni personalizzate nel centro di controllo sul web.",
     "3": "Come si usa",
-    "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
+    "4": "Usa il comando `/custom_quote`. Se `quote_as` è specificato, la citazione personalizzata sarà creata nel nome dell'user,  altrimenti nel tuo nome."
   },
   "page5": {
-    "title": "About Web Dashboard",
-    "link": "You can access the dashboard from the URL above.",
-    "description": "The dashboard allows customization of user and server settings.",
+    "title": "Informazioni sul centro di controllo sul Web",
+    "link": "Puoi accedere al pannello di controllo tramite l'URL sopra.",
+    "description": "Il pannello di controllo permette la personalizzazione delle impostazioni dell'user e del server.",
     "links": {
-      "title": "Links",
-      "home": "Top Page",
-      "dashboard": "Dashboard",
-      "status": "Bot status",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "title": "Collegamenti",
+      "home": "Pagina superiore",
+      "dashboard": "Pannello di controllo",
+      "status": "Stato del bot",
+      "terms": "Termini di Servizio",
+      "privacy": "Politica sulla Riservatezza"
     }
   },
   "buttons": {
