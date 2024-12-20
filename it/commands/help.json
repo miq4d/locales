@@ -15,7 +15,7 @@
     "title": "About Custom Quote",
     "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
     "1": "Conditions of use",
-    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
+    "2": "Sia il creatore che il recipiente devono permettere quotazioni personalizzate nella Web Dashboard",
     "3": "Come si usa",
     "4": "Use the `/custom_quote` command. If `quote_as` is specified, the custom Quote will be created in the user's name, otherwise in your name."
   },
