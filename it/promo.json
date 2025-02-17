@@ -1,4 +1,8 @@
 {
   "hide": "Fai una sola donazione per nascondere questa pubblicità.",
-  "promo_text_1": "Questo bot dipende solamente dalle donazioni per continuare a funzionare. [Perché non diventare un donatore? Accettiamo anche donazioni di 1$]({{support}})"
+  "promo_text_1": "Questo bot dipende solamente dalle donazioni per continuare a funzionare. [Perché non diventare un donatore? Accettiamo anche donazioni di 1$]({{support}})",
+  "promo_text_2": "Unlock a world of colors and fonts with our Premium membership! 🌈✨ Customize your chat like never before!\n[Learn more here.]({{support}})",
+  "promo_text_3": "Premium members get the VIP treatment! 🌟 Change text styles and backgrounds to express yourself in the cutest way possible!\n[Learn more here.]({{support}})",
+  "promo_text_4": "Premium features are like magic for your quotes! ✨🪄 Show your uniqueness with custom fonts and colors!\n[Learn more here.]({{support}})",
+  "promo_text_5": "Join the Premium club and make your friends 'jelly' with your custom quote images!\n[Learn more here.]({{support}})"
 }
