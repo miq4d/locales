@@ -1,4 +1,8 @@
 {
   "hide": "Doe een eenmalige donatie om deze advertentie te verbergen.",
-  "promo_text_1": "Deze bot draait alleen op donaties om draaiende te blijven.\n[Waarom word je geen donateur? We accepteren donaties vanaf $1!]({{support}})"
+  "promo_text_1": "Deze bot draait alleen op donaties om draaiende te blijven.\n[Waarom word je geen donateur? We accepteren donaties vanaf $1!]({{support}})",
+  "promo_text_2": "Unlock a world of colors and fonts with our Premium membership! 🌈✨ Customize your chat like never before!\n[Learn more here.]({{support}})",
+  "promo_text_3": "Premium members get the VIP treatment! 🌟 Change text styles and backgrounds to express yourself in the cutest way possible!\n[Learn more here.]({{support}})",
+  "promo_text_4": "Premium features are like magic for your quotes! ✨🪄 Show your uniqueness with custom fonts and colors!\n[Learn more here.]({{support}})",
+  "promo_text_5": "Join the Premium club and make your friends 'jelly' with your custom quote images!\n[Learn more here.]({{support}})"
 }
