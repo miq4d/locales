@@ -1,4 +1,8 @@
 {
   "hide": "Сделайте единоразовое пожертвование, чтобы скрыть данную рекламу.",
-  "promo_text_1": "Данный бот пологается исключительно на пожертвования, чтобы продолжать свою работу.\n[Почему бы не пожертвовать? Мы принимаем пожертвования от $1!]({{support}})"
+  "promo_text_1": "Данный бот пологается исключительно на пожертвования, чтобы продолжать свою работу.\n[Почему бы не пожертвовать? Мы принимаем пожертвования от $1!]({{support}})",
+  "promo_text_2": "Unlock a world of colors and fonts with our Premium membership! 🌈✨ Customize your chat like never before!\n[Learn more here.]({{support}})",
+  "promo_text_3": "Premium members get the VIP treatment! 🌟 Change text styles and backgrounds to express yourself in the cutest way possible!\n[Learn more here.]({{support}})",
+  "promo_text_4": "Premium features are like magic for your quotes! ✨🪄 Show your uniqueness with custom fonts and colors!\n[Learn more here.]({{support}})",
+  "promo_text_5": "Join the Premium club and make your friends 'jelly' with your custom quote images!\n[Learn more here.]({{support}})"
 }
