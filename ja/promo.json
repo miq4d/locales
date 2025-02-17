@@ -1,4 +1,8 @@
 {
   "hide": "1回でも寄付をすれば、この広告は非表示になります",
-  "promo_text_1": "このボットの運営資金は寄付のみによって賄われています。\n[あなたも寄付しませんか？100円から寄付を受け付けています。]({{support}})"
+  "promo_text_1": "このボットの運営資金は寄付のみによって賄われています。\n[あなたも寄付しませんか？100円から寄付を受け付けています。]({{support}})",
+  "promo_text_2": "Unlock a world of colors and fonts with our Premium membership! 🌈✨ Customize your chat like never before!\n[Learn more here.]({{support}})",
+  "promo_text_3": "Premium members get the VIP treatment! 🌟 Change text styles and backgrounds to express yourself in the cutest way possible!\n[Learn more here.]({{support}})",
+  "promo_text_4": "Premium features are like magic for your quotes! ✨🪄 Show your uniqueness with custom fonts and colors!\n[Learn more here.]({{support}})",
+  "promo_text_5": "Join the Premium club and make your friends 'jelly' with your custom quote images!\n[Learn more here.]({{support}})"
 }
