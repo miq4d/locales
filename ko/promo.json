@@ -1,4 +1,8 @@
 {
   "hide": "한 번이라도 기부를 하면 이 광고는 숨겨집니다",
-  "promo_text_1": "이 봇의 운영 자금은 기부에 의해서만 지원됩니다.\n[당신도 기부해 보시겠습니까? 100엔부터 기부를 받고 있습니다.]({{support}})"
+  "promo_text_1": "이 봇의 운영 자금은 기부에 의해서만 지원됩니다.\n[당신도 기부해 보시겠습니까? 100엔부터 기부를 받고 있습니다.]({{support}})",
+  "promo_text_2": "Unlock a world of colors and fonts with our Premium membership! 🌈✨ Customize your chat like never before!\n[Learn more here.]({{support}})",
+  "promo_text_3": "Premium members get the VIP treatment! 🌟 Change text styles and backgrounds to express yourself in the cutest way possible!\n[Learn more here.]({{support}})",
+  "promo_text_4": "Premium features are like magic for your quotes! ✨🪄 Show your uniqueness with custom fonts and colors!\n[Learn more here.]({{support}})",
+  "promo_text_5": "Join the Premium club and make your friends 'jelly' with your custom quote images!\n[Learn more here.]({{support}})"
 }
