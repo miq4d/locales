@@ -1,3 +1,3 @@
 {
-  "not_subscribed": "You cannot use the Dedicated Bot because you are not subscribed to Plus.\nPlease use the [free version of the bot]({{freeinvite}}) or [subscribe to Plus]({{plus}})."
+  "not_subscribed": "Plusに加入していないため、専用ボットをご利用いただけません。\n[無料版ボットを使用する]({{freeinvite}}) か [Plusに加入しましょう]({{plus}})！"
 }
