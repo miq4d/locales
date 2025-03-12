@@ -33,7 +33,6 @@
   "unknown_integration_type": "Tipo d'integrazione sconosciuta. Per favore segnala questo nel server di supporto.",
   "userapp_not_allowed": "Non puoi usare le citazione app degli User in questo canale perché il permesso di  \"Mandare messaggio\" non ti è stato dato.",
   "plus": {
-    "plus_bot_required": "Make it a Quote+ è obbligato a usare questo bot dedicato.",
     "get": "Ottieni Make it a Quote+",
     "theme": "Funzionalità tema disponibile solamente in {{planname}}.{{get}}"
   }
