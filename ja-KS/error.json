@@ -13,7 +13,7 @@
   "bot_permissions": {
     "guild": "このサーバーでこの Bot が必要な権限がないっぽいわ。",
     "channel": "このチャンネルでこの Bot が必要な権限がないっぽいわ。",
-    "required_permissions": "この Bot に以下の権限が与えられているか確認してな:\n- チャンネルを見る\n- メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "この Bot に以下の権限が与えられているか確認してな:\n- チャンネルを見る\n- 投稿で(スレッドで)メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
     "dm": "Bot にメッセージの送信が許可されてへんみたいや。権限設定でメッセージの送信を許可してくれへん？"
   },
@@ -28,12 +28,13 @@
   "channel_not_found": "リダイレクト先チャンネルが見つからんかったわ。このサーバーの管理者に連絡してくれ",
   "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までしか作れへんで。",
   "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you.",
-  "cant_view": "I can't view this channel. Please check the channel permissions.",
+  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
   "edit_failed": "Failed to edit the message.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"
-  }
+  },
+  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
 }
