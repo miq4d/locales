@@ -13,7 +13,7 @@
   "bot_permissions": {
     "guild": "Nie mam potrzebnych uprawnień na tym serwerze.",
     "channel": "Nie mam uprawnień potrzebnych, żeby wykonywać komendy na tym kanale.",
-    "required_permissions": "Sprawdź, czy bot ma poniższe uprawnienia:\n- Wyświetlanie kanału\n- Wysyłanie wiadomości\n- Wyświetlanie podglądu linku\n- Załączanie plików\n- Czytanie historii czatu",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Sprawdź, czy bot ma poniższe uprawnienia:\n- Wyświetlanie kanału\n- Wysyłanie wiadomości w wątkach\n- Wyświetlanie podglądu linku\n- Załączanie plików\n- Czytanie historii czatu",
     "dm": "Bot nie może wysyłać wiadomości. Zezwól botu na wysyłanie wiadomości w ustawieniach uprawnień."
   },
@@ -28,12 +28,13 @@
   "channel_not_found": "Kanał, do którego przekierowuję, nie istnieje. Skontaktuj się z administratorem serwera.",
   "always_quote_limit": "Można przypisać tylko {{limit}} kanał(y/ów) Always Quote.",
   "you_cant_use": "Nie możesz być cytowany. Poproś administratora serwera o włączenie możliwości cytowania.",
-  "cant_view": "Nie mogę wyświetlić tego kanału. Sprawdź pozwolenia kanału.",
+  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
   "edit_failed": "Nie udało się edytować wiadomości.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "Nie możesz tworzyć cytatów na tym kanale, ponieważ nie posiadasz permisji do wysyłania wiadomości.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"
-  }
+  },
+  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
 }
