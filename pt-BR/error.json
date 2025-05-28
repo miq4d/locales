@@ -13,7 +13,7 @@
   "bot_permissions": {
     "guild": "Eu nã tenho a permissão nessesaria neste servidor.",
     "channel": "Eu não tenho a permissão nesesaria para executar comandos nesse canal.",
-    "required_permissions": "Por favor, verifique se as seguintes permissões foram concedidas a este \"bot.\":\nVer Canal\nEnviar Mensagens\nIncorporar Links\nAnexar Arquivos\nLer Histórico de Mensagens",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Por favor, verifique se as seguintes permissões foram concedidas a este bot:\n\nVer Canal\nEnviar Mensagens em Threads (ou Posts)\nIncorporar Links\nAnexar Arquivos\nLer Histórico de Mensagens",
     "dm": "O bot não tem a permissão para mandar mensagens. Por favor de a permissão para o bot mandar mensagens."
   },
@@ -28,12 +28,13 @@
   "channel_not_found": "O canal para o qual estou redirecionando não pôde ser encontrado. Entre em contato com o administrador desse servidor.",
   "always_quote_limit": "Somente pode ter {{limit}} sempre citados.",
   "you_cant_use": "Você não é citável. Solicite ao administrador do servidor que ative a opção Citar para você.",
-  "cant_view": "I can't view this channel. Please check the channel permissions.",
+  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
   "edit_failed": "Failed to edit the message.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"
-  }
+  },
+  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
 }
