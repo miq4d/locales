@@ -13,7 +13,7 @@
   "bot_permissions": {
     "guild": "Non ho i permessi necessari in questo server.",
     "channel": "Non ho i permessi necessari per eseguire comandi in questo canale.",
-    "required_permissions": "Verifica che i seguenti permessi siano stati concessi a questo bot:\n- Visualizzare i canali \n- Inviare messaggi\n- Incorporare i link\n- Allegare i file\n- Leggere la cronologia dei messaggi",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Verifica che i seguenti permessi siano stati concessi a questo bot:\n- Visualizzare i canali \n- Inviare messaggi nei thread (o nei Post)\n- Incorporare i link\n- Allegare i file\n- Leggere la cronologia dei messaggi",
     "dm": "Il bot non è autorizzato a inviare messaggi. Consenti al bot di inviare messaggi nella sezione Permessi nelle impostazioni."
   },
@@ -28,12 +28,13 @@
   "channel_not_found": "Non è stato possibile trovare il canale a cui reindirizzare. Contattare l'amministratore di questo server",
   "always_quote_limit": "Solo {{limit}} canali con la funzione di citare sempre i messaggi possono essere assegnati.",
   "you_cant_use": "Non puoi essere citato. Per favore chiedi all'amministratore del tuo server di attivare Quote per te.",
-  "cant_view": "Non riesco a vedere questo canale. Per favore controlla i permessi di questo canale.",
+  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
   "edit_failed": "Impossibile modificare il messaggio.",
   "unknown_integration_type": "Tipo d'integrazione sconosciuta. Per favore segnala questo nel server di supporto.",
-  "userapp_not_allowed": "Non puoi usare le citazione app degli User in questo canale perché il permesso di  \"Mandare messaggio\" non ti è stato dato.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
   "plus": {
     "get": "Ottieni Make it a Quote+",
     "theme": "Funzionalità tema disponibile solamente in {{planname}}.{{get}}"
-  }
+  },
+  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
 }

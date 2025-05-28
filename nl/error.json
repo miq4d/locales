@@ -13,7 +13,7 @@
   "bot_permissions": {
     "guild": "Ik heb niet de vereiste machtigingen op deze server.",
     "channel": "Ik heb niet de vereiste machtigingen om commando's in dit kanaal uit te voeren.",
-    "required_permissions": "Controleer of de volgende machtigingen zijn toegekend aan deze bot:\n- Kanaal bekijken\n- Berichten versturen\n- Links insluiten\n- Bestanden bijvoegen\n- Berichtgeschiedenis lezen",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Controleer of de volgende machtigingen zijn toegekend aan deze bot:\n- Kanaal bekijken\n- Berichten versturen in Thread (of posts)\n- Links insluiten\n- Bestanden bijvoegen\n- Berichtgeschiedenis lezen",
     "dm": "De bot mag geen berichten verzenden. Sta deze bot toe om berichten te versturen in de toestemmingsinstellingen."
   },
@@ -28,12 +28,13 @@
   "channel_not_found": "Het kanaal waarnaar ik doorverwijs kon niet worden gevonden. Neem contact op met de beheerder van deze server.",
   "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned.",
   "you_cant_use": "You are not Quotable. Please ask your server administrator to enable Quote for you.",
-  "cant_view": "I can't view this channel. Please check the channel permissions.",
+  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
   "edit_failed": "Failed to edit the message.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"
-  }
+  },
+  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
 }

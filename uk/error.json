@@ -13,7 +13,7 @@
   "bot_permissions": {
     "guild": "Я не маю необхідних дозволів на цьому сервері.",
     "channel": "Я не маю необхідних дозволів для запуску команд у цьому каналі.",
-    "required_permissions": "Будь ласка, перевірте, чи надані наступні дозволи цьому боту:\n- Дивитися канали\n- Надсилання повідомлень\n- Вставляти посилання\n- Прикріпляти файлів\n- Читати історію повідомлень",
+    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Будь ласка, перевірте, чи надані наступні дозволи цьому боту:\n- Дивитися канали\n- Відправляти повідомлення у гілках та публікаціях\n- Вставляти посилання\n- Прикріпляти файлів\n- Читати історію повідомлень",
     "dm": "Боту не дозволено надсилати повідомлення. Будь ласка, дозвольте цьому боту надсилати повідомлення в налаштуваннях дозволів."
   },
@@ -28,12 +28,13 @@
   "channel_not_found": "Канал, на який я перенаправляю, не вдалося знайти. Будь ласка, зверніться до адміністратора цього сервера.",
   "always_quote_limit": "Можна призначити лише {{limit}} каналів для постійного цитування.",
   "you_cant_use": "Вас не можна цитувати. Будь ласка, зверніться до адміністратора вашого сервера, щоб він увімкнув для вас функцію цитування.",
-  "cant_view": "Я не можу переглянути цей канал. Будь ласка, перевірте права доступу до каналу.",
+  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
   "edit_failed": "Не вдалося редагувати повідомлення.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Send Messages” permission is not granted to you.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"
-  }
+  },
+  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
 }
