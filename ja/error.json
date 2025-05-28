@@ -13,7 +13,7 @@
   "bot_permissions": {
     "guild": "このサーバーでこの Bot が必要な権限がありません。",
     "channel": "このチャンネルでこの Bot が必要な権限がありません。",
-    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
+    "required_permissions": "この Bot に以下の権限が与えられているか確認してください:\n- チャンネルを見る\n- メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む\n\n</doctor:{{cmd}}> を実行することで権限をチェックできます。",
     "required_permissions_in_thread": "この Bot に以下の権限が与えられているか確認してください:\n- チャンネルを見る\n- 投稿で(スレッドで)メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
     "dm": "Bot にメッセージの送信が許可されていません。権限設定でメッセージの送信を許可してください。"
   },
@@ -28,13 +28,13 @@
   "channel_not_found": "リダイレクト先チャンネルが見つかりませんでした。このサーバーの管理者に連絡してください",
   "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までです。",
   "you_cant_use": "あなたは Quote 可能ではありません。サーバーの管理者にQuoteを可能にするよう依頼してください。",
-  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
+  "cant_view": "このチャンネルを見ることができません。チャンネルの権限を確認してください。\n(「チャンネルを見る」権限が必要です。ボイスチャンネル付属のテキストチャンネルを使用している場合、「接続」権限も必要です)",
   "edit_failed": "メッセージの編集に失敗しました。",
   "unknown_integration_type": "インテグレーションタイプが不明です。サポートサーバーにお問い合わせください。",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
+  "userapp_not_allowed": "あなたに「外部アプリを使用」権限が付与されていないため、このチャンネルでUser App Quoteを使用することはできません。",
   "plus": {
     "get": "Make it a Quote+ をゲット",
     "theme": "テーマ機能は {{planname}} でのみ利用可能です。 {{get}}"
   },
-  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
+  "forwarded_message": "ボットの仕様上、転送されたメッセージは現在 Quote できません。今後変更される可能性があります。"
 }
