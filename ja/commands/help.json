@@ -7,13 +7,13 @@
   "page1": {
     "title": "<:e:{{help}}> Quoteのやりかた",
     "desc1": "返信で Bot をメンションするか、",
-    "desc2": "右クリック/長押しして「アプリ」→「Make it a Quote」を選択することでも Quote できます。",
+    "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
     "note": "<:e:{{warning}}> **注意:** DMでは後者しか使えません。"
   },
   "page2": {
     "title": "<:e:{{cog}}> Quote のカスタマイズ",
     "desc1": "Quote の下にあるボタンを使って、フォントや様々なレイアウトオプションを変更することができます。",
-    "note": "<:e:{{warning}}> **注意:** Bot のリダイレクト設定を有効にしている場合は動作しません！\n<:e:{{warning}}> **注意:** [Bot 設定]({{dashboard}})で「コンパクトモード」を有効にすることで、これを無効にすることができます。"
+    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
   },
   "page3": {
     "title": "<:e:{{forward}}> Quote リダイレクト",
@@ -23,13 +23,13 @@
     "title": "<:e:{{user}}> User App",
     "desc1": "User App をインストールすることで、DMで Make it a Quote を使用することができます。[こちらのリンクから導入可能です。]({{install}})。",
     "desc2": "<:e:{{help}}> User App の使い方",
-    "desc3": "DMではコンテキストメニューしか使えないので、Quote したいメッセージの上で右クリック/長押しして「アプリ」→「Make it a Quote」を選択する必要があります。"
+    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Make it a Quote\"."
   },
   "page5": {
     "title": "<:e:{{sandbox}}> カスタム Quote",
     "desc1": "`/custom_quote` コマンドを使えば、他人のプロフィールを使って Quote 画像を作成することができます。",
     "desc2": "<:e:{{unflag}}> カスタム Quote ではカスタマイズはできません。",
-    "note": "<:e:{{warning}}> **注意:** あなたと対象のユーザーの両方が、[ボット設定]({{dashboard}}) でカスタム Quote を許可している必要があります。"
+    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes enabled in the [bot settings!]({{dashboard}})"
   },
   "page6": {
     "title": "<:e:{{web}}> その他",
@@ -42,7 +42,7 @@
       "privacy": "プライバシーポリシー"
     },
     "desc2": "### 寄付してみませんか？",
-    "desc3": "もしこの Bot を楽しんでくれたなら、ぜひご支援をご検討ください！",
+    "desc3": "If you enjoy using this bot, please consider supporting us!",
     "donate": "コーヒーを奢る"
   },
   "buttons": {
