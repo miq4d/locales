@@ -7,13 +7,13 @@
   "page1": {
     "title": "## <:e:{{help}}> How to Quote",
     "desc1": "You can either mention the bot in a reply,",
-    "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
+    "desc2": "Or right-click/long-press on the message and select \"Apps\" -> \"Make it a Quote\".",
     "note": "<:e:{{warning}}> **Note:** Only the right-click method works in DMs!"
   },
   "page2": {
     "title": "## <:e:{{cog}}> Quote Options",
     "desc1": "You can change the font and various layout options using the buttons below the quote.",
-    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
+    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!\n<:e:{{warning}}> **Note:** You can disable this by enabling \"Compact mode\" in the [bot settings]({{dashboard}})."
   },
   "page3": {
     "title": "## <:e:{{forward}}> Quote Redirection",
@@ -23,13 +23,13 @@
     "title": "## <:e:{{user}}> User App",
     "desc1": "You can install the User App to use Make it a Quote in DMs, [using this link]({{install}}).",
     "desc2": "### <:e:{{help}}> How to use the User App",
-    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Make it a Quote\"."
+    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Apps\" -> \"Make it a Quote\"."
   },
   "page5": {
     "title": "## <:e:{{sandbox}}> Custom Quotes",
     "desc1": "You can use the `/custom_quote` command to create a quote image with someone else's profile.",
     "desc2": "<:e:{{unflag}}> Customization isn't available for Custom Quotes.",
-    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes enabled in the [bot settings!]({{dashboard}})"
+    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes allowed in the [bot settings!]({{dashboard}})"
   },
   "page6": {
     "title": "## <:e:{{web}}> Resources",
@@ -42,7 +42,7 @@
       "privacy": "Privacy Policy"
     },
     "desc2": "### We need your help!",
-    "desc3": "If you enjoy using this bot, please consider supporting us!",
+    "desc3": "If you enjoyed this bot, please consider supporting us!",
     "donate": "Buy us a coffee"
   },
   "buttons": {
