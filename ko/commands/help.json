@@ -5,32 +5,45 @@
   "name": "도움말",
   "support_server": "지원 서버",
   "page1": {
-    "title": "Bot의 사용 방법",
-    "description": "메시지에 답장하여 이 Bot을 언급하면 해당 메시지에서 이미지를 생성합니다.",
-    "available_options": "사용 가능한 옵션",
-    "separate": "여러 옵션을 지정하려면 `,`로 구분하세요",
-    "font_name": "폰트 이름"
+    "title": "## <:e:{{help}}> How to Quote",
+    "desc1": "You can either mention the bot in a reply,",
+    "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
+    "note": "<:e:{{warning}}> **Note:** Only the right-click method works in DMs!"
+  },
+  "page2": {
+    "title": "## <:e:{{cog}}> Quote Options",
+    "desc1": "You can change the font and various layout options using the buttons below the quote.",
+    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
+  },
+  "page3": {
+    "title": "## <:e:{{forward}}> Quote Redirection",
+    "desc1": "You can set up a \"Quote Redirect\" in the dashboard to aggregate everything that is quoted on your server into a single channel. To do so, go to the [bot settings]({{dashboard}}) and select the channel you want to redirect quotes to."
   },
   "page4": {
-    "title": "사용자 정의 Quote에 대해",
-    "description": "사용자 정의 Quote 기능을 사용하면 가상의 발언에서 Quote를 생성할 수 있습니다.",
-    "1": "사용 가능한 조건",
-    "2": "작성자와 피작성자가 모두 웹 대시보드에서 사용자 정의 Quote를 허용하고 있는 경우",
-    "3": "사용 방법",
-    "4": "`/custom_quote` 명령어를 사용하세요. `quote_as`를 지정한 경우 해당 사용자의, 지정하지 않은 경우 자신의 이름으로 사용자 정의 Quote가 생성됩니다."
+    "title": "## <:e:{{user}}> User App",
+    "desc1": "You can install the User App to use Make it a Quote in DMs, [using this link]({{install}}).",
+    "desc2": "### <:e:{{help}}> How to use the User App",
+    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Make it a Quote\"."
   },
   "page5": {
-    "title": "웹 대시보드에 대해",
-    "link": "이 URL을 통해 웹 대시보드에 접속할 수 있습니다.",
-    "description": "대시보드에서는 사용자 설정 및 서버 설정을 맞춤 설정할 수 있습니다.",
+    "title": "## <:e:{{sandbox}}> Custom Quotes",
+    "desc1": "You can use the `/custom_quote` command to create a quote image with someone else's profile.",
+    "desc2": "<:e:{{unflag}}> Customization isn't available for Custom Quotes.",
+    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes enabled in the [bot settings!]({{dashboard}})"
+  },
+  "page6": {
+    "title": "## <:e:{{web}}> Resources",
+    "desc1": "You can access the dashboard from the URL above. The dashboard allows customization of user and server settings.",
     "links": {
-      "title": "링크 모음",
-      "home": "홈페이지",
-      "dashboard": "대시보드",
-      "status": "Bot 상태",
-      "terms": "이용 약관",
-      "privacy": "개인정보 처리 방침"
-    }
+      "support": "Support Server",
+      "home": "Top Page",
+      "dashboard": "Dashboard",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy"
+    },
+    "desc2": "### We need your help!",
+    "desc3": "If you enjoy using this bot, please consider supporting us!",
+    "donate": "Buy us a coffee"
   },
   "buttons": {
     "prev": "이전",
