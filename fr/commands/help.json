@@ -5,32 +5,45 @@
   "name": "Aide",
   "support_server": "Serveur de l'assistance",
   "page1": {
-    "title": "How to use the Bot",
-    "description": "Lorsque tu mentionnes ce bot dans une réponse à un message, il génère une image de ce message.",
-    "available_options": "Options disponibles",
-    "separate": "If you specify more than one, separate them with `,`",
-    "font_name": "Font name"
+    "title": "## <:e:{{help}}> How to Quote",
+    "desc1": "You can either mention the bot in a reply,",
+    "desc2": "Or right-click/long-press on the message and select \"Apps\" -> \"Make it a Quote\".",
+    "note": "<:e:{{warning}}> **Note:** Only the right-click method works in DMs!"
+  },
+  "page2": {
+    "title": "## <:e:{{cog}}> Quote Options",
+    "desc1": "You can change the font and various layout options using the buttons below the quote.",
+    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!\n<:e:{{warning}}> **Note:** You can disable this by enabling \"Compact mode\" in the [bot settings]({{dashboard}})."
+  },
+  "page3": {
+    "title": "## <:e:{{forward}}> Quote Redirection",
+    "desc1": "You can set up a \"Quote Redirect\" in the dashboard to aggregate everything that is quoted on your server into a single channel. To do so, go to the [bot settings]({{dashboard}}) and select the channel you want to redirect quotes to."
   },
   "page4": {
-    "title": "About Custom Quote",
-    "description": "Custom Quote feature allows you to create a Quote from a fictitious statement.",
-    "1": "Conditions d'utilisation",
-    "2": "Both the creator and the recipient must allow custom quotes in the Web Dashboard.",
-    "3": "How to use",
-    "4": "Utilise la commande `/custom-quote`. Si `quote_as` est  \tspécifié, la citation personnalisée sera créée dans le nom de l'utilisateur, sinon à ton nom"
+    "title": "## <:e:{{user}}> User App",
+    "desc1": "You can install the User App to use Make it a Quote in DMs, [using this link]({{install}}).",
+    "desc2": "### <:e:{{help}}> How to use the User App",
+    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Apps\" -> \"Make it a Quote\"."
   },
   "page5": {
-    "title": "À propos de tableau de bord web",
-    "link": "You can access the dashboard from the URL above.",
-    "description": "The dashboard allows customization of user and server settings.",
+    "title": "## <:e:{{sandbox}}> Custom Quotes",
+    "desc1": "You can use the `/custom_quote` command to create a quote image with someone else's profile.",
+    "desc2": "<:e:{{unflag}}> Customization isn't available for Custom Quotes.",
+    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes allowed in the [bot settings!]({{dashboard}})"
+  },
+  "page6": {
+    "title": "## <:e:{{web}}> Resources",
+    "desc1": "You can access the dashboard from the URL above. The dashboard allows customization of user and server settings.",
     "links": {
-      "title": "Liens",
-      "home": "Page d'accueil",
-      "dashboard": "Tableau de bord",
-      "status": "Statut du bot",
+      "support": "Support Server",
+      "home": "Top Page",
+      "dashboard": "Dashboard",
       "terms": "Terms of Service",
-      "privacy": "Politique de confidentialité"
-    }
+      "privacy": "Privacy Policy"
+    },
+    "desc2": "### We need your help!",
+    "desc3": "If you enjoyed this bot, please consider supporting us!",
+    "donate": "Buy us a coffee"
   },
   "buttons": {
     "prev": "Avant",
