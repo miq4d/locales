@@ -15,7 +15,8 @@
     "channel": "このチャンネルでこの Bot が必要な権限がありません。",
     "required_permissions": "この Bot に以下の権限が与えられているか確認してください:\n- チャンネルを見る\n- メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む\n\n</doctor:{{cmd}}> を実行することで権限をチェックできます。",
     "required_permissions_in_thread": "この Bot に以下の権限が与えられているか確認してください:\n- チャンネルを見る\n- 投稿で(スレッドで)メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
-    "dm": "Bot にメッセージの送信が許可されていません。権限設定でメッセージの送信を許可してください。"
+    "dm": "Bot にメッセージの送信が許可されていません。権限設定でメッセージの送信を許可してください。",
+    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
   },
   "bot_timed_out": "Bot がタイムアウトされているため、メッセージを送信できません。あなたが権限を持っているならばタイムアウトを解除、そうでない場合はサーバーの管理者に連絡してタイムアウトを解除してもらうよう依頼してください。",
   "not_bot_admin": "あなたはこの Bot の管理者ではありません。",
