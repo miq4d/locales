@@ -15,7 +15,8 @@
     "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten in Threads senden (oder Posts)\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen",
-    "dm": "Dem Bot ist es nicht erlaubt, Nachrichten zu senden. Bitte erlaube diesem Bot Nachrichten zu senden in den Berechtigungseinstellungen."
+    "dm": "Dem Bot ist es nicht erlaubt, Nachrichten zu senden. Bitte erlaube diesem Bot Nachrichten zu senden in den Berechtigungseinstellungen.",
+    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
   },
   "bot_timed_out": "I am now timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "Du bist nicht der Admin dieses Bots.",
