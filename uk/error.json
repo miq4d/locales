@@ -15,7 +15,8 @@
     "channel": "Я не маю необхідних дозволів для запуску команд у цьому каналі.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Будь ласка, перевірте, чи надані наступні дозволи цьому боту:\n- Дивитися канали\n- Відправляти повідомлення у гілках та публікаціях\n- Вставляти посилання\n- Прикріпляти файлів\n- Читати історію повідомлень",
-    "dm": "Боту не дозволено надсилати повідомлення. Будь ласка, дозвольте цьому боту надсилати повідомлення в налаштуваннях дозволів."
+    "dm": "Боту не дозволено надсилати повідомлення. Будь ласка, дозвольте цьому боту надсилати повідомлення в налаштуваннях дозволів.",
+    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
   },
   "bot_timed_out": "Повідомлення не може бути надіслано, оскільки цей бот знаходиться у тимчасовому блоці. Якщо у вас є відповідні дозволи, будь ласка, зніміть тимчасовий блок або зверніться до адміністраторів сервера, щоб вони зняли тимчасовий блок.",
   "not_bot_admin": "Ви не є адміністратором цього бота.",
