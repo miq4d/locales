@@ -7,7 +7,7 @@
   "page1": {
     "title": "<:e:{{help}}> Quoteのやりかた",
     "desc1": "返信で Bot をメンションするか、",
-    "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
+    "desc2": "右クリック/長押しして「アプリ」→「Make it a Quote」を選択することでも Quote できます。",
     "note": "<:e:{{warning}}> **注意:** DMでは後者しか使えません。"
   },
   "page2": {
@@ -24,7 +24,7 @@
     "title": "<:e:{{user}}> User App",
     "desc1": "User App をインストールすることで、DMで Make it a Quote を使用することができます。[こちらのリンクから導入可能です。]({{install}})。",
     "desc2": "<:e:{{help}}> User App の使い方",
-    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Make it a Quote\"."
+    "desc3": "DMではコンテキストメニューしか使えないので、Quote したいメッセージの上で右クリック/長押しして「アプリ」→「Make it a Quote」を選択する必要があります。"
   },
   "page5": {
     "title": "<:e:{{sandbox}}> カスタム Quote",
