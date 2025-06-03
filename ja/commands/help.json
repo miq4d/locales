@@ -13,7 +13,7 @@
   "page2": {
     "title": "<:e:{{cog}}> Quote のカスタマイズ",
     "desc1": "Quote の下にあるボタンを使って、フォントや様々なレイアウトオプションを変更することができます。",
-    "desc2": "You can view the list of available fonts by [clicking here]({{fonts}}).",
+    "desc2": "利用可能なフォントのリストは、[ここをクリック]({{fonts}})してご覧いただけます。",
     "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
   },
   "page3": {
