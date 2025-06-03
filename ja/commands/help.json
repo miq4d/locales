@@ -14,7 +14,7 @@
     "title": "<:e:{{cog}}> Quote のカスタマイズ",
     "desc1": "Quote の下にあるボタンを使って、フォントや様々なレイアウトオプションを変更することができます。",
     "desc2": "利用可能なフォントのリストは、[ここをクリック]({{fonts}})してご覧いただけます。",
-    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
+    "note": "<:e:{{warning}}> **注意:** Bot のリダイレクト設定を有効にしている場合は動作しません！\n<:e:{{warning}}> **注意:** [Bot 設定]({{dashboard}})で「コンパクトモード」を有効にすることで、これを無効にすることができます。"
   },
   "page3": {
     "title": "<:e:{{forward}}> Quote リダイレクト",
@@ -30,7 +30,7 @@
     "title": "<:e:{{sandbox}}> カスタム Quote",
     "desc1": "`/custom_quote` コマンドを使えば、他人のプロフィールを使って Quote 画像を作成することができます。",
     "desc2": "<:e:{{unflag}}> カスタム Quote ではカスタマイズはできません。",
-    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes enabled in the [bot settings!]({{dashboard}})"
+    "note": "<:e:{{warning}}> **注意:** あなたと対象のユーザーの両方が、[ボット設定]({{dashboard}}) でカスタム Quote を許可している必要があります。"
   },
   "page6": {
     "title": "<:e:{{web}}> その他",
@@ -43,7 +43,7 @@
       "privacy": "プライバシーポリシー"
     },
     "desc2": "### 寄付してみませんか？",
-    "desc3": "If you enjoy using this bot, please consider supporting us!",
+    "desc3": "もしこの Bot を楽しんでくれたなら、ぜひご支援をご検討ください！",
     "donate": "コーヒーを奢る"
   },
   "buttons": {
