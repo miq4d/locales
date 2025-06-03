@@ -15,7 +15,8 @@
     "channel": "Nie mam uprawnień potrzebnych, żeby wykonywać komendy na tym kanale.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Sprawdź, czy bot ma poniższe uprawnienia:\n- Wyświetlanie kanału\n- Wysyłanie wiadomości w wątkach\n- Wyświetlanie podglądu linku\n- Załączanie plików\n- Czytanie historii czatu",
-    "dm": "Bot nie może wysyłać wiadomości. Zezwól botu na wysyłanie wiadomości w ustawieniach uprawnień."
+    "dm": "Bot nie może wysyłać wiadomości. Zezwól botu na wysyłanie wiadomości w ustawieniach uprawnień.",
+    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
   },
   "bot_timed_out": "Wiadomość nie może zostać wysłana, ponieważ bot został Wysłany na przerwę. Jeśli posiadasz wymagane uprawnienia, zdejmij przerwę z bota lub skontaktuj się z administratorami serwera.",
   "not_bot_admin": "Nie jesteś administratorem tego bota.",

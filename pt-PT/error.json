@@ -15,7 +15,8 @@
     "channel": "I do not have the required permissions to run commands in this channel.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages in Threads (or Posts)\n- Embed links\n- Attach Files\n- Read Message History",
-    "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings."
+    "dm": "The bot is not allowed to send messages. Please allow this bot to send messages in the permission settings.",
+    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
   },
   "bot_timed_out": "The message cannot be sent because this bot has timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "You are not a this bot's admin.",

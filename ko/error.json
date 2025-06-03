@@ -15,7 +15,8 @@
     "channel": "이 채널에서 이 Bot이 필요로 하는 권한이 부족합니다.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "다음 권한이 이 Bot에게 부여되어 있는지 확인하세요:\n- 채널 보기\n- 스레드에서 메시지 보내기\n- 임베드 링크\n- 파일 첨부\n- 메시지 기록 읽기",
-    "dm": "Bot에게 메시지를 보내는 것이 허용되지 않았습니다. 메시지 보내기 권한을 설정에서 허용해 주세요."
+    "dm": "Bot에게 메시지를 보내는 것이 허용되지 않았습니다. 메시지 보내기 권한을 설정에서 허용해 주세요.",
+    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
   },
   "bot_timed_out": "Bot이 타임아웃되어 메시지를 보낼 수 없습니다. 권한이 있는 경우 타임아웃을 해제하고, 그렇지 않은 경우 서버 관리자에게 타임아웃 해제를 요청하세요.",
   "not_bot_admin": "당신은 이 Bot의 관리자가 아닙니다.",

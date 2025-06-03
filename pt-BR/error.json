@@ -15,7 +15,8 @@
     "channel": "Eu não tenho a permissão nesesaria para executar comandos nesse canal.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Por favor, verifique se as seguintes permissões foram concedidas a este bot:\n\nVer Canal\nEnviar Mensagens em Threads (ou Posts)\nIncorporar Links\nAnexar Arquivos\nLer Histórico de Mensagens",
-    "dm": "O bot não tem a permissão para mandar mensagens. Por favor de a permissão para o bot mandar mensagens."
+    "dm": "O bot não tem a permissão para mandar mensagens. Por favor de a permissão para o bot mandar mensagens.",
+    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
   },
   "bot_timed_out": "A mensagem não pode ser enviada pois o bot ficou com tempo esgotadl. se você tiver permissões especificas, por favor remova o temporizador ou contato com o administrador do servidor para remover o timer.",
   "not_bot_admin": "Você não é um administrador do Bot.",
