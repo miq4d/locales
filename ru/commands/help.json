@@ -13,6 +13,7 @@
   "page2": {
     "title": "## <:e:{{cog}}> Параметры цитаты",
     "desc1": "Вы можете изменить шрифт и различные варианты оформления с помощью кнопок под цитатой.",
+    "desc2": "You can view the list of available fonts by [clicking here]({{fonts}}).",
     "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
   },
   "page3": {
