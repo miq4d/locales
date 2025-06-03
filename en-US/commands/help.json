@@ -13,6 +13,7 @@
   "page2": {
     "title": "## <:e:{{cog}}> Quote Options",
     "desc1": "You can change the font and various layout options using the buttons below the quote.",
+    "desc2": "You can view the list of available fonts by [clicking here]({{fonts}}).",
     "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!\n<:e:{{warning}}> **Note:** You can disable this by enabling \"Compact mode\" in the [bot settings]({{dashboard}})."
   },
   "page3": {
