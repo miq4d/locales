@@ -7,5 +7,6 @@
   "text": "Testo",
   "redirected": "Creazione completata: {{url}}",
   "server": "Server",
-  "user": "User"
+  "user": "User",
+  "why": "What does this message mean? How can I fix it?"
 }
