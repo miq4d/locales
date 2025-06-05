@@ -32,7 +32,7 @@
   "cant_view": "このチャンネルを見ることができません。チャンネルの権限を確認してください。\n(「チャンネルを見る」権限が必要です。ボイスチャンネル付属のテキストチャンネルを使用している場合、「接続」権限も必要です)",
   "edit_failed": "メッセージの編集に失敗しました。",
   "unknown_integration_type": "インテグレーションタイプが不明です。サポートサーバーにお問い合わせください。",
-  "userapp_not_allowed": "あなたに「外部アプリを使用」権限が付与されていないため、このチャンネルでUser App Quoteを使用することはできません。",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
   "plus": {
     "get": "Make it a Quote+ をゲット",
     "theme": "テーマ機能は {{planname}} でのみ利用可能です。 {{get}}"
