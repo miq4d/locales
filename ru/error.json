@@ -32,7 +32,7 @@
   "cant_view": "Я не могу просматривать этот канал. Пожалуйста, проверьте права доступа к каналу.\n(Мне нужно разрешение «Просмотр канала». Если вы используете канал Voice-Text, мне также необходимо разрешение «Подключаться»)",
   "edit_failed": "Не удалось отредактировать сообщение.",
   "unknown_integration_type": "Неизвестный тип интеграции. Пожалуйста, сообщите об этом на сервер поддержки.",
-  "userapp_not_allowed": "Вы не можете использовать User App Quote в этом канале, потому что разрешение «Использовать внешние приложения» вам не предоставлено.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
   "plus": {
     "get": "Получите Make it a Quote+",
     "theme": "Функция тем доступна только в {{planname}}. {{get}}"
