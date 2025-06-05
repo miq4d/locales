@@ -7,5 +7,6 @@
   "text": "テキスト",
   "redirected": "作成完了: {{url}}",
   "server": "サーバー",
-  "user": "ユーザー"
+  "user": "ユーザー",
+  "why": "What does this message mean? How can I fix it?"
 }
