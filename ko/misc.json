@@ -7,5 +7,6 @@
   "text": "텍스트",
   "redirected": "생성 완료: {{url}}",
   "server": "서버",
-  "user": "사용자"
+  "user": "사용자",
+  "why": "What does this message mean? How can I fix it?"
 }

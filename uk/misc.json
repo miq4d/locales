@@ -7,5 +7,6 @@
   "text": "Текст",
   "redirected": "Створено: {{url}}",
   "server": "Сервер",
-  "user": "Користувач"
+  "user": "Користувач",
+  "why": "What does this message mean? How can I fix it?"
 }

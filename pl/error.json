@@ -32,7 +32,7 @@
   "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
   "edit_failed": "Nie udało się edytować wiadomości.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” permission is not granted to you.",
+  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"

@@ -7,5 +7,6 @@
   "text": "Tekst",
   "redirected": "Gemaakt: {{url}}",
   "server": "Server",
-  "user": "Gebruiker"
+  "user": "Gebruiker",
+  "why": "What does this message mean? How can I fix it?"
 }
