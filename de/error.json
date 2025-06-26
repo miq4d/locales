@@ -4,7 +4,7 @@
   "message_empty": "Die Nachricht ist leer",
   "message_not_found": "Ich konnte die Nachricht nicht finden, auf die du Bezug nimmst.",
   "font_invalid": "Schriftart nicht gefunden: `{{font}}`",
-  "theme_invalid": "Theme not found: `{{theme}}`",
+  "theme_invalid": "Thema nicht gefunden: `{{theme}}`",
   "banned": "Du oder dieser Server ist für die Nutzung dieses Bots gesperrt.",
   "blocked": "Der Zielbenutzer hat die Bildgenerierung blockiert. (oder Sie haben die Bilderzeugung blockiert)",
   "blocked_with_spoiler": "Der Zielbenutzer hat die Erzeugung von Bildern aus Nachrichten, die Spoiler enthalten, blockiert. (oder Sie haben die Bilderzeugung blockiert)",
@@ -13,10 +13,10 @@
   "bot_permissions": {
     "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
     "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen.",
-    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
+    "required_permissions": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten senden\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen\n\nDu kannst </doctor:{{cmd}}> verwenden um Berechtigungen zu prüfen.",
     "required_permissions_in_thread": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten in Threads senden (oder Posts)\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen",
     "dm": "Dem Bot ist es nicht erlaubt, Nachrichten zu senden. Bitte erlaube diesem Bot Nachrichten zu senden in den Berechtigungseinstellungen.",
-    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
+    "user_app": "Sie verfügen nicht über die erforderlichen Berechtigungen, um Befehle in diesem Channel auszuführen. Bitte überprüfe, ob **Du** die folgenden Berechtigungen besitzt:\n- Externe Apps verwenden\n- Kanal anzeigen\n- Nachrichten senden\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen"
   },
   "bot_timed_out": "I am now timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "Du bist nicht der Admin dieses Bots.",
