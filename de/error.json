@@ -21,7 +21,7 @@
   "bot_timed_out": "I am now timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "Du bist nicht der Admin dieses Bots.",
   "custom_quote_not_allowed": "Der Zielbenutzer oder die Zielbenutzer haben die Erstellung von benutzerdefinierten Bildern nicht erlaubt.",
-  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
+  "custom_quote_not_allowed_auto": "Die benutzerdefinierte Zitate Funktion ist automatisch aktiviert, aber der Server hat mehr als {{limit}} Mitglieder, oder der Ziel-Benutzer oder Sie erzwingen, dass benutzerdefinierte Zitate deaktiviert werden.",
   "cooldown": {
     "title": "Beruhigen Sie sich.",
     "desc": "Dieser Server hat eine Abklingzeit für Zitate, bitte warten Sie {{sec}}."
@@ -29,13 +29,13 @@
   "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
   "always_quote_limit": "Es können nur {{limit}} Always Quote Kanäle zugewiesen werden.",
   "you_cant_use": "Du kannst nicht zitiert werden. Bitte frage deinen Server-Administrator, Zitate für dich zu aktivieren.",
-  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
-  "edit_failed": "Failed to edit the message.",
-  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
+  "cant_view": "Ich kann diesen Kanal nicht sehen. Bitte überprüfe die Kanal-Berechtigungen.\n(Ich benötige die Berechtigung \"Kanal anzeigen\". Wenn Sie einen Voice-Text-Kanal verwenden, benötige ich auch die Berechtigung \"Verbinden\").",
+  "edit_failed": "Die Nachricht konnte nicht bearbeitet werden.",
+  "unknown_integration_type": "Unbekannter Integrationstyp. Bitte melden Sie dies auf dem Support-Server.",
+  "userapp_not_allowed": "Sie können User App Quote in diesem Channel nicht verwenden, da Ihnen die Berechtigung \"Externe Apps verwenden\" oder \"Nachrichten senden\" nicht gewährt wird.",
   "plus": {
-    "get": "Get Make it a Quote+",
-    "theme": "Theme feature is only available in {{planname}}. {{get}}"
+    "get": "Erwerben sie Make it a Quote+",
+    "theme": "Die Themenfunktion ist nur unter {{planname}}verfügbar. {{get}}"
   },
-  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
+  "forwarded_message": "Aufgrund von Bot-Spezifikationen können weitergeleitete Nachrichten derzeit nicht zitiert werden. Dies kann sich in Zukunft ändern."
 }
