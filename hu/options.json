@@ -1,0 +1,8 @@
+{
+  "light": "Fehérre állítja a kép hátterét",
+  "color": "Kiszínezi a felhasználó ikonját",
+  "flip": "Megfordítja a képet",
+  "bold": "Félkövérre állítja a szöveget",
+  "new": "Új típusú képgenerálást használ",
+  "font": "Megváltoztatja a betűtípust a megadottra. [tudj meg többet]({{url}})"
+}
