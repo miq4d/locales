@@ -1,0 +1,8 @@
+{
+  "view_channel": "Csatorna megtekintés",
+  "send_messages": "Üzenet küldés",
+  "send_messages_in_threads": "Üzenet küldés témákban",
+  "embed_links": "Begyátszott hivatkozás küldése",
+  "attach_files": "Fájl feltöltés",
+  "read_message_history": "Üzenetek vissza olvasása"
+}
