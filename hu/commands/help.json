@@ -18,7 +18,7 @@
   },
   "page3": {
     "title": "## <:e:{{forward}}> Idézet átirányítás",
-    "desc1": "Beállíthatsz egy „Idézet átirányítást” a dashboardon, hogy minden idézet egy csatornába kerüljön a szervereden. Ehhez menj a [bot beállításokhoz]({{dashboard}}), és válaszd ki a célcsatornát."
+    "desc1": "Beállíthatsz egy „Idézet átirányítást” a kezelőpulton, hogy minden idézet egy csatornába kerüljön a szervereden. Ehhez menj a [bot beállításokhoz]({{dashboard}}), és válaszd ki a célcsatornát."
   },
   "page4": {
     "title": "## <:e:{{user}}> User App",
@@ -34,7 +34,7 @@
   },
   "page6": {
     "title": "## <:e:{{web}}> Hasznos linkek",
-    "desc1": "A dashboardon testre szabhatod a felhasználói és szerver beállításokat.",
+    "desc1": "A kezelőpulton testre szabhatod a felhasználói és szerver beállításokat.",
     "links": {
       "support": "Support szerver",
       "home": "Főoldal",
@@ -51,5 +51,5 @@
     "next": "Következő",
     "close": "Bezárás"
   },
-  "only_executor": "Csak az a felhasználó hajthatja végre, aki ezt a help üzenetet kérte."
+  "only_executor": "Csak az a felhasználó hajthatja végre, aki ezt a segítő üzenetet kérte."
 }
