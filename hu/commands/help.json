@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "description": "A bot használati útmutatója"
+  },
+  "name": "Segítség",
+  "support_server": "Support szerver",
+  "page1": {
+    "title": "## <:e:{{help}}> Hogyan idézzünk",
+    "desc1": "Vagy említsd meg a botot egy válaszban,",
+    "desc2": "vagy kattints jobb gombbal / tarts hosszan az üzeneten, majd válaszd az „Alkalmazások” -> „Make it a Quote” lehetőséget.",
+    "note": "<:e:{{warning}}> **Megjegyzés:** DM-ben csak a jobb gombos módszer működik!"
+  },
+  "page2": {
+    "title": "## <:e:{{cog}}> Idézet beállítások",
+    "desc1": "Az idézet alatti gombokkal változtathatod a betűtípust és különböző elrendezési beállításokat.",
+    "desc2": "Az elérhető betűtípusok listáját [itt találod]({{fonts}}).",
+    "note": "<:e:{{warning}}> **Megjegyzés:** Ez nem működik, ha a botnál átirányítási beállítás van engedélyezve!\n<:e:{{warning}}> **Megjegyzés:** Kikapcsolhatod a problémát a [bot beállításaiban]({{dashboard}}) a \"Tömörített mód\" engedélyezésével."
+  },
+  "page3": {
+    "title": "## <:e:{{forward}}> Idézet átirányítás",
+    "desc1": "Beállíthatsz egy „Idézet átirányítást” a dashboardon, hogy minden idézet egy csatornába kerüljön a szervereden. Ehhez menj a [bot beállításokhoz]({{dashboard}}), és válaszd ki a célcsatornát."
+  },
+  "page4": {
+    "title": "## <:e:{{user}}> User App",
+    "desc1": "Telepítheted a User Appot, hogy DM-ben is használd a Make it a Quote-ot, [ezen a linken]({{install}}).",
+    "desc2": "### <:e:{{help}}> Hogyan használd a User Appot",
+    "desc3": "DM-ben csak a Kontextus menüt használhatod, ezért kattints jobb gombbal / tarts hosszan az idézni kívánt üzeneten, majd válaszd az „Alkalmazások” -> „Make it a Quote” lehetőséget."
+  },
+  "page5": {
+    "title": "## <:e:{{sandbox}}> Egyedi idézetek",
+    "desc1": "A `/custom_quote` paranccsal hozhatsz létre idézetképet más felhasználó profiljával.",
+    "desc2": "<:e:{{unflag}}> Az egyedi beállítások nem érhetők el a Custom Quote-hoz.",
+    "note": "<:e:{{warning}}> **Megjegyzés:** Neked és annak a felhasználónak, akit idézel, engedélyezve kell legyen a Custom Quote a [bot beállításaiban]({{dashboard}})."
+  },
+  "page6": {
+    "title": "## <:e:{{web}}> Hasznos linkek",
+    "desc1": "A dashboardon testre szabhatod a felhasználói és szerver beállításokat.",
+    "links": {
+      "support": "Support szerver",
+      "home": "Főoldal",
+      "dashboard": "Dashboard",
+      "terms": "Felhasználási feltételek",
+      "privacy": "Adatvédelmi irányelvek"
+    },
+    "desc2": "### Szükségünk van a segítségedre!",
+    "desc3": "Ha tetszik a bot, kérjük, támogass minket!",
+    "donate": "Vegyél nekünk egy kávét"
+  },
+  "buttons": {
+    "prev": "Előző",
+    "next": "Következő",
+    "close": "Bezárás"
+  },
+  "only_executor": "Csak az a felhasználó hajthatja végre, aki ezt a help üzenetet kérte."
+}

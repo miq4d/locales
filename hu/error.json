@@ -1,0 +1,41 @@
+{
+  "error": "Valami hiba történt",
+  "message_fetch": "Nem sikerült lekérni az üzenetet",
+  "message_empty": "Ez az üzenet üres",
+  "message_not_found": "Nem találtam meg azt az üzenetet, amire gondolsz.",
+  "font_invalid": "A(z) `{{font}}` betűtípus nem található",
+  "theme_invalid": "A(z) `{{theme}}` téma nem található",
+  "banned": "Te vagy ez a szerver ki lett tiltva a bot használatából.",
+  "blocked": "A felhasználó letiltotta a kép generálását, vagy te tiltottad le.",
+  "blocked_with_spoiler": "A felhasználó letiltotta a spoileres üzenetből való kép generálást, vagy te tiltottad le.",
+  "remove_not_allowed": "Nincs jogosultságod az üzenet törlésére.",
+  "control_not_allowed": "Nincs engedélyed a kép szerkesztésére.",
+  "bot_permissions": {
+    "guild": "Nincsenek meg a szükséges engedélyeim ezen a szerveren.",
+    "channel": "Nincsenek meg a szükséges engedélyeim a parancsok futtatásához ebben a csatornában.",
+    "required_permissions": "Kérlek, ellenőrizd, hogy a botnak megvannak-e a következő engedélyei: Csatorna megtekintése, Üzenetek küldése, Hivatkozások beágyazása, Fájlok csatolása és Üzenet előzmények olvasása. A </doctor:{{cmd}}> paranccsal ellenőrizheted.",
+    "required_permissions_in_thread": "Kérlek, ellenőrizd, hogy a botnak megvannak-e a következő engedélyei: Csatorna megtekintése, Üzenetek küldése szálakban vagy posztokban, Hivatkozások beágyazása, Fájlok csatolása és Üzenet előzmények olvasása.",
+    "dm": "A botnak nincs engedélye üzenetek küldésére. Engedélyezd ezt a beállításokban.",
+    "user_app": "Nincs meg a szükséges engedélyed a parancs futtatásához ebben a csatornában. Ellenőrizd, hogy neked megvannak-e a következő engedélyek: Külső appok használata, Csatorna megtekintése, Üzenetek küldése, Hivatkozások beágyazása, Fájlok csatolása és Üzenet előzmények olvasása."
+  },
+  "bot_timed_out": "Nem tudtam elküldeni az üzenetet, mert a bot időkorlátozás alá került. Ha van jogosultságod, vedd le az időkorlátot, vagy szólj az adminnak.",
+  "not_bot_admin": "Nem vagy a bot adminisztrátora.",
+  "custom_quote_not_allowed": "A másik felhasználó, vagy te nem engedélyezitek az egyedi idézeteket.",
+  "custom_quote_not_allowed_auto": "Az egyedi idézet automatikusan engedélyezve van, de a szerveren több mint {{limit}} tag van, vagy te/a másik felhasználó kikapcsoltátok.",
+  "cooldown": {
+    "title": "Nyugi ",
+    "desc": "Ezen a szerveren van egy kis idézet-várakozás. Kérlek, várj {{sec}} másodpercet."
+  },
+  "channel_not_found": "Nem találom a csatornát, ahová irányítanék. Szólj az adminnak!",
+  "always_quote_limit": "Csak {{limit}} 'Mindig Idézet' csatorna állítható be.",
+  "you_cant_use": "Neked nincs engedélyezve az idézet funkció. Kérd az admint, hogy engedélyezze neked.",
+  "cant_view": "Nem látom ezt a csatornát. Ellenőrizd a csatorna engedélyeit. Szükségem van a Csatorna megtekintése engedélyre, és ha hang-szöveg csatornát használsz, kell a Csatlakozás engedély is.",
+  "edit_failed": "Nem sikerült szerkeszteni az üzenetet.",
+  "unknown_integration_type": "Ismeretlen integrációtípus. Jelezd a support szerveren.",
+  "userapp_not_allowed": "Nem használhatod a User App Idézetet ebben a csatornában, mert nincs meg a Külső appok használata vagy az Üzenetek küldése engedélyed.",
+  "plus": {
+    "get": "Szerezd be a Make it a Quote+ csomagot",
+    "theme": "A téma funkció csak a(z) {{planname}} csomagban elérhető. {{get}}"
+  },
+  "forwarded_message": "A bot jelenlegi működése miatt a továbbított üzeneteket még nem lehet idézni. Ez a jövőben változhat."
+}

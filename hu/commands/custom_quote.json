@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "description": "Generálj egyedi idézet képet",
+    "options": {
+      "quote_as": {
+        "description": "Idéz mint (alapértelmezet: Te)"
+      }
+    }
+  }
+}

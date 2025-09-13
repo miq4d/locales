@@ -1,0 +1,12 @@
+{
+  "jump_to": "Ugrás az eredeti üzenethez",
+  "jump_to_redirected": "Ugrás az átirányított üzenthez",
+  "removed": "[ {{emoji}} Törölte: **{{username}}** ]",
+  "generating": "{{emoji}} Generálás...",
+  "custom_quote": "Egyedi idézet",
+  "text": "Szöveg",
+  "redirected": "Létrehozta: {{url}}",
+  "server": "Szever",
+  "user": "Felhasználó",
+  "why": "Ez a üzenet mit jelent? Hogy javíthatom?"
+}
