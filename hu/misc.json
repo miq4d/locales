@@ -5,7 +5,7 @@
   "generating": "{{emoji}} Generálás...",
   "custom_quote": "Egyedi idézet",
   "text": "Szöveg",
-  "redirected": "Létrehozta: {{url}}",
+  "redirected": "Átirányítva: {{url}}",
   "server": "Szever",
   "user": "Felhasználó",
   "why": "Ez a üzenet mit jelent? Hogy javíthatom?"
