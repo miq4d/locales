@@ -4,7 +4,7 @@
   "message_empty": "Die Nachricht ist leer",
   "message_not_found": "Ich konnte die Nachricht nicht finden, auf die du Bezug nimmst.",
   "font_invalid": "Schriftart nicht gefunden: `{{font}}`",
-  "theme_invalid": "Theme not found: `{{theme}}`",
+  "theme_invalid": "Thema nicht gefunden: `{{theme}}`",
   "banned": "Du oder dieser Server ist für die Nutzung dieses Bots gesperrt.",
   "blocked": "Der Zielbenutzer hat die Bildgenerierung blockiert. (oder Sie haben die Bilderzeugung blockiert)",
   "blocked_with_spoiler": "Der Zielbenutzer hat die Erzeugung von Bildern aus Nachrichten, die Spoiler enthalten, blockiert. (oder Sie haben die Bilderzeugung blockiert)",
@@ -13,15 +13,15 @@
   "bot_permissions": {
     "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
     "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen.",
-    "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
+    "required_permissions": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten senden\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen\n\nDu kannst </doctor:{{cmd}}> verwenden um Berechtigungen zu prüfen.",
     "required_permissions_in_thread": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten in Threads senden (oder Posts)\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen",
     "dm": "Dem Bot ist es nicht erlaubt, Nachrichten zu senden. Bitte erlaube diesem Bot Nachrichten zu senden in den Berechtigungseinstellungen.",
-    "user_app": "You do not have the required permissions to run commands in this channel. Please check that the following permissions have been granted to **you**:\n- Use External Apps\n- View Channel\n- Send Messages\n- Embed Links\n- Attach Files\n- Read Message History"
+    "user_app": "Sie verfügen nicht über die erforderlichen Berechtigungen, um Befehle in diesem Channel auszuführen. Bitte überprüfe, ob **Du** die folgenden Berechtigungen besitzt:\n- Externe Apps verwenden\n- Kanal anzeigen\n- Nachrichten senden\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen"
   },
   "bot_timed_out": "I am now timed out. If you have specify permissions, please remove the timeout or contact the server administrator to have the timeout removed.",
   "not_bot_admin": "Du bist nicht der Admin dieses Bots.",
   "custom_quote_not_allowed": "Der Zielbenutzer oder die Zielbenutzer haben die Erstellung von benutzerdefinierten Bildern nicht erlaubt.",
-  "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
+  "custom_quote_not_allowed_auto": "Die benutzerdefinierte Zitate Funktion ist automatisch aktiviert, aber der Server hat mehr als {{limit}} Mitglieder, oder der Ziel-Benutzer oder Sie erzwingen, dass benutzerdefinierte Zitate deaktiviert werden.",
   "cooldown": {
     "title": "Beruhigen Sie sich.",
     "desc": "Dieser Server hat eine Abklingzeit für Zitate, bitte warten Sie {{sec}}."
@@ -29,13 +29,13 @@
   "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
   "always_quote_limit": "Es können nur {{limit}} Always Quote Kanäle zugewiesen werden.",
   "you_cant_use": "Du kannst nicht zitiert werden. Bitte frage deinen Server-Administrator, Zitate für dich zu aktivieren.",
-  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
-  "edit_failed": "Failed to edit the message.",
-  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
+  "cant_view": "Ich kann diesen Kanal nicht sehen. Bitte überprüfe die Kanal-Berechtigungen.\n(Ich benötige die Berechtigung \"Kanal anzeigen\". Wenn Sie einen Voice-Text-Kanal verwenden, benötige ich auch die Berechtigung \"Verbinden\").",
+  "edit_failed": "Die Nachricht konnte nicht bearbeitet werden.",
+  "unknown_integration_type": "Unbekannter Integrationstyp. Bitte melden Sie dies auf dem Support-Server.",
+  "userapp_not_allowed": "Sie können User App Quote in diesem Channel nicht verwenden, da Ihnen die Berechtigung \"Externe Apps verwenden\" oder \"Nachrichten senden\" nicht gewährt wird.",
   "plus": {
-    "get": "Get Make it a Quote+",
-    "theme": "Theme feature is only available in {{planname}}. {{get}}"
+    "get": "Erwerben sie Make it a Quote+",
+    "theme": "Die Themenfunktion ist nur unter {{planname}}verfügbar. {{get}}"
   },
-  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
+  "forwarded_message": "Aufgrund von Bot-Spezifikationen können weitergeleitete Nachrichten derzeit nicht zitiert werden. Dies kann sich in Zukunft ändern."
 }

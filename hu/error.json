@@ -18,7 +18,7 @@
     "dm": "A botnak nincs engedélye üzenetek küldésére. Engedélyezd ezt a beállításokban.",
     "user_app": "Nincs meg a szükséges engedélyed a parancs futtatásához ebben a csatornában. Ellenőrizd, hogy neked megvannak-e a következő engedélyek: Külső appok használata, Csatorna megtekintése, Üzenetek küldése, Hivatkozások beágyazása, Fájlok csatolása és Üzenet előzmények olvasása."
   },
-  "bot_timed_out": "Nem tudtam elküldeni az üzenetet, mert a bot időkorlátozás alá került. Ha van jogosultságod, vedd le az időkorlátot, vagy szólj az adminnak.",
+  "bot_timed_out": "Nem tudtam elküldeni az üzenetet, mert a bot időkorlátozás alá került. Ha van jogosultságod, vedd le az időkorlátot vagy szólj az adminnak.",
   "not_bot_admin": "Nem vagy a bot adminisztrátora.",
   "custom_quote_not_allowed": "A másik felhasználó, vagy te nem engedélyezitek az egyedi idézeteket.",
   "custom_quote_not_allowed_auto": "Az egyedi idézet automatikusan engedélyezve van, de a szerveren több mint {{limit}} tag van, vagy te/a másik felhasználó kikapcsoltátok.",

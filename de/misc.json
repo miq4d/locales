@@ -1,12 +1,12 @@
 {
   "jump_to": "Zur ursprünglichen Nachricht springen",
-  "jump_to_redirected": "Jump to redirected message",
+  "jump_to_redirected": "Sprung zur weitergeleiteten Nachricht",
   "removed": "[ {{emoji}} Entfernt von **{{username}}** ]",
   "generating": "{{emoji}} Generierung...",
   "custom_quote": "benutzerdefinierte Zitat",
   "text": "Text",
   "redirected": "Erstellung abgeschlossen: {{url}}",
   "server": "Server",
-  "user": "User",
-  "why": "What does this message mean? How can I fix it?"
+  "user": "Benutzer",
+  "why": "Was bedeutet diese Meldung? Wie kann ich sie beheben?"
 }
