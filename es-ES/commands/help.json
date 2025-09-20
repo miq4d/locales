@@ -6,7 +6,7 @@
   "support_server": "Servidor de asistencia",
   "page1": {
     "title": "## <:e:{{help}}> How to Quote",
-    "desc1": "You can either mention the bot in a reply,",
+    "desc1": "Puedes mencionar el bot en un mensaje",
     "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
     "note": "<:e:{{warning}}> **Note:** Only the right-click method works in DMs!"
   },
