@@ -3,6 +3,8 @@
   "jump_to_redirected": "Ugrás az átirányított üzenthez",
   "removed": "[ {{emoji}} Törölte: **{{username}}** ]",
   "generating": "{{emoji}} Generálás...",
+  "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (GIF disabled in NSFW channels)",
   "custom_quote": "Egyedi idézet",
   "text": "Szöveg",
   "redirected": "Létrehozta: {{url}}",
