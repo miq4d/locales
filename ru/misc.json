@@ -3,6 +3,8 @@
   "jump_to_redirected": "К перенаправленному сообщению",
   "removed": "[ {{emoji}} Удалено **{{username}}** ]",
   "generating": "{{emoji}} создание...",
+  "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (GIF disabled in NSFW channels)",
   "custom_quote": "Пользовательская цитата",
   "text": "Текст",
   "redirected": "Создано: {{url}}",
