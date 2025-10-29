@@ -8,6 +8,13 @@
   "banned": "Du oder dieser Server ist für die Nutzung dieses Bots gesperrt.",
   "blocked": "Der Zielbenutzer hat die Bildgenerierung blockiert. (oder Sie haben die Bilderzeugung blockiert)",
   "blocked_with_spoiler": "Der Zielbenutzer hat die Erzeugung von Bildern aus Nachrichten, die Spoiler enthalten, blockiert. (oder Sie haben die Bilderzeugung blockiert)",
+  "image_quote_nsfw_disabled": "Image quote feature is not available in NSFW channels.",
+  "image_quote_premium_required": "Image quote feature requires a premium subscription or server badge.",
+  "save_quotes_not_available": "Save Quotes is available only to Plus Standard users or servers. {{get}}",
+  "no_saved_quotes_for_user": "No saved quotes were found for {{user}}.",
+  "no_saved_quotes_in_guild": "No saved quotes were found in this server.",
+  "random_quote_invalid_context_user": "You can only specify a user when this command is used in a server.",
+  "quote_download_failed": "Failed to load the saved quote. Please try again later.",
   "remove_not_allowed": "Du bist nicht berechtigt, die Nachricht zu entfernen.",
   "control_not_allowed": "Du bist nicht berechtigt, dieses Bild zu bearbeiten.",
   "bot_permissions": {
@@ -24,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Die benutzerdefinierte Zitate Funktion ist automatisch aktiviert, aber der Server hat mehr als {{limit}} Mitglieder, oder der Ziel-Benutzer oder Sie erzwingen, dass benutzerdefinierte Zitate deaktiviert werden.",
   "cooldown": {
     "title": "Beruhigen Sie sich.",
-    "desc": "Dieser Server hat eine Abklingzeit für Zitate, bitte warten Sie {{sec}}."
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
   },
   "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
   "always_quote_limit": "Es können nur {{limit}} Always Quote Kanäle zugewiesen werden.",
