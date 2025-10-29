@@ -8,6 +8,13 @@
   "banned": "あなたもしくはこのサーバーはこの Bot の使用を禁止されています。",
   "blocked": "相手が生成をブロックしています (もしくは、あなたが生成をブロックしています)",
   "blocked_with_spoiler": "相手がスポイラーが含まれているメッセージからの生成をブロックしています (もしくは、あなたが生成をブロックしています)",
+  "image_quote_nsfw_disabled": "NSFWチャンネルでは画像Quote機能をご利用いただけません。",
+  "image_quote_premium_required": "画像Quote機能をご利用いただくには、プレミアムサブスクリプションまたはサーバーバッジが必要です。",
+  "save_quotes_not_available": "Save Quotes機能を利用するには Plus Standard（ユーザーまたはサーバー）のプランが必要です。{{get}}",
+  "no_saved_quotes_for_user": "{{user}} の保存済みQuoteは見つかりませんでした。",
+  "no_saved_quotes_in_guild": "このサーバーの保存済みQuoteは見つかりませんでした。",
+  "random_quote_invalid_context_user": "ユーザーを指定できるのはサーバー内でコマンドを実行したときだけです。",
+  "quote_download_failed": "保存済みQuoteの読み込みに失敗しました。時間を置いてから再度お試しください。",
   "remove_not_allowed": "あなたにこの画像を削除する権限がありません。",
   "control_not_allowed": "あなたにこの画像を編集する権限がありません。",
   "bot_permissions": {
@@ -24,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Custom Quoteが自動的に有効になっていますが、サーバーのメンバー数が {{limit}} を超えている、または対象ユーザーかあなたがCustom Quoteを強制的に無効にしています。",
   "cooldown": {
     "title": "落ち着いて！",
-    "desc": "このサーバーではクールダウンがあります。あと {{sec}} 待ってください。"
+    "desc": "このサーバーではクールダウンがあります。あと {{sec}} 秒待ってください。"
   },
   "channel_not_found": "リダイレクト先チャンネルが見つかりませんでした。このサーバーの管理者に連絡してください",
   "always_quote_limit": "常にQuoteチャンネルは{{limit}}個までです。",
