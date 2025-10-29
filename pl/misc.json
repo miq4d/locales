@@ -4,7 +4,7 @@
   "removed": "[ {{emoji}} Zostało usunięte przez **{{username}}** ]",
   "generating": "{{emoji}} Generowanie...",
   "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
-  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (GIF disabled in NSFW channels)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (image and GIF disabled in NSFW channels)",
   "custom_quote": "Cytat Własny",
   "text": "Tekst",
   "redirected": "Stworzono: {{url}}",
