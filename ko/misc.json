@@ -4,7 +4,7 @@
   "removed": "[ {{emoji}} **{{username}}**에 의해 삭제됨 ]",
   "generating": "{{emoji}} 생성 중...",
   "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
-  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (GIF disabled in NSFW channels)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (image and GIF disabled in NSFW channels)",
   "custom_quote": "사용자 정의 Quote",
   "text": "텍스트",
   "redirected": "생성 완료: {{url}}",
