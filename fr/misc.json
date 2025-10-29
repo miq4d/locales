@@ -1,14 +1,14 @@
 {
-  "jump_to": "Jump to original message",
-  "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
-  "generating": "{{emoji}} Generating...",
-  "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
-  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (GIF disabled in NSFW channels)",
-  "custom_quote": "Custom Quote",
-  "text": "Text",
-  "redirected": "Created: {{url}}",
-  "server": "Server",
-  "user": "User",
-  "why": "What does this message mean? How can I fix it?"
+  "jump_to": "Aller au message original",
+  "jump_to_redirected": "Aller au message redirigé",
+  "removed": "[ {{emoji}} Supprimé par **{{username}}** ]",
+  "generating": "{{emoji}} Génération en cours...",
+  "generating_gif": "{{emoji}} Génération du GIF... (cela peut prendre plus de temps)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Génération en cours... (GIF désactivé dans les salons NSFW)",
+  "custom_quote": "Citation personnalisée",
+  "text": "Texte",
+  "redirected": "Créé : {{url}}",
+  "server": "Serveur",
+  "user": "Utilisateur",
+  "why": "Que signifie ce message ? Comment puis-je le corriger ?"
 }
