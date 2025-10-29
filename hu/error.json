@@ -8,6 +8,13 @@
   "banned": "Te vagy ez a szerver ki lett tiltva a bot használatából.",
   "blocked": "A felhasználó letiltotta a kép generálását, vagy te tiltottad le.",
   "blocked_with_spoiler": "A felhasználó letiltotta a spoileres üzenetből való kép generálást, vagy te tiltottad le.",
+  "image_quote_nsfw_disabled": "Image quote feature is not available in NSFW channels.",
+  "image_quote_premium_required": "Image quote feature requires a premium subscription or server badge.",
+  "save_quotes_not_available": "Save Quotes is available only to Plus Standard users or servers. {{get}}",
+  "no_saved_quotes_for_user": "No saved quotes were found for {{user}}.",
+  "no_saved_quotes_in_guild": "No saved quotes were found in this server.",
+  "random_quote_invalid_context_user": "You can only specify a user when this command is used in a server.",
+  "quote_download_failed": "Failed to load the saved quote. Please try again later.",
   "remove_not_allowed": "Nincs jogosultságod az üzenet törlésére.",
   "control_not_allowed": "Nincs engedélyed a kép szerkesztésére.",
   "bot_permissions": {
@@ -24,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Az egyedi idézet automatikusan engedélyezve van, de a szerveren több mint {{limit}} tag van, vagy te/a másik felhasználó kikapcsoltátok.",
   "cooldown": {
     "title": "Nyugi ",
-    "desc": "Ezen a szerveren van egy kis idézet-várakozás. Kérlek, várj {{sec}} másodpercet."
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
   },
   "channel_not_found": "Nem találom a csatornát, ahová irányítanék. Szólj az adminnak!",
   "always_quote_limit": "Csak {{limit}} 'Mindig Idézet' csatorna állítható be.",
