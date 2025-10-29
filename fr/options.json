@@ -1,8 +1,8 @@
 {
-  "light": "Makes the background of the image white",
-  "color": "Color the user icon",
-  "flip": "Flip the image",
-  "bold": "Make the text bold",
-  "new": "Use new type image generation",
-  "font": "Change the font to the specified one. [learn more]({{url}})"
+  "light": "Rend le fond de l'image blanc",
+  "color": "Colorer l'icône de l'utilisateur",
+  "flip": "Retourner l'image",
+  "bold": "Mettre le texte en gras",
+  "new": "Utiliser le nouveau type de génération d'image",
+  "font": "Changer la police pour celle spécifiée. [en savoir plus]({{url}})"
 }

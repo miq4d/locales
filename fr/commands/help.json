@@ -1,55 +1,55 @@
 {
   "meta": {
-    "description": "Affiche l'aide du bot"
+    "description": "Afficher l'aide du bot"
   },
   "name": "Aide",
-  "support_server": "Serveur de l'assistance",
+  "support_server": "Serveur de support",
   "page1": {
-    "title": "## <:e:{{help}}> How to Quote",
-    "desc1": "You can either mention the bot in a reply,",
-    "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
-    "note": "<:e:{{warning}}> **Note:** Only the right-click method works in DMs!"
+    "title": "## <:e:{{help}}> Comment citer",
+    "desc1": "Vous pouvez soit mentionner le bot dans une réponse,",
+    "desc2": "Ou faire un clic droit/appui long sur le message et sélectionner \"Applications\" -> \"Make it a Quote\".",
+    "note": "<:e:{{warning}}> **Remarque :** Seule la méthode du clic droit fonctionne en messages privés !"
   },
   "page2": {
-    "title": "## <:e:{{cog}}> Quote Options",
-    "desc1": "You can change the font and various layout options using the buttons below the quote.",
-    "desc2": "You can view the list of available fonts by [clicking here]({{fonts}}).",
-    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
+    "title": "## <:e:{{cog}}> Options de citation",
+    "desc1": "Vous pouvez modifier la police et différentes options de mise en page en utilisant les boutons sous la citation.",
+    "desc2": "Vous pouvez voir la liste des polices disponibles en [cliquant ici]({{fonts}}).",
+    "note": "<:e:{{warning}}> **Remarque :** Cela ne fonctionnera pas si vous avez activé les paramètres de redirection pour le bot !\n<:e:{{warning}}> **Remarque :** Vous pouvez désactiver cela en activant le \"Mode compact\" dans les [paramètres du bot]({{dashboard}})."
   },
   "page3": {
-    "title": "## <:e:{{forward}}> Quote Redirection",
-    "desc1": "You can set up a \"Quote Redirect\" in the dashboard to aggregate everything that is quoted on your server into a single channel. To do so, go to the [bot settings]({{dashboard}}) and select the channel you want to redirect quotes to."
+    "title": "## <:e:{{forward}}> Redirection de citation",
+    "desc1": "Vous pouvez configurer une \"Redirection de citation\" dans le panneau de contrôle pour regrouper toutes les citations de votre serveur dans un seul salon. Pour ce faire, allez dans les [paramètres du bot]({{dashboard}}) et sélectionnez le salon vers lequel vous voulez rediriger les citations."
   },
   "page4": {
-    "title": "## <:e:{{user}}> User App",
-    "desc1": "You can install the User App to use Make it a Quote in DMs, [using this link]({{install}}).",
-    "desc2": "### <:e:{{help}}> How to use the User App",
-    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Make it a Quote\"."
+    "title": "## <:e:{{user}}> Application utilisateur",
+    "desc1": "Vous pouvez installer l'application utilisateur pour utiliser Make it a Quote en messages privés, [via ce lien]({{install}}).",
+    "desc2": "### <:e:{{help}}> Comment utiliser l'application utilisateur",
+    "desc3": "Vous ne pouvez utiliser le menu contextuel qu'en messages privés, donc vous devez faire un clic droit/appui long sur le message que vous souhaitez citer et sélectionner \"Applications\" -> \"Make it a Quote\"."
   },
   "page5": {
-    "title": "## <:e:{{sandbox}}> Custom Quotes",
-    "desc1": "You can use the `/custom_quote` command to create a quote image with someone else's profile.",
-    "desc2": "<:e:{{unflag}}> Customization isn't available for Custom Quotes.",
-    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes enabled in the [bot settings!]({{dashboard}})"
+    "title": "## <:e:{{sandbox}}> Citations personnalisées",
+    "desc1": "Vous pouvez utiliser la commande `/custom_quote` pour créer une image de citation avec le profil d'un autre utilisateur.",
+    "desc2": "<:e:{{unflag}}> La personnalisation n'est pas disponible pour les citations personnalisées.",
+    "note": "<:e:{{warning}}> **Remarque :** Vous et l'utilisateur que vous citez devez avoir autorisé les citations personnalisées dans les [paramètres du bot]({{dashboard}})."
   },
   "page6": {
-    "title": "## <:e:{{web}}> Resources",
-    "desc1": "You can access the dashboard from the URL above. The dashboard allows customization of user and server settings.",
+    "title": "## <:e:{{web}}> Ressources",
+    "desc1": "Vous pouvez accéder au panneau de contrôle depuis l'URL ci-dessus. Le panneau permet de personnaliser les paramètres utilisateur et serveur.",
     "links": {
-      "support": "Support Server",
-      "home": "Top Page",
-      "dashboard": "Dashboard",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "support": "Serveur de support",
+      "home": "Page d'accueil",
+      "dashboard": "Panneau de contrôle",
+      "terms": "Conditions d'utilisation",
+      "privacy": "Politique de confidentialité"
     },
-    "desc2": "### We need your help!",
-    "desc3": "If you enjoy using this bot, please consider supporting us!",
-    "donate": "Buy us a coffee"
+    "desc2": "### Nous avons besoin de votre aide !",
+    "desc3": "Si vous aimez ce bot, pensez à nous soutenir !",
+    "donate": "Faites-nous un don"
   },
   "buttons": {
-    "prev": "Avant",
+    "prev": "Précédent",
     "next": "Suivant",
-    "close": "Ferme"
+    "close": "Fermer"
   },
-  "only_executor": "Only the user who invoked this help message can execute this action."
+  "only_executor": "Seul l'utilisateur ayant déclenché ce message d'aide peut exécuter cette action."
 }
