@@ -33,6 +33,11 @@
   "edit_failed": "Failed to edit the message.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
   "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
+  "save_quotes_not_available": "Save Quotes機能を使うには Plus Standard（ユーザーかサーバー）で契約してもらわなあかんで。{{get}}",
+  "no_saved_quotes_for_user": "{{user}} の保存済みQuoteは見つからんかったわ。",
+  "no_saved_quotes_in_guild": "このサーバーには保存済みQuoteがないみたいやわ。",
+  "random_quote_invalid_context_user": "ユーザーを指定できるんはサーバーでコマンドを実行したときだけやで。",
+  "quote_download_failed": "保存済みQuoteを読み込めへんかったわ。ちょっと時間をおいてからもう一回試してな。",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"

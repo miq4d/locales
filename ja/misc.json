@@ -4,7 +4,7 @@
   "removed": "[ {{emoji}} **{{username}}** により削除済み ]",
   "generating": "{{emoji}} 生成中...",
   "generating_gif": "{{emoji}} GIF生成中... (通常より時間がかかります)",
-  "generating_gif_nsfw_disabled": "{{emoji}} 生成中... (NSFWチャンネルではGIF無効)",
+  "generating_gif_nsfw_disabled": "{{emoji}} 生成中... (NSFWチャンネルでは画像とGIF無効)",
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
   "redirected": "作成完了: {{url}}",
