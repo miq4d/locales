@@ -8,6 +8,13 @@
   "banned": "당신 혹은 이 서버에서 이 Bot의 사용이 금지되었습니다.",
   "blocked": "상대방이 생성을 차단하고 있습니다 (또는 당신이 생성을 차단하고 있습니다)",
   "blocked_with_spoiler": "상대방이 스포일러가 포함된 메시지에서의 생성을 차단하고 있습니다 (또는 당신이 생성을 차단하고 있습니다)",
+  "image_quote_nsfw_disabled": "Image quote feature is not available in NSFW channels.",
+  "image_quote_premium_required": "Image quote feature requires a premium subscription or server badge.",
+  "save_quotes_not_available": "Save Quotes is available only to Plus Standard users or servers. {{get}}",
+  "no_saved_quotes_for_user": "No saved quotes were found for {{user}}.",
+  "no_saved_quotes_in_guild": "No saved quotes were found in this server.",
+  "random_quote_invalid_context_user": "You can only specify a user when this command is used in a server.",
+  "quote_download_failed": "Failed to load the saved quote. Please try again later.",
   "remove_not_allowed": "이 이미지를 삭제할 권한이 없습니다.",
   "control_not_allowed": "이 이미지를 편집할 권한이 없습니다.",
   "bot_permissions": {
@@ -24,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Custom Quote는 자동으로 활성화되었지만, 서버에는 {{limit}}명 이상의 회원이 있거나 대상 사용자 혹은 당신이 Custom Quote를 비활성화하도록 강제하고 있습니다.",
   "cooldown": {
     "title": "진정하세요!",
-    "desc": "This server has Quote-Cooldown. Please wait {{sec}}."
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
   },
   "channel_not_found": "리디렉션할 채널을 찾을 수 없습니다. 서버 관리자에게 문의하세요.",
   "always_quote_limit": "항상 Quote 채널은 최대 {{limit}}개까지입니다.",
