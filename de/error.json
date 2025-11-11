@@ -14,7 +14,7 @@
   "no_saved_quotes_for_user": "Es wurden keine gespeicherten Zitate für {{user}} gefunden.",
   "no_saved_quotes_in_guild": "Es wurden keine gespeicherten Zitate auf diesem Server gefunden.",
   "random_quote_invalid_context_user": "Sie können nur einen Benutzer angeben, wenn dieser Befehl auf einem Server verwendet wird.",
-  "quote_download_failed": "Failed to load the saved quote. Please try again later.",
+  "quote_download_failed": "Das gespeicherte Zitat konnte nicht geladen werden. Bitte versuchen Sie es später noch einmal.",
   "remove_not_allowed": "Du bist nicht berechtigt, die Nachricht zu entfernen.",
   "control_not_allowed": "Du bist nicht berechtigt, dieses Bild zu bearbeiten.",
   "bot_permissions": {
@@ -31,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Die benutzerdefinierte Zitate Funktion ist automatisch aktiviert, aber der Server hat mehr als {{limit}} Mitglieder, oder der Ziel-Benutzer oder Sie erzwingen, dass benutzerdefinierte Zitate deaktiviert werden.",
   "cooldown": {
     "title": "Beruhigen Sie sich.",
-    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
+    "desc": "Dieser Server hat Quote-Cooldown. Bitte warten Sie {{sec}} Sekunde(n)."
   },
   "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
   "always_quote_limit": "Es können nur {{limit}} Always Quote Kanäle zugewiesen werden.",
