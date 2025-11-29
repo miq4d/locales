@@ -8,7 +8,7 @@
   "banned": "Vous ou ce serveur êtes interdit d'utilisation de ce bot.",
   "blocked": "L'utilisateur cible a bloqué la génération d'image. (ou vous avez bloqué la génération d'image)",
   "blocked_with_spoiler": "L'utilisateur cible a bloqué la génération d'image pour les messages contenant des spoilers. (ou vous avez bloqué la génération d'image)",
-  "image_quote_nsfw_disabled": "Image quote feature is not available in NSFW channels.",
+  "image_quote_nsfw_disabled": "La citation d'images n'est pas disponible dans les salons NSFW.",
   "image_quote_premium_required": "Image quote feature requires a premium subscription or server badge.",
   "save_quotes_not_available": "Save Quotes is available only to Plus Standard users or servers. {{get}}",
   "no_saved_quotes_for_user": "No saved quotes were found for {{user}}.",
