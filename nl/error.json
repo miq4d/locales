@@ -8,6 +8,13 @@
   "banned": "Jij of de server is verbannen voor het gebruiken van de bot.",
   "blocked": "Doelgebruiker heeft het genereren van afbeeldingen geblokkeerd. (of jij hebt het genereren van afbeeldingen geblokkeerd)",
   "blocked_with_spoiler": "Doelgebruiker heeft het genereren van afbeeldingen geblokkeerd voor Spoiler-inhoud. (of u hebt het genereren van afbeeldingen geblokkeerd)",
+  "image_quote_nsfw_disabled": "Image quote feature is not available in NSFW channels.",
+  "image_quote_premium_required": "Image quote feature requires a premium subscription or server badge.",
+  "save_quotes_not_available": "Save Quotes is available only to Plus Standard users or servers. {{get}}",
+  "no_saved_quotes_for_user": "No saved quotes were found for {{user}}.",
+  "no_saved_quotes_in_guild": "No saved quotes were found in this server.",
+  "random_quote_invalid_context_user": "You can only specify a user when this command is used in a server.",
+  "quote_download_failed": "Failed to load the saved quote. Please try again later.",
   "remove_not_allowed": "Je bent niet gemachtigd om het bericht te verwijderen.",
   "control_not_allowed": "Je hebt geen toestemming om deze afbeelding te bewerken.",
   "bot_permissions": {
@@ -24,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Calm down.",
-    "desc": "This server has Quote-Cooldown. Please wait {{sec}}."
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
   },
   "channel_not_found": "Het kanaal waarnaar ik doorverwijs kon niet worden gevonden. Neem contact op met de beheerder van deze server.",
   "always_quote_limit": "Only {{limit}} Always Quote channels can be assigned.",

@@ -3,6 +3,8 @@
   "jump_to_redirected": "リダイレクトされたメッセージへ飛んでく",
   "removed": "[ {{emoji}} **{{username}}** が消したっぽいわ ]",
   "generating": "{{emoji}} 画像作ってるで～",
+  "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (image and GIF disabled in NSFW channels)",
   "custom_quote": "カスタム Quote",
   "text": "テキスト",
   "redirected": "作り終わったで〜 {{url}}",

@@ -8,6 +8,13 @@
   "banned": "Du oder dieser Server ist für die Nutzung dieses Bots gesperrt.",
   "blocked": "Der Zielbenutzer hat die Bildgenerierung blockiert. (oder Sie haben die Bilderzeugung blockiert)",
   "blocked_with_spoiler": "Der Zielbenutzer hat die Erzeugung von Bildern aus Nachrichten, die Spoiler enthalten, blockiert. (oder Sie haben die Bilderzeugung blockiert)",
+  "image_quote_nsfw_disabled": "Die Bildzitierfunktion ist in NSFW-Kanälen nicht verfügbar.",
+  "image_quote_premium_required": "Die Bildzitierfunktion erfordert ein Premium-Abonnement oder einen Server-Badge.",
+  "save_quotes_not_available": "Angebote speichern ist nur für Plus Standard-Benutzer oder -Server verfügbar. {{get}}",
+  "no_saved_quotes_for_user": "Es wurden keine gespeicherten Zitate für {{user}} gefunden.",
+  "no_saved_quotes_in_guild": "Es wurden keine gespeicherten Zitate auf diesem Server gefunden.",
+  "random_quote_invalid_context_user": "Sie können nur einen Benutzer angeben, wenn dieser Befehl auf einem Server verwendet wird.",
+  "quote_download_failed": "Das gespeicherte Zitat konnte nicht geladen werden. Bitte versuchen Sie es später noch einmal.",
   "remove_not_allowed": "Du bist nicht berechtigt, die Nachricht zu entfernen.",
   "control_not_allowed": "Du bist nicht berechtigt, dieses Bild zu bearbeiten.",
   "bot_permissions": {
@@ -24,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Die benutzerdefinierte Zitate Funktion ist automatisch aktiviert, aber der Server hat mehr als {{limit}} Mitglieder, oder der Ziel-Benutzer oder Sie erzwingen, dass benutzerdefinierte Zitate deaktiviert werden.",
   "cooldown": {
     "title": "Beruhigen Sie sich.",
-    "desc": "Dieser Server hat eine Abklingzeit für Zitate, bitte warten Sie {{sec}}."
+    "desc": "Dieser Server hat Quote-Cooldown. Bitte warten Sie {{sec}} Sekunde(n)."
   },
   "channel_not_found": "Der Kanal, zu dem Sie umgeleitet werden, konnte nicht gefunden werden. Bitte wenden Sie sich an den Administrator dieses Servers",
   "always_quote_limit": "Es können nur {{limit}} Always Quote Kanäle zugewiesen werden.",

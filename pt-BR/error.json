@@ -8,6 +8,13 @@
   "banned": "Você e/ou esse servidor está banido de usar esse bot.",
   "blocked": "O usuario bloqueou a geração de imagens. (ou você bloqueou a geração de imagens)",
   "blocked_with_spoiler": "O usuário alvo bloqueou a geração de imagens a partir de mensagens que incluem spoilers( ou foi você quem bloqueou)",
+  "image_quote_nsfw_disabled": "Image quote feature is not available in NSFW channels.",
+  "image_quote_premium_required": "Image quote feature requires a premium subscription or server badge.",
+  "save_quotes_not_available": "Save Quotes is available only to Plus Standard users or servers. {{get}}",
+  "no_saved_quotes_for_user": "No saved quotes were found for {{user}}.",
+  "no_saved_quotes_in_guild": "No saved quotes were found in this server.",
+  "random_quote_invalid_context_user": "You can only specify a user when this command is used in a server.",
+  "quote_download_failed": "Failed to load the saved quote. Please try again later.",
   "remove_not_allowed": "Você não tem permissão para remover essa mensagem.",
   "control_not_allowed": "Você não tem permissão para editar essa imagem.",
   "bot_permissions": {
@@ -24,7 +31,7 @@
   "custom_quote_not_allowed_auto": "Custom Quote is automatically enabled, but the server has more than {{limit}} members, or the target user or you are forcing Custom Quote to be disabled.",
   "cooldown": {
     "title": "Se acalme.",
-    "desc": "Esse servidor tem um Tempo de espera para citações, por favor espere {{sec}}."
+    "desc": "This server has Quote-Cooldown. Please wait {{sec}} second(s)."
   },
   "channel_not_found": "O canal para o qual estou redirecionando não pôde ser encontrado. Entre em contato com o administrador desse servidor.",
   "always_quote_limit": "Somente pode ter {{limit}} sempre citados.",

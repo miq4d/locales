@@ -8,6 +8,13 @@
   "banned": "あなたもしくはこのサーバーはこの Bot の使用を禁止されてるで。",
   "blocked": "相手が生成をブロックしてるみたいやわ (それか、あなたが生成をブロックしてるかもしれん)",
   "blocked_with_spoiler": "相手がスポイラーが含まれているメッセージからの生成をブロックしてるみたいやわ (それか、あなたが生成をブロックしてるかもしれん)",
+  "image_quote_nsfw_disabled": "Image quote feature is not available in NSFW channels.",
+  "image_quote_premium_required": "Image quote feature requires a premium subscription or server badge.",
+  "save_quotes_not_available": "Save Quotes機能を使うには Plus Standard（ユーザーかサーバー）で契約してもらわなあかんで。{{get}}",
+  "no_saved_quotes_for_user": "{{user}} の保存済みQuoteは見つからんかったわ。",
+  "no_saved_quotes_in_guild": "このサーバーには保存済みQuoteがないみたいやわ。",
+  "random_quote_invalid_context_user": "ユーザーを指定できるんはサーバーでコマンドを実行したときだけやで。",
+  "quote_download_failed": "保存済みQuoteを読み込めへんかったわ。ちょっと時間をおいてからもう一回試してな。",
   "remove_not_allowed": "あなたにこの画像を削除する権限がないっぽいわ。",
   "control_not_allowed": "あんたにこの画像を編集する権限がないみたいやわ。",
   "bot_permissions": {
@@ -33,11 +40,6 @@
   "edit_failed": "Failed to edit the message.",
   "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
   "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
-  "save_quotes_not_available": "Save Quotes機能を使うには Plus Standard（ユーザーかサーバー）で契約してもらわなあかんで。{{get}}",
-  "no_saved_quotes_for_user": "{{user}} の保存済みQuoteは見つからんかったわ。",
-  "no_saved_quotes_in_guild": "このサーバーには保存済みQuoteがないみたいやわ。",
-  "random_quote_invalid_context_user": "ユーザーを指定できるんはサーバーでコマンドを実行したときだけやで。",
-  "quote_download_failed": "保存済みQuoteを読み込めへんかったわ。ちょっと時間をおいてからもう一回試してな。",
   "plus": {
     "get": "Get Make it a Quote+",
     "theme": "Theme feature is only available in {{planname}}. {{get}}"

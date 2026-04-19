@@ -3,6 +3,8 @@
   "jump_to_redirected": "Jump to redirected message",
   "removed": "[ {{emoji}} Removed by **{{username}}** ]",
   "generating": "{{emoji}} Generating...",
+  "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (image and GIF disabled in NSFW channels)",
   "custom_quote": "Custom Quote",
   "text": "Text",
   "redirected": "Created: {{url}}",

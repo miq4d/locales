@@ -3,6 +3,8 @@
   "jump_to_redirected": "Sprung zur weitergeleiteten Nachricht",
   "removed": "[ {{emoji}} Entfernt von **{{username}}** ]",
   "generating": "{{emoji}} Generierung...",
+  "generating_gif": "{{emoji}} GIF generieren... (dies kann länger dauern)",
+  "generating_gif_nsfw_disabled": "{{emoji}} Generieren... (Bilder und GIF in NSFW-Kanälen deaktiviert)",
   "custom_quote": "benutzerdefinierte Zitat",
   "text": "Text",
   "redirected": "Erstellung abgeschlossen: {{url}}",
