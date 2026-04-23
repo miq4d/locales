@@ -1,55 +1,55 @@
 {
   "meta": {
-    "description": "Show Bot Help"
+    "description": "顯示機器人說明"
   },
-  "name": "Help",
-  "support_server": "Support Server",
+  "name": "說明",
+  "support_server": "支援伺服器",
   "page1": {
-    "title": "## <:e:{{help}}> How to Quote",
-    "desc1": "You can either mention the bot in a reply,",
+    "title": "## <:e:{{help}}> 如何引用訊息",
+    "desc1": "您可以在回覆中提及該機器人、",
     "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
-    "note": "<:e:{{warning}}> **Note:** Only the right-click method works in DMs!"
+    "note": "<:e:{{warning}}> **注意：**只有在 DM 中可以使用右鍵的方法！"
   },
   "page2": {
-    "title": "## <:e:{{cog}}> Quote Options",
-    "desc1": "You can change the font and various layout options using the buttons below the quote.",
-    "desc2": "You can view the list of available fonts by [clicking here]({{fonts}}).",
+    "title": "## <:e:{{cog}}> 引用選項",
+    "desc1": "您可以使用引用下方的按鈕更改字體和各種版面選項。",
+    "desc2": "您可以 [點選此處]({{fonts}}) 檢視可用字體清單。",
     "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
   },
   "page3": {
-    "title": "## <:e:{{forward}}> Quote Redirection",
-    "desc1": "You can set up a \"Quote Redirect\" in the dashboard to aggregate everything that is quoted on your server into a single channel. To do so, go to the [bot settings]({{dashboard}}) and select the channel you want to redirect quotes to."
+    "title": "## <:e:{{forward}}> 引用重新導向",
+    "desc1": "您可以在儀表板中設定「引用重新導向」，將伺服器上的所有引用匯集到單一頻道。要這樣做，請前往 [機器人設定]({{dashboard}}) 並選擇您要將引用重新導向到的頻道。"
   },
   "page4": {
-    "title": "## <:e:{{user}}> User App",
-    "desc1": "You can install the User App to use Make it a Quote in DMs, [using this link]({{install}}).",
-    "desc2": "### <:e:{{help}}> How to use the User App",
+    "title": "## <:e:{{user}}> 使用者應用程式",
+    "desc1": "您可以安裝使用者應用程式，以便在私訊中使用 Make it a Quote，[點擊我安裝使用者應用程式]({{install}})。",
+    "desc2": "### <:e:{{help}}> 如何使用使用者應用程式",
     "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Make it a Quote\"."
   },
   "page5": {
-    "title": "## <:e:{{sandbox}}> Custom Quotes",
-    "desc1": "You can use the `/custom_quote` command to create a quote image with someone else's profile.",
-    "desc2": "<:e:{{unflag}}> Customization isn't available for Custom Quotes.",
+    "title": "## <:e:{{sandbox}}> 自訂引用",
+    "desc1": "您可以使用 `/custom_quote` 指令，以其他人的個人資料來建立引用圖片。",
+    "desc2": "<:e:{{unflag}}> 自訂引用無法使用自訂功能。",
     "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes enabled in the [bot settings!]({{dashboard}})"
   },
   "page6": {
-    "title": "## <:e:{{web}}> Resources",
-    "desc1": "You can access the dashboard from the URL above. The dashboard allows customization of user and server settings.",
+    "title": "## <:e:{{web}}> 資源",
+    "desc1": "您可以從上面的網址進入儀表板。儀表板可自訂使用者和伺服器設定。",
     "links": {
-      "support": "Support Server",
-      "home": "Top Page",
-      "dashboard": "Dashboard",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "support": "支援伺服器",
+      "home": "首頁",
+      "dashboard": "儀表板",
+      "terms": "服務條款",
+      "privacy": "隱私權政策"
     },
-    "desc2": "### We need your help!",
+    "desc2": "### 我們需要你的幫助！",
     "desc3": "If you enjoy using this bot, please consider supporting us!",
-    "donate": "Buy us a coffee"
+    "donate": "請我們喝個咖啡"
   },
   "buttons": {
-    "prev": "Prev",
-    "next": "Next",
-    "close": "Close"
+    "prev": "上一頁",
+    "next": "下一頁",
+    "close": "關閉"
   },
-  "only_executor": "Only the user who invoked this help message can execute this action."
+  "only_executor": "只有調用此幫助訊息的使用者才能執行此動作。"
 }
