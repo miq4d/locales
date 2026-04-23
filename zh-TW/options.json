@@ -1,8 +1,8 @@
 {
-  "light": "Makes the background of the image white",
-  "color": "Color the user icon",
-  "flip": "Flip the image",
-  "bold": "Make the text bold",
-  "new": "Use new type image generation",
-  "font": "Change the font to the specified one. [learn more]({{url}})"
+  "light": "將圖片背景色換成白色",
+  "color": "顯示使用者頭像顏色",
+  "flip": "翻轉圖片",
+  "bold": "將文字粗體化",
+  "new": "使用新模板生成圖片",
+  "font": "將字型變更為指定的字型。[瞭解更多]({{url}})"
 }
