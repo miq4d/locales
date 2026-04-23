@@ -1,9 +1,9 @@
 {
   "meta": {
-    "description": "Generate custom quote image",
+    "description": "產生自訂引用圖片",
     "options": {
       "quote_as": {
-        "description": "Quote as (default: You)"
+        "description": "引用為（預設：您）"
       }
     }
   }
