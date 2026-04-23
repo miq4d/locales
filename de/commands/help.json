@@ -7,14 +7,14 @@
   "page1": {
     "title": "## <:e:{{help}}> Wie man zitiert",
     "desc1": "Sie können den Bot entweder in einer Antwort erwähnen,",
-    "desc2": "Or right-click/long-press on the message and select \"Make it a Quote\".",
+    "desc2": "Oder klicken Sie mit der rechten Maustaste auf die Nachricht und wählen Sie \"Apps\" -> \"Angebot erstellen\".",
     "note": "<:e:{{warning}}> **Hinweis:** Nur die Rechtsklick-Methode funktioniert in Direkt Nachrichten!"
   },
   "page2": {
     "title": "## <:e:{{cog}}> Zitat Optionen",
     "desc1": "Über die Schaltflächen unter dem Zitat können Sie die Schriftart und verschiedene Layout-Optionen ändern.",
     "desc2": "Sie können die Liste der verfügbaren Schriftarten einsehen, indem Sie [hier klicken]({{fonts}}).",
-    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!"
+    "note": "<:e:{{warning}}> **Hinweis:** Dies wird nicht funktionieren, wenn Sie die Einstellungen für Umleitungen für den Bot aktiviert haben!\n<:e:{{warning}}> **Hinweis:** Sie können dies deaktivieren, indem Sie den \"Kompaktmodus\" in den [Bot-Einstellungen] aktivieren ({{dashboard}})."
   },
   "page3": {
     "title": "## <:e:{{forward}}> Zitatumleitung",
@@ -24,13 +24,13 @@
     "title": "## <:e:{{user}}> Benutzer-App",
     "desc1": "Sie können die Benutzer-App hier installieren, [über diesen Link]({{install}} um Make it a Quote in Direkt Nachrichten zu verwenden.",
     "desc2": "### <:e:{{help}}> So verwenden Sie die Benutzer-App",
-    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Make it a Quote\"."
+    "desc3": "Sie können das Kontextmenü nur in Direktnachrichten verwenden, daher müssen Sie mit der rechten Maustaste auf die Nachricht klicken, die Sie zitieren möchten, und dann \"Apps\" -> \"Zitieren\" wählen."
   },
   "page5": {
     "title": "## <:e:{{sandbox}}> Benutzerdefinierte Zitate",
-    "desc1": "Sie können den Befehl `/custom_quote` verwenden, um ein Zitatbild mit dem Profil einer anderen Person zu erstellen.",
+    "desc1": "Sie können den Befehl `/custom_quote` verwenden, um ein Bild mit dem Zitat und dem Profil einer anderen Person zu erstellen.",
     "desc2": "<:e:{{unflag}}> Die Anpassung ist für benutzerdefinierte Zitate nicht verfügbar.",
-    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes enabled in the [bot settings!]({{dashboard}})"
+    "note": "<:e:{{warning}}> **Hinweis:** Sowohl Sie als auch der Benutzer, als der Sie zitieren, müssen in den [Bot-Einstellungen!]({{dashboard}} ) benutzerdefinierte Zitate erlaubt haben."
   },
   "page6": {
     "title": "## <:e:{{web}}> Ressourcen",
@@ -43,7 +43,7 @@
       "privacy": "Datenschutzbestimmungen"
     },
     "desc2": "### Wir brauchen Ihre Hilfe!",
-    "desc3": "If you enjoy using this bot, please consider supporting us!",
+    "desc3": "Wenn Ihnen dieser Bot gefällt, unterstützen Sie uns bitte!",
     "donate": "Kaufen Sie uns einen Kaffee"
   },
   "buttons": {
