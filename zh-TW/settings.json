@@ -1,5 +1,5 @@
 {
-  "title": "Settings",
-  "description": "{{kind}} settings can be changed from the web dashboard button below.",
-  "button": "Open web dashboard"
+  "title": "設定",
+  "description": "{{kind}} 設定可以從下方的網路儀表板按鈕變更。",
+  "button": "開啟網頁儀表板"
 }
