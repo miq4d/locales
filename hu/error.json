@@ -20,6 +20,7 @@
   "bot_permissions": {
     "guild": "Nincsenek meg a szükséges engedélyeim ezen a szerveren.",
     "channel": "Nincsenek meg a szükséges engedélyeim a parancsok futtatásához ebben a csatornában.",
+    "redirect_channel": "I do not have the required permissions in the quote redirect channel.\nPlease run </doctor:{{cmd}}> in {{channel}} to check that channel's permissions.",
     "required_permissions": "Kérlek, ellenőrizd, hogy a botnak megvannak-e a következő engedélyei: Csatorna megtekintése, Üzenetek küldése, Hivatkozások beágyazása, Fájlok csatolása és Üzenet előzmények olvasása. A </doctor:{{cmd}}> paranccsal ellenőrizheted.",
     "required_permissions_in_thread": "Kérlek, ellenőrizd, hogy a botnak megvannak-e a következő engedélyei: Csatorna megtekintése, Üzenetek küldése szálakban vagy posztokban, Hivatkozások beágyazása, Fájlok csatolása és Üzenet előzmények olvasása.",
     "dm": "A botnak nincs engedélye üzenetek küldésére. Engedélyezd ezt a beállításokban.",
