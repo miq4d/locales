@@ -20,6 +20,7 @@
   "bot_permissions": {
     "guild": "このサーバーでこの Bot が必要な権限がないっぽいわ。",
     "channel": "このチャンネルでこの Bot が必要な権限がないっぽいわ。",
+    "redirect_channel": "リダイレクト先チャンネルでこの Bot に必要な権限が足りへんみたいやわ。\n{{channel}} で </doctor:{{cmd}}> を実行して、そのチャンネルの権限を確認してな。",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "この Bot に以下の権限が与えられているか確認してな:\n- チャンネルを見る\n- 投稿で(スレッドで)メッセージを送信\n- 埋め込みリンク\n- ファイルを添付\n- メッセージ履歴を読む",
     "dm": "Bot にメッセージの送信が許可されてへんみたいや。権限設定でメッセージの送信を許可してくれへん？",
