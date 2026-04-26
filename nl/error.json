@@ -20,6 +20,7 @@
   "bot_permissions": {
     "guild": "Ik heb niet de vereiste machtigingen op deze server.",
     "channel": "Ik heb niet de vereiste machtigingen om commando's in dit kanaal uit te voeren.",
+    "redirect_channel": "I do not have the required permissions in the quote redirect channel.\nPlease run </doctor:{{cmd}}> in {{channel}} to check that channel's permissions.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Controleer of de volgende machtigingen zijn toegekend aan deze bot:\n- Kanaal bekijken\n- Berichten versturen in Thread (of posts)\n- Links insluiten\n- Bestanden bijvoegen\n- Berichtgeschiedenis lezen",
     "dm": "De bot mag geen berichten verzenden. Sta deze bot toe om berichten te versturen in de toestemmingsinstellingen.",
