@@ -20,6 +20,7 @@
   "bot_permissions": {
     "guild": "Я не маю необхідних дозволів на цьому сервері.",
     "channel": "Я не маю необхідних дозволів для запуску команд у цьому каналі.",
+    "redirect_channel": "I do not have the required permissions in the quote redirect channel.\nPlease run </doctor:{{cmd}}> in {{channel}} to check that channel's permissions.",
     "required_permissions": "Please check that the following permissions have been granted to this bot:\n- View Channel\n- Send Messages\n- Embed links\n- Attach Files\n- Read Message History\n\nYou can run </doctor:{{cmd}}> to check the permissions.",
     "required_permissions_in_thread": "Будь ласка, перевірте, чи надані наступні дозволи цьому боту:\n- Дивитися канали\n- Відправляти повідомлення у гілках та публікаціях\n- Вставляти посилання\n- Прикріпляти файлів\n- Читати історію повідомлень",
     "dm": "Боту не дозволено надсилати повідомлення. Будь ласка, дозвольте цьому боту надсилати повідомлення в налаштуваннях дозволів.",
