@@ -1,8 +1,8 @@
 {
-  "hide": "Make a one-time donation to hide this ad.",
-  "promo_text_1": "This bot relies solely on donations to keep running.\n[Why not become a donator? We accept donations as low as $1!]({{support}})",
-  "promo_text_2": "Unlock a world of colors and fonts with our Premium membership! 🌈✨ Customize your chat like never before!\n[Learn more here.]({{support}})",
-  "promo_text_3": "Premium members get the VIP treatment! 🌟 Change text styles and backgrounds to express yourself in the cutest way possible!\n[Learn more here.]({{support}})",
-  "promo_text_4": "Premium features are like magic for your quotes! ✨🪄 Show your uniqueness with custom fonts and colors!\n[Learn more here.]({{support}})",
-  "promo_text_5": "Join the Premium club and make your friends 'jelly' with your custom quote images!\n[Learn more here.]({{support}})"
+  "hide": "訂閱 Plus 隱藏此訊息。",
+  "promo_text_1": "這個機器人完全依靠付費計劃來維持運行。\n[為何不成為 Plus 會員呢？最便宜的方案只要每個月 3 美元！]({{plus}})",
+  "promo_text_2": "使用我們的 Plus 會員身份，解鎖顏色和字體的世界！以前所未有的方式自訂您的聊天內容！\n[在此瞭解更多資訊。]({{plus}})",
+  "promo_text_3": "Plus 會員享有 VIP 待遇！更改文字樣式和背景，以最可愛的方式展現自己！\n[閱讀更多]({{plus}})",
+  "promo_text_4": "Plus 功能就像為您的引用施了魔法！使用自訂字型和顏色展現您的獨特性！\n[在此瞭解更多]({{plus}})",
+  "promo_text_5": "加入會員俱樂部，用您的自訂引用圖片讓您的朋友羨慕死吧！\n[在此瞭解更多資訊。]({{plus}})"
 }

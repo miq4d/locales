@@ -1,14 +1,14 @@
 {
-  "jump_to": "Jump to original message",
-  "jump_to_redirected": "Jump to redirected message",
-  "removed": "[ {{emoji}} Removed by **{{username}}** ]",
-  "generating": "{{emoji}} Generating...",
-  "generating_gif": "{{emoji}} Generating GIF... (this may take longer)",
-  "generating_gif_nsfw_disabled": "{{emoji}} Generating... (image and GIF disabled in NSFW channels)",
-  "custom_quote": "Custom Quote",
-  "text": "Text",
-  "redirected": "Created: {{url}}",
-  "server": "Server",
-  "user": "User",
-  "why": "What does this message mean? How can I fix it?"
+  "jump_to": "跳轉至原始訊息",
+  "jump_to_redirected": "跳轉至重新導向的訊息",
+  "removed": "【{{emoji}} 由 **{{username}}** 移除】",
+  "generating": "{{emoji}} 生成中……",
+  "generating_gif": "{{emoji}} 生成 GIF 中……（這可能需要較長時間）",
+  "generating_gif_nsfw_disabled": "{{emoji}} 生成中……（在 NSFW 頻道中禁用圖片和 GIF）",
+  "custom_quote": "自訂引用",
+  "text": "文字",
+  "redirected": "已建立：{{url}}",
+  "server": "伺服器",
+  "user": "使用者",
+  "why": "此訊息是什麼意思？我該如何修復？"
 }

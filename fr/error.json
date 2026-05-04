@@ -20,6 +20,7 @@
   "bot_permissions": {
     "guild": "Je n'ai pas les permissions nécessaires dans ce serveur.",
     "channel": "Je n'ai pas les permissions nécessaires pour exécuter des commandes dans ce salon.",
+    "redirect_channel": "I do not have the required permissions in the quote redirect channel.\nPlease run </doctor:{{cmd}}> in {{channel}} to check that channel's permissions.",
     "required_permissions": "Veuillez vérifier que les permissions suivantes ont été accordées à ce bot :\n- Voir le salon\n- Envoyer des messages\n- Intégrer des liens\n- Joindre des fichiers\n- Lire l'historique des messages\n\nVous pouvez exécuter </doctor:{{cmd}}> pour vérifier les permissions.",
     "required_permissions_in_thread": "Veuillez vérifier que les permissions suivantes ont été accordées à ce bot :\n- Voir le salon\n- Envoyer des messages dans les fils (ou publications)\n- Intégrer des liens\n- Joindre des fichiers\n- Lire l'historique des messages",
     "dm": "Le bot n'est pas autorisé à envoyer des messages. Veuillez lui permettre d'envoyer des messages dans les paramètres de permission.",

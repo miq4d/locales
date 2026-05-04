@@ -20,6 +20,7 @@
   "bot_permissions": {
     "guild": "Ich habe nicht die erforderlichen Berechtigungen auf diesem Server.",
     "channel": "Ich habe nicht die erforderlichen Berechtigungen, um Befehle in diesem Kanal auszuführen.",
+    "redirect_channel": "I do not have the required permissions in the quote redirect channel.\nPlease run </doctor:{{cmd}}> in {{channel}} to check that channel's permissions.",
     "required_permissions": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten senden\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen\n\nDu kannst </doctor:{{cmd}}> verwenden um Berechtigungen zu prüfen.",
     "required_permissions_in_thread": "Bitte überprüfe, ob diesem Bot folgende Berechtigungen gewährt wurden:\n- Kanal anzeigen\n- Nachrichten in Threads senden (oder Posts)\n- Links einbetten\n- Dateien anhängen\n- Nachrichtenverlauf lesen",
     "dm": "Dem Bot ist es nicht erlaubt, Nachrichten zu senden. Bitte erlaube diesem Bot Nachrichten zu senden in den Berechtigungseinstellungen.",

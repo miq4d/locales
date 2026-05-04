@@ -1,8 +1,8 @@
 {
-  "view_channel": "View Channel",
-  "send_messages": "Send Messages",
-  "send_messages_in_threads": "Send Messages in Threads",
-  "embed_links": "Embed Links",
-  "attach_files": "Attach Files",
-  "read_message_history": "Read Message History"
+  "view_channel": "檢視頻道",
+  "send_messages": "傳送訊息",
+  "send_messages_in_threads": "在討論串和貼文中傳送訊息",
+  "embed_links": "嵌入連結",
+  "attach_files": "附加檔案",
+  "read_message_history": "讀取訊息歷史"
 }
