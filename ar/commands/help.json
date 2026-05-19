@@ -29,27 +29,27 @@
   "page5": {
     "title": "## <:e:{{sandbox}}> اقتباسات مخصصة",
     "desc1": "يمكنك استخدام أمر `/custom_quote` لعمل صورة اقتباس بحساب شخص اخر.",
-    "desc2": "<:e:{{unflag}}> Customization isn't available for Custom Quotes.",
-    "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes allowed in the [bot settings!]({{dashboard}})"
+    "desc2": "<:e:{{unflag}}> التخصيص غير متوفر للاقتباسات المخصصة.",
+    "note": "<:e:{{warning}}> **ملاحظة:** يجب عليك أنت والمستخدم الذي تريد أن تقتبس منة  تفعيل الاقتباس المخصص في [إعدادات البوت]({{dashboard}})"
   },
   "page6": {
-    "title": "## <:e:{{web}}> Resources",
-    "desc1": "You can access the dashboard from the URL above. The dashboard allows customization of user and server settings.",
+    "title": "# <:e:{{web}}> موارد",
+    "desc1": "يمكنك الوصول إلى لوحة التحكم من خلال الرابط أعلاه. تتيح لك لوحة التحكم تخصيص إعدادات المستخدم والسيرفر.",
     "links": {
-      "support": "Support Server",
-      "home": "Top Page",
-      "dashboard": "Dashboard",
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy"
+      "support": "سيرفر الدعم",
+      "home": "الصفحة الرئيسية",
+      "dashboard": "لوحة التحكم",
+      "terms": "شروط الخدمة",
+      "privacy": "سياسة الخصوصية"
     },
-    "desc2": "### We need your help!",
-    "desc3": "If you enjoyed this bot, please consider supporting us!",
-    "donate": "Buy us a coffee"
+    "desc2": "### نحن بحاجة إلى مساعدتكم!",
+    "desc3": "إذا أعجبك هذا البوت، فا من فضلك لا تتردد في دعمنا!",
+    "donate": "اشترِ لنا قهوة"
   },
   "buttons": {
-    "prev": "Prev",
-    "next": "Next",
-    "close": "Close"
+    "prev": "السابق",
+    "next": "التالي ",
+    "close": "اغلق"
   },
-  "only_executor": "Only the user who invoked this help message can execute this action."
+  "only_executor": "لا يمكن تنفيذ هذا الإجراء إلا من قبل المستخدم الذي استدعى رسالة المساعدة هذه."
 }
