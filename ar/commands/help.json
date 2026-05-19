@@ -6,29 +6,29 @@
   "support_server": "سيرفر الدعم",
   "page1": {
     "title": "<:e:{{help}}> كيف اعمل اقتباس",
-    "desc1": "You can either mention the bot in a reply,",
-    "desc2": "Or right-click/long-press on the message and select \"Apps\" -> \"Make it a Quote\".",
-    "note": "<:e:{{warning}}> **Note:** Only the right-click method works in DMs!"
+    "desc1": "يمكنك إما أن تمنشن البوت في ردك،",
+    "desc2": "أو أضغط كليك يمين / النقر مطولاً علي الرسالة واختار \"Apps\" -> \"Make it a Quote\"",
+    "note": "<:e:{{warning}}> **ملحوظة** فقط طريقة كليك يمين / الضغط مطولاً علي الرسالة يعمل في الخاص!"
   },
   "page2": {
-    "title": "## <:e:{{cog}}> Quote Options",
-    "desc1": "You can change the font and various layout options using the buttons below the quote.",
-    "desc2": "You can view the list of available fonts by [clicking here]({{fonts}}).",
-    "note": "<:e:{{warning}}> **Note:** This will not work if you have enabled redirect settings for the bot!\n<:e:{{warning}}> **Note:** You can disable this by enabling \"Compact mode\" in the [bot settings]({{dashboard}})."
+    "title": "## <:e:{{cog}}> إعدادات الاقتباس",
+    "desc1": "يمكنك تغيير الخط و تَخطِيط الاقتباس باستخدام الأزرار أسفل الاقتباس.",
+    "desc2": "يمكنك عرض جميع الخطوط المتوفرة عن طريق [الضغط هنا]({{fonts}}).",
+    "note": "<:e:{{warning}}> **ملاحظة:** لن ينجح هذا إذا قمت بتفعيل إعدادات إعادة التوجيه للبوت!\n<:e:{{warning}}> **ملاحظة:** لايمكنك تعطيله عن طريق تفعيل \"الوضع المضغوط\" في [إعدادات البوت]({{dashboard}})."
   },
   "page3": {
-    "title": "## <:e:{{forward}}> Quote Redirection",
-    "desc1": "You can set up a \"Quote Redirect\" in the dashboard to aggregate everything that is quoted on your server into a single channel. To do so, go to the [bot settings]({{dashboard}}) and select the channel you want to redirect quotes to."
+    "title": "## <:e:{{forward}}> إعادة توجية الاقتباس",
+    "desc1": "يمكنك تفعيل \"إعادة توجية الاقتباسات\" في لوحة التحكم حتي تجمع جميع الاقتباسات الخاصة بسيرفرك في شانل واحدة. ولعمل ذالك، اذهب الى [إعدادات البوت]({{dashboard}}) واختار الشانل الذي تريد اي يعاد توجية كل الاقتباسات إليه."
   },
   "page4": {
-    "title": "## <:e:{{user}}> User App",
-    "desc1": "You can install the User App to use Make it a Quote in DMs, [using this link]({{install}}).",
-    "desc2": "### <:e:{{help}}> How to use the User App",
-    "desc3": "You can only use the Context Menu in DMs, so you need to right-click/long-press on the message you want to quote and select \"Apps\" -> \"Make it a Quote\"."
+    "title": "## <:e:{{user}}> تطبيق المستخدم",
+    "desc1": "يمكنك تثبيت تطبيق المستخدم حتي تستطيع عمل اقتباسات في الرسائل الخاصة عن طريق [هذا الرابط]({{install}}).",
+    "desc2": "### <:e:{{help}}> كيف تستخدم تطبيق المستخدم",
+    "desc3": "لا يمكنك استخدام قائمة السياق إلا في الرسائل الخاصة، لذا عليك النقر بزر الماوس الأيمن/الضغط مطولاً على الرسالة التي تريد اقتباسها واختيار \"Apps\" -> \"Make it a Quote\"."
   },
   "page5": {
-    "title": "## <:e:{{sandbox}}> Custom Quotes",
-    "desc1": "You can use the `/custom_quote` command to create a quote image with someone else's profile.",
+    "title": "## <:e:{{sandbox}}> اقتباسات مخصصة",
+    "desc1": "يمكنك استخدام أمر `/custom_quote` لعمل صورة اقتباس بحساب شخص اخر.",
     "desc2": "<:e:{{unflag}}> Customization isn't available for Custom Quotes.",
     "note": "<:e:{{warning}}> **Note:** Both you and the user you are quoting as must have Custom Quotes allowed in the [bot settings!]({{dashboard}})"
   },
