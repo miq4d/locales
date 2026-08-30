@@ -37,13 +37,13 @@
   "channel_not_found": "無法找到重新導向的頻道。請聯絡此伺服器的管理員。",
   "always_quote_limit": "只能指定 {{limit}} 個頻道開啟一律引用。",
   "you_cant_use": "您無法引用。請詢問伺服器管理員為您啟用引用功能。",
-  "cant_view": "I can't view this channel. Please check the channel permissions.\n(I need the “View Channel” permission. If you are using a Voice-Text channel, I also need the “Connect” permission.)",
-  "edit_failed": "Failed to edit the message.",
-  "unknown_integration_type": "Unknown integration type. Please report this in the support server.",
-  "userapp_not_allowed": "You can't use User App Quote in this channel because the “Use External Apps” or ”Send Messages” permission is not granted to you.",
+  "cant_view": "我無法檢視此頻道。請檢查頻道權限。\n(我需要「檢視頻道」權限。如果您使用的是語音文字頻道，我還需要「連線」權限。)",
+  "edit_failed": "無法編輯此訊息。",
+  "unknown_integration_type": "未知的整合功能類型。請在支援伺服器回報此問題。",
+  "userapp_not_allowed": "您無法在此頻道中使用使用者應用程式引用，因為您未獲授予「使用外部應用程式」或「傳送訊息」的權限。",
   "plus": {
     "get": "獲取 Make it a Quote+",
     "theme": "主題功能僅限 {{planname}} 使用。 {{get}}"
   },
-  "forwarded_message": "Due to bot specifications, forwarded messages cannot currently be quoted. This may change in the future."
+  "forwarded_message": "由於機器人限制，目前無法引用轉發訊息。此情況可能在未來改變。"
 }
